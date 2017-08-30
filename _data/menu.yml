@@ -1,15 +1,14 @@
-- text: About
-  url: /about/
 - text: Services
   url: /services/
-  subitems:
-    - text: Service Item 1
-      url: /#/
-    - text: Service Item 2
-      url: /#/
-    - text: Service Item 3
-      url: /#/
-- text: Blog
-  url: /blog/
+- text: Car Inventory  
+  url: /car-inventory/
+- text: Parts Inventory
+  url: /parts-inventory/
+- text: Reviews
+  url: /reviews/
+- text: About
+  url: /about/
+- text: Schedule Repair
+  url: /schedule-repair/
 - text: Contact
   url: /contact/
