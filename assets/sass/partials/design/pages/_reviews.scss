@@ -1,0 +1,14 @@
+.button--reviews {
+    display: flex;
+    justify-content: center;
+    .button--review {
+        margin: 0 2rem;
+    }
+}
+.romw {
+    padding: 2em;
+    margin: 0;
+    &:nth-child(odd) {
+        background: #efefef;
+    }
+}

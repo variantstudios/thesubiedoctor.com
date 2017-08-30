@@ -560,6 +560,26 @@ ul.pager li a:visited {
   width: 50%;
 }
 
+.button--reviews {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.button--reviews .button--review {
+  margin: 0 2rem;
+}
+
+.romw {
+  padding: 2em;
+  margin: 0;
+}
+.romw:nth-child(odd) {
+  background: #efefef;
+}
+
 header .logo {
   text-align: center;
 }

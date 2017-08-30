@@ -47,10 +47,10 @@ defaults:
       layout: styleguide-block
 
 # Cloudinary URL - something like: https://res.cloudinary.com/domain-com/
-cloudinaryurl: ""
+cloudinaryurl: "https://res.cloudinary.com/thesubiedoctor/"
 
 # typekit - Because we all need nice type faces. --- afz7owd
-typekit: ""
+typekit: "afz7owd"
 
 # Google Analytics - What site isn't using it?! --- UA-97408360-1
 google_analytics_tracking_id: ""
