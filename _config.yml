@@ -1,7 +1,7 @@
 # Site settings
-title: "Jekyll Base"
+title: "The Subie Doctor"
 email: "team@variantstudios.com"
-description: "Our base repo for jekyll-based sites that use CloudCannon"
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
 url: "" # the base hostname & protocol for your site - don't include the forward slash
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
@@ -9,8 +9,6 @@ version: "3.2.1" # the version of jekyll
 
 #CloudCannon defaults
 uploads_dir: "assets/images"
-
-
 
 # Gems for plugins
 gems:
@@ -22,7 +20,7 @@ permalink: pretty
 
 # Pagination V2 Settings: https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
-  enabled: true
+  enabled: false
   per_page: 2
   permalink: '/:num/'
   title: ':title - page :num'
@@ -36,32 +34,12 @@ pagination:
 
 #Collections
 collections:
-  posts:
-    output: true
-    permalink: '/blog/:title/'
   people:
     output: false
-  categories:
-    output: true
-    permalink: '/blog/:title/'
-  tags:
-    output: true
-    permalink: '/blog/:title/'
   sg:
     output: false
 
 defaults:
-  -
-    scope:
-      type: posts
-    values:
-      layout: post
-      title:
-      image_path:
-      description:
-      author:
-      category:
-      tags:
   -
     scope:
       type: sg
