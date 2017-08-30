@@ -49,10 +49,10 @@ defaults:
 # Cloudinary URL - something like: https://res.cloudinary.com/domain-com/
 cloudinaryurl: ""
 
-# typekit - Because we all need nice type faces.
+# typekit - Because we all need nice type faces. --- afz7owd
 typekit: ""
 
-# Google Analytics - What site isn't using it?!
+# Google Analytics - What site isn't using it?! --- UA-97408360-1
 google_analytics_tracking_id: ""
 
 exclude: ["readme.md", "vendor","node_modules","package.json", "package-lock.json","Gemfile","gulpfile.js","*.scss"]
