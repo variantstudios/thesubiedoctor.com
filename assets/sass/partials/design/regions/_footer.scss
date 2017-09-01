@@ -1,3 +1,25 @@
 .footer-wrapper {
-  //background: $footer-bg;
+  background: $footer-bg;
+  padding: 1rem;
+  text-align: center;
+  .social-links {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  li {
+    display: inline-block;
+    padding: 0 .5rem;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  p {
+    display: inline-block;
+    margin: 0;
+    padding: 0 .5rem;
+    &.site-by {
+      font-weight: 300;
+    }
+  }
 }

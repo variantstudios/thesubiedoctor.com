@@ -6,6 +6,7 @@ title: Lists
 
 1. Ordered list item
 2. Ordered list item
+    * Order list sub item
 3. Ordered list item
 
 #### Unordered Lists

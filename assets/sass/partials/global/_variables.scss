@@ -6,8 +6,8 @@ $rem: 16px;
 
 // Colors
 // Sites Main Colors
-$color-one: #4DA4F1; // Blue
-$color-two: #F85655; // Orange
+$color-one: #C42227; // Subie Red
+$color-two: #0360AB; // Subie Blue
 $color-three: #858585; // Grey
 
 // Regions - Use Site Main Colors variables for these if they fit
@@ -15,7 +15,7 @@ $nav-bg: $color-three;
 $site-bg: #fff;
 $header-bg: #fff;
 $main-bg: #fff;
-$footer-bg: #272727;
+$footer-bg: #fff;
 
 //nav
 $nav-border: #CFCFCF;
@@ -23,7 +23,7 @@ $nav-border: #CFCFCF;
 $body-copy-color: #3D3D3D;
 $heading-color: #272727;
 
-$link           : #4DA4F1;
+$link           : $color-one;
 $visited        : darken($link, 10%);
 $hover          : lighten($link, 10%);
 
@@ -49,13 +49,13 @@ $sidebar_first_columns  : 3;
 $sidebar_second_columns : 3;
 
 //Layout Variables
-$container_width: 1200px;
+$container_width: 1500px;
 $bp-xsmall: 400px;
 $bp-small: 600px;
 $bp-small-down: 0 $bp-small;
 $bp-medium: 800px;
 $bp-medium-down: 0 $bp-medium;
-$bp-large: 1000px;
+$bp-large: 1200px;
 $bp-xlarge: $container_width;
 
 $no-query: $bp-medium, 'no-query' '.no-mq';

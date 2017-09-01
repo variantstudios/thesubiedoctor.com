@@ -1,0 +1,11 @@
+header .nav-section {
+  .top-nav {
+    margin-bottom: 1rem;
+    @include breakpoint($bp-large, $no-query: ".no-mq") {
+      margin-bottom: 0;
+    }
+    div {
+        display: inline-block;
+    }
+  }
+}
