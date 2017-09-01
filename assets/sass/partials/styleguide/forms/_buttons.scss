@@ -3,7 +3,6 @@ input[type="submit"] {
     text-decoration: none;
     text-align: center;
     @include btn($color-one, #fff, darken($color-one, 10%), 2px, 95%);
-    font-family: $heading-font-family;
     @include trans(all, linear, .2s);
 		cursor: pointer;
     width: 100%;
@@ -25,7 +24,6 @@ input[type="submit"] {
     text-decoration: none;
     text-align: center;
     @include btn($color-one, #fff, darken($color-one, 10%), 2px, 95%);
-    font-family: $heading-font-family;
     @include trans(all, linear, .2s);
     &:hover {
       background: darken($color-one, 10%);

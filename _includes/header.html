@@ -1,8 +1,20 @@
 <header itemscope class="wrap clearfix">
+  <!-- Logo Section -->
   <div class="site-name logo">
-    <a href="/"><img src="/assets/images/logo.svg" alt="{{site.title}}"></a>
+    <a href="/"><img src="/assets/images/subie-logo.svg" alt="{{site.title}}"></a>
   </div>
-  <nav class="main-nav">
-    {% include nav.html nav=site.data.menu %}
-  </nav>
+  <!-- Navigation Section / Top and Main -->
+  <div class="nav-section">
+    <div class="top-nav">
+        <div class="hours">
+          <div class="open-close"></div>
+          <span class="hours-today"></span>
+      </div>
+      <div class="phone">720-222-5022</div>
+    </div>
+      <nav class="main-nav">
+        {% include nav.html nav=site.data.menu %}
+      </nav>
+  </div>
+
 </header>

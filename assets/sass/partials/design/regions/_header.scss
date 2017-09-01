@@ -1,16 +1,42 @@
+header {
+  text-align: center;
+}
 header .logo {
   text-align: center;
-  @include breakpoint($bp-medium, $no-query: ".no-mq") {
-    @include grid-span(4,1,$gutter:0);
+  @include breakpoint($bp-large, $no-query: ".no-mq") {
+    @include grid-span(3,1,$gutter:0);
   }
 }
-header .main-nav {
-  @include breakpoint($bp-medium, $no-query: ".no-mq") {
-    @include grid-span(8,5);
+header .nav-section {
+  @include breakpoint($bp-large, $no-query: ".no-mq") {
+    @include grid-span(9,4);
+    text-align: right;
   }
 }
 
 .header-wrapper  {
   padding: 1em 0;
   background: $header-bg;
+}
+
+.hours {
+  margin-right: 1rem;
+
+}
+.open-close {
+  border-radius: 3px;
+  margin-right: .75rem;  
+  &.closed {
+    background: $error;
+  }
+  &.open {
+    background: $valid;
+  }
+  span {
+    display: inline-block;
+    padding: .25rem .85rem;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 700;
+  }
 }
