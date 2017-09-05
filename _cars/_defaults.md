@@ -3,9 +3,10 @@ layout: cars
 title:
 make:
 model:
+car_category:
 year:
 price:
-status:
+inventory_status:
 photos:
 - title:
 - image_path:
