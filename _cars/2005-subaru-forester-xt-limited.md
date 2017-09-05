@@ -1,13 +1,15 @@
 ---
-layout: cars
+layout: default
 title: 2005 Subaru Forester XT Limited
-make:
-model:
-year:
-price:
+make: Subaru
+model: Forester XT Limited
+year: '2005'
+price: $6950
 status:
 photos:
   - title:
   - image_path:
-post_date:
+post_date: 2017-09-05 00:00:00
 ---
+
+
