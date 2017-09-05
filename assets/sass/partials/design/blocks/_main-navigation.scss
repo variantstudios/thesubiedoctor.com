@@ -1,18 +1,20 @@
-.menu {
+.menus {
   padding: 0;
   margin: 0;
-  font-size: 1.15rem;
   visibility: hidden;
   opacity: 0;
   height: 0;
   clear: both;
+  @include breakpoint($bp-medium, $no-query: '.no-mq') {
+    font-size: 1.15rem;
+  }
  // transition: all .5s linear;
-  &.show {
+  &.show  {
     visibility: visible;
     opacity: 1;
     height: auto;
     transition: all .5s linear;
-    li {
+    .menu li {
       opacity: 1;
       margin-top: 0;
       transition: all .75s linear;
@@ -23,6 +25,10 @@
   li {
 
   }
+  .menu {
+    padding: 0;
+    margin: 0;
+  }
   @include breakpoint($bp-medium, $no-query: '.no-mq') {
     text-align: center;
     visibility: visible;
@@ -32,7 +38,7 @@
   @include breakpoint($bp-large, $no-query: '.no-mq') {
      text-align: right;
   }
-    li {
+  .menu  li {
       list-style: none;
       margin: 0;
       display: block;
@@ -44,9 +50,10 @@
       transition: all .75s linear;
       @include breakpoint($bp-medium, $no-query: '.no-mq') {
         display: inline-block;
-        padding: .75rem .85rem;
+        padding: 0rem .85rem .7rem;
         transition: none;
         opacity: 1;
+        margin: 0;
       }
       a {
         font-weight: 700;
@@ -70,9 +77,9 @@
 }
 
 .menu-btn {
-  float: right;
   cursor: pointer;
   font-weight: 700;
+  margin: 0 0 1em;
   @include breakpoint($bp-medium, $no-query: '.no-mq') {
     display: none;
   }

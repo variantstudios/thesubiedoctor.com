@@ -5,9 +5,11 @@ $(document).ready(function() {
   } else {
     $('html').addClass('no-mq');
   }
+
+
   // Mobile Menu Funcation
   $(".menu-btn").on('click touch', function() {
-    $('.menu').toggleClass('show');
+    $('.menus').toggleClass('show');
   });
 
   $(".hours-list-expand").on('click touch', function() {

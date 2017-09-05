@@ -1,4 +1,4 @@
-input[type="text"], input[type="email"], input[type="name"], input[type="password"], input[type="file"] {
+input[type="text"], input[type="email"], input[type="name"], input[type="password"], input[type="file"], input[type="date"] {
   box-sizing: border-box;
   padding:1rem;
   font-size: 100%;
@@ -14,6 +14,11 @@ input[type="text"], input[type="email"], input[type="name"], input[type="passwor
   }
 }
 
+input[type="date"] {
+  @include breakpoint($bp-medium, $no-query: '.no-mq') {
+    width: auto;
+}
+}
 input:focus::-webkit-input-placeholder {
   opacity: 0;
 }

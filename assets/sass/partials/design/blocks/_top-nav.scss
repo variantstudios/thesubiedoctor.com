@@ -1,8 +1,8 @@
 header .nav-section {
   .top-nav {
     margin-bottom: 1rem;
-    float: left;
-    text-align: left;
+    font-size: 1rem;
+
     @include breakpoint($bp-medium, $no-query: ".no-mq") {
       float: none;
       text-align: center;
@@ -18,12 +18,8 @@ header .nav-section {
   }
   .phone {
     @include breakpoint($bp-medium-down, $no-query: ".no-mq") {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    text-align: center;
-    background: #efefef;
-    left: 0;
+     padding: .35rem;
+     margin: .35rem 0;
     }
   }
 }
