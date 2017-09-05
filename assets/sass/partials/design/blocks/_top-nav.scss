@@ -1,11 +1,29 @@
 header .nav-section {
   .top-nav {
     margin-bottom: 1rem;
-    @include breakpoint($bp-large, $no-query: ".no-mq") {
-      margin-bottom: 0;
+    float: left;
+    text-align: left;
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+      float: none;
+      text-align: center;
     }
+    @include breakpoint($bp-large, $no-query: '.no-mq') {
+      text-align: right;
+   }
     div {
+      @include breakpoint($bp-medium, $no-query: ".no-mq") {
         display: inline-block;
+      }
+    }
+  }
+  .phone {
+    @include breakpoint($bp-medium-down, $no-query: ".no-mq") {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    background: #efefef;
+    left: 0;
     }
   }
 }

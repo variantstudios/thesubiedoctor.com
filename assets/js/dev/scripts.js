@@ -10,6 +10,10 @@ $(document).ready(function() {
     $('.menu').toggleClass('show');
   });
 
+  $(".hours-list-expand").on('click touch', function() {
+    $('.hours-list').toggleClass('collapse');
+  });
+
 
   // Dynamic Hours
   var openTime = moment('09:00am', 'HH:mma');

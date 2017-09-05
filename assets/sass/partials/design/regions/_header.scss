@@ -1,5 +1,6 @@
 header {
   text-align: center;
+  @include clearfix;
 }
 header .logo {
   text-align: center;
@@ -19,9 +20,12 @@ header .nav-section {
   background: $header-bg;
 }
 
+// Hours Section
 .hours {
   margin-right: 1rem;
-
+  div {
+    display: inline-block;
+  }
 }
 .open-close {
   border-radius: 3px;
@@ -38,5 +42,29 @@ header .nav-section {
     color: #fff;
     font-size: 0.8rem;
     font-weight: 700;
+  }
+}
+
+// Hours Dropdown Arrow
+.hours-list-expand {
+   display: inline-block;
+   margin-left: .75rem;
+   cursor: pointer;
+   margin-right: 1rem;
+}
+
+// Hours Dropdown
+.hours-list {
+  position: absolute;
+  background: #fff;
+  padding:1em;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+  margin: 0;
+  z-index: 1;
+  list-style: none;
+  text-align: left;
+  &.collapse {
+    visibility: hidden;
+    opacity: 0;
   }
 }
