@@ -66,11 +66,11 @@ defaults:
       post_date:
 
 # Default Select Options (client can't change)
-status:
+inventory_status:
   - coming: 'Coming Soon'
   - sale: 'For Sale'
   - sold: 'Sold'
-category:
+car_category:
   - new: 'New'
   - used: 'Used'
 
