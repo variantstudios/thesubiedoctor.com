@@ -15,6 +15,11 @@ header .nav-section {
   }
 }
 
+header .top-nav {
+
+
+}
+
 .header-wrapper  {
   padding: 1em 0;
   background: $header-bg;
@@ -63,6 +68,7 @@ header .nav-section {
   z-index: 1;
   list-style: none;
   text-align: left;
+  margin: 1em 0;
   &.collapse {
     visibility: hidden;
     opacity: 0;

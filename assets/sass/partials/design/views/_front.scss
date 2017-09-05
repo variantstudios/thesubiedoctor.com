@@ -11,16 +11,84 @@
     margin: 10rem 0 3rem;
     background: #fff;
     padding: 2rem;
+    h2 {
+      font-family: $alt-font-family;
+      font-style: italic;
+      color: $color-two;
+      font-size: 1.5rem;
+    }
+    p {
+      font-style: italic;
+    }
     @include breakpoint($bp-medium, $no-query: '.no-mq') {
         width: 50%;
     }
     @include breakpoint($bp-large, $no-query: '.no-mq') {
-        width: 33%;
+        width: 30%;
+    }
+    .btn {
+      //margin-top: 2em;
+      @include breakpoint($bp-medium, $no-query: '.no-mq') {
+        margin: 0;
+      }
     }
 
 }
 
+.front {
+  .page-title {
+    margin: 4rem auto 0;
+  }
+}
 
 .front .cols {
+  margin:0em 0 5em;  
+  @include breakpoint($bp-medium, $no-query: '.no-mq') {
    display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin:8em 0 5em;  
+  }
+   .col-2 {
+    margin:2em 0;
+    @include breakpoint($bp-medium, $no-query: '.no-mq') {
+      margin: 0 5%;
+    }
+   }
+   .intro {
+    order: 1;
+    @include breakpoint($bp-medium, $no-query: '.no-mq') {
+      font-size: 1.15em;
+    }
+   }
+   .review-block {
+    padding: 1em 2em 2em;
+    background: #fff;
+    box-shadow: 0px 4px 32px rgba(0,0,0,0.2);
+    border-radius: 2px;
+    margin-top: 200px;
+    @include breakpoint($bp-medium, $no-query: '.no-mq') {
+      margin-top: 0;
+    }
+    img.profile-pic {
+      width: 150px;
+      display: block;
+      margin: -100px auto 30px;
+      border-radius: 5px;
+    }
+    .five-star {    
+      margin: 0 auto 2em;
+      text-align: center;
+      display: block;
+  }
+    h6 {
+      text-transform: uppercase;
+      font-family: $alt-font-family;
+      color: $color-two;
+    }
+    .review-text {
+      font-style: italic;
+      font-weight: 300;
+    }
+   }
 }

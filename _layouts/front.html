@@ -6,12 +6,12 @@ layout: default
   <div class="schedule-form">
     <h2>Schedule Repair</h2>
     <p>Feel free to call, text or email for a repair or reconditioning quote or just some words of advice.  Whether you just need a pre-buy inspection, a transmission replaced, some performance upgrades or want to swap in that STi engine you've been dreaming about, the Doctor can take care of you.</p>
-    <form action="GET">
+    <form action="POST">
       <input placeholder="Name"  id="name"  name="name" type="text">
       <input placeholder="Email" id="email" type="email">
       <label>Preferred Date</label>
-      <input type="date">
-      <div class="btn"><a href="schedule-repair?=name=">Continue</a></div>
+      <input type="date" id="date">
+      <div class="btn"><a href="schedule-repair?=name=name">Continue</a></div>
     </form>
   </div>
 </div>
@@ -26,12 +26,13 @@ layout: default
       {{content}}
     </div>
     <div class="review-block col-2">
-       <img src="http://lorempixel.com/400/400/people/" />
-       <img src="" class="five-star">
+       <img src="https://graph.facebook.com/1603567043008095/picture?type=large&w‌​idth=400&height=400" class="profile-pic"/>
+       <img src="/assets/images/stars.png" class="five-star">
        <div class="review-text">
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor est. Suspendisse pulvinar nisl sit amet faucibus ultrices. Pellentesque accumsan tincidunt placerat.</p>
+         <p> Such a great resource for Subaru owners. So much knowledge. Such great prices. And fabulous people. Plus the shop is super easy to find. Highly recommended!</p>
        </div>
-       <h6>Michael McQueen</h6>
+       <h6> Melissa Sherowski</h6>
+       <a href="/reviews" class="read-more-link">View all Reviews</a>       
     </div>
   </div>
   </section>

@@ -10,6 +10,7 @@ a {
 
 a.read-more-link {
     text-decoration: none;
+    display: block;
     &:after {
       content: "\f105";  
       font-family: FontAwesome;
