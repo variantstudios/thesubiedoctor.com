@@ -42,18 +42,6 @@ collections:
     output: true
     permalink: '/car-inventory/:title/'
 
-
-Title
-Make
-Model
-Category:
-    New
-    Used
-Year
-Price
-Description
-Photos
-
 # Collection Defaults
 defaults:
   -
