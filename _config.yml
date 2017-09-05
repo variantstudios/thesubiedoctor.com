@@ -38,13 +38,53 @@ collections:
     output: false
   sg:
     output: false
+  cars:
+    output: true
+    permalink: '/car-inventory/:title/'
 
+
+Title
+Make
+Model
+Category:
+    New
+    Used
+Year
+Price
+Description
+Photos
+
+# Collection Defaults
 defaults:
   -
     scope:
       type: sg
     values:
       layout: styleguide-block
+  -
+    scope:
+      type: cars
+    values:
+      layout: cars
+      title:
+      make:
+      model:
+      year:
+      price:
+      status:
+      photos:
+        - title:
+        - image_path:
+      post_date:
+
+# Default Select Options (client can't change)
+status:
+  - coming: 'Coming Soon'
+  - sale: 'For Sale'
+  - sold: 'Sold'
+category:
+  - new: 'New'
+  - used: 'Used'
 
 # Cloudinary URL - something like: https://res.cloudinary.com/domain-com/
 cloudinaryurl: "https://res.cloudinary.com/thesubiedoctor/"
