@@ -3,7 +3,7 @@ layout: cars
 title: test
 make:
 model:
-car_categories:
+car_category_option:
 year:
 price:
 inventory_states:
