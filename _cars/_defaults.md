@@ -1,5 +1,4 @@
 ---
-layout: car
 title: 
 make: 
 model: 
