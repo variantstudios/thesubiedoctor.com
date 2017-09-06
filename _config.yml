@@ -54,12 +54,12 @@ defaults:
 
 # Default Select Options (client can't change)
 car_category_options:
-  - New
-  - Used
+  - new
+  - used
 inventory_options:
-  - coming: 'Coming Soon'
-  - sale: 'For Sale'
-  - sold: 'Sold'
+  - coming
+  - sale
+  - sold
 
 
 # Cloudinary URL - something like: https://res.cloudinary.com/domain-com/
