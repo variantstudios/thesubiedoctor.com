@@ -5,9 +5,15 @@
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
 
-<script src="/assets/js/dev/scripts.js"></script>
+<script src="/assets/js/prod/scripts.js"></script>
 
-
+{% if page.permalink == "/contact/" %}
+<script src="/assets/js/prod/form.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+{%elsif page.permalink == "/schedule-repair/" %}
+<script src="/assets/js/prod/form.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+{% endif %}
 
 <!-- VS Custom Cloudinary JS -->
 {% if site.cloudinaryurl %}
