@@ -50,7 +50,11 @@ defaults:
       type: sg
     values:
       layout: styleguide-block
-
+   -
+    scope:
+      type: cars
+    values:
+      layout: car    
 
 # Default Select Options (client can't change)
 car_category_options:
