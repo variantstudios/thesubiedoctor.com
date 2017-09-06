@@ -3,10 +3,10 @@ layout: cars
 title: test
 make:
 model:
-car_categories:
+car_category:
 year:
 price:
-inventory_states:
+inventory_state:
 photos:
   - title:
     image_path:
