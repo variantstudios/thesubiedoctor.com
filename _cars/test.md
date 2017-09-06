@@ -6,7 +6,7 @@ model:
 car_category_option:
 year:
 price:
-inventory_states:
+inventory_option:
 photos:
   - title:
     image_path:
