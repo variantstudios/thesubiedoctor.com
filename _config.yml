@@ -50,7 +50,7 @@ defaults:
       type: sg
     values:
       layout: styleguide-block
-   -
+  -
     scope:
       type: cars
     values:
