@@ -8,7 +8,7 @@ price: $6950
 inventory_option: for_sale
 car_category_option: used
 photos:
-  - title:
+  - title: Front
   - image_path:
 post_date: 2017-09-05 00:00:00
 ---
