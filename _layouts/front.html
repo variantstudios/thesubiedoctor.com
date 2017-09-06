@@ -1,18 +1,38 @@
 ---
 layout: default
+webform:
+    subject: "The Subie Doctor: Schedule Repair Form"
+    to: "team@variantstudios.com"
+class: form, front
+_comments:
+  subject: "This is the contact form's email subject line."
+  to: "Add the email address(es) you would like to send this to and if you want to send to more than one you can add commas between them, for example: hello1@test.com,hello2@test.com"
 ---
 <div class="preface" style="background-image: url({{ page.header_image_path }});" >
   <div class="wrap">
   <div class="schedule-form">
     <h2>Schedule Repair</h2>
     <p>Feel free to call, text or email for a repair or reconditioning quote or just some words of advice.  Whether you just need a pre-buy inspection, a transmission replaced, some performance upgrades or want to swap in that STi engine you've been dreaming about, the Doctor can take care of you.</p>
-    <form action="POST">
-      <input placeholder="Name"  id="name"  name="name" type="text">
-      <input placeholder="Email" id="email" type="email">
+    <form method="post" action="/schedule-repair/?sent=true">
+  <input type="hidden" name="_to" value="{{page.webform.to}}">
+  <input type="hidden" name="_subject" value="{{page.webform.subject}}">
+   <input type="text" name="_gotcha" style="display: none;">
+    <div class="webform-component">
+        <input type="text" name="name" id="name" required="" placeholder="Name">
+    </div>
+    <div class="webform-component">
+        <input type="email" name="email" id="email" required="" placeholder="Email">
+    </div>
+    <div class="webform-component">
       <label>Preferred Date</label>
-      <input type="date" id="date">
-      <div class="btn"><a href="schedule-repair?=name=name">Continue</a></div>
-    </form>
+      <input type="date" id="date" name="date">
+    </div>
+    <div class="webform-component">
+        <textarea id="message" name="message" rows="4" placeholder="Message"></textarea>
+    </div>
+     <div class="g-recaptcha" data-sitekey="6LcUty8UAAAAAK5yyNyc8W-DkrlQZ9Ew9FE51Zlm"></div><br>
+    <input class="sendButton" type="submit" value="Send">
+</form>
   </div>
 </div>
 </div>
