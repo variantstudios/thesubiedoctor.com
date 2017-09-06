@@ -1,4 +1,4 @@
-----		
+---		
  layout: cars		
  title:		
  make:		
@@ -11,4 +11,4 @@
  - title:		
    image_path:		
  post_date:		
- ----
+ ---
