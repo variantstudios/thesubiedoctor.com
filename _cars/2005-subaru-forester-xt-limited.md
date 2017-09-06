@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 2005 Subaru Forester XT Limited
 make: Subaru
 model: Forester XT Limited
