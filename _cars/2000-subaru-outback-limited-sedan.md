@@ -1,15 +1,58 @@
 ---
 title: 2000 Subaru Outback Limited Sedan
-make:
-model:
-year:
-price:
-inventory_option:
-car_category_option:
+make: Subaru
+model: Outback Limited Sedan
+year: '2000'
+price: $3300
+inventory_option: for_sale
+car_category_option: used
 photos:
-  - title:
-    image_path:
-post_date:
+  - title: Driver's back side
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--back-d-side.jpg
+  - title: Passenger's side
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--back-p-side.jpg
+  - title: Back View
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--back.jpg
+  - title: Bumber
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--bumper.jpg
+  - title: Driver's side
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--d-side.jpg
+  - title: Dash
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--dash.jpg
+  - title: Dashboard
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--dashboard.jpg
+  - title: Engine
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--engine.jpg
+  - title: Driver's Front Side
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--front-d-side.jpg
+  - title: Inside Front
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--front.jpg
+  - title: Trunk
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--trunk.jpg
+  - title: Back
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--inside-back.jpg
+  - title: Driver's inside
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--inside-d-side.jpg
+  - title: Passenger's side
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--p-side.jpg
+  - title: Tire
+    image_path: >-
+      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--tire.jpg
+post_date: 2017-09-06 00:00:00
 ---
 
 
