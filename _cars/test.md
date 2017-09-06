@@ -9,7 +9,7 @@ inventory_option: for_sale
 car_category_option: used
 photos:
   - title: Front
-  - image_path: >-
+    image_path: >-
       /assets/images/cars/2005-subaru-forester-xt-limited/2005-subaru-forester-xt-limited--side-p-side.jpg
 post_date: 2017-09-05 00:00:00
 ---
