@@ -41,8 +41,6 @@ collections:
   cars:
     output: true
     permalink: '/car-inventory/:title/'
-  car_categories:
-    output: false
   inventory_state:
     output: false
   
@@ -58,6 +56,9 @@ defaults:
 
 
 # Default Select Options (client can't change)
+car_category:
+  - New
+  - Used
 inventory_states:
   - coming: 'Coming Soon'
   - sale: 'For Sale'
