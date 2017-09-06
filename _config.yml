@@ -58,7 +58,7 @@ car_category_options:
   - used
 inventory_options:
   - coming
-  - sale
+  - for_sale
   - sold
 
 
