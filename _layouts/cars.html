@@ -1,0 +1,18 @@
+---
+layout: page
+---
+<section class="cars-preface">{{ page.content }}</section>
+<section class="cars-wrapper">
+  {% for car in site.cars %}
+    <div class="car-item clearfix">
+      <div class="left-image">
+          <a href="{{ car.url }}"><img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}"></a>
+      </div>
+      <div class="right-car">
+        <a href="{{ car.url }}"><h3>{{ car.title }}</h3></a>
+        <p class="car-date">posted on {{ car.date | date: "%a, %b %d, %Y" }}</p>
+        <p></p>
+      </div>
+    </div>
+    {% endfor %}
+</section>
