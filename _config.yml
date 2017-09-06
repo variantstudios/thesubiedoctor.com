@@ -41,7 +41,7 @@ collections:
   cars:
     output: true
     permalink: '/car-inventory/:title/'
-  car_category:
+  car_categories:
     output: false
   inventory_state:
     output: false
