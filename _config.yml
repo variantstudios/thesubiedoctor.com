@@ -56,7 +56,7 @@ defaults:
 
 
 # Default Select Options (client can't change)
-car_category:
+car_category_options:
   - New
   - Used
 inventory_states:
