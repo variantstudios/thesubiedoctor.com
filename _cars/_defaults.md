@@ -1,14 +1,14 @@
----		
- layout: cars		
- title:		
- make:		
- model:		
- car_categories:		
- year:		
- price:		
- inventory_states:		
- photos:		
- - title:		
-   image_path:		
- post_date:		
- ---
+---
+layout: cars
+title:
+make:
+model:
+car_category:
+year:
+price:
+inventory_state:
+photos:
+- title:
+  image_path:
+post_date:
+---
