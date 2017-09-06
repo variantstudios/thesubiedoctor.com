@@ -6,9 +6,9 @@ model:
 car_category:
 year:
 price:
-inventory_status:
+inventory_state:
 photos:
 - title:
-- image_path:
+  image_path:
 post_date:
 ---

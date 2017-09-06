@@ -52,7 +52,7 @@ defaults:
 
 
 # Default Select Options (client can't change)
-inventory_status:
+inventory_state:
   - coming: 'Coming Soon'
   - sale: 'For Sale'
   - sold: 'Sold'
