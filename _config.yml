@@ -56,9 +56,7 @@ inventory_states:
   - coming: 'Coming Soon'
   - sale: 'For Sale'
   - sold: 'Sold'
-car_categores:
-  - new: 'New'
-  - used: 'Used'
+
 
 # Cloudinary URL - something like: https://res.cloudinary.com/domain-com/
 cloudinaryurl: "https://res.cloudinary.com/thesubiedoctor/"
