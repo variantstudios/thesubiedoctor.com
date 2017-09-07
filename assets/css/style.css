@@ -621,6 +621,24 @@ header .nav-section .top-nav {
   margin: .35rem 0;
 }
 
+.slick-next {
+  right: 20px;
+  z-index: 1;
+}
+
+.slick-prev {
+  left: 20px;
+  z-index: 1;
+}
+
+.about-photos {
+  margin: 3rem 0 5rem !important;
+  border-radius: 4px;
+  overflow: hidden;
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
 .contact-form {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -787,6 +805,10 @@ header .logo {
   text-align: right;
 }
 
+.header-image img {
+  width: 100%;
+}
+
 .header-wrapper {
   padding: 1em 0;
   background: #fff;
@@ -861,6 +883,9 @@ main:after {
   display: table;
   clear: both;
 }
+main .about-page {
+  max-width: 1000px;
+}
 
 html {
   -webkit-box-sizing: border-box;
@@ -917,6 +942,12 @@ main, header, footer, section, aside {
   font-style: italic;
   color: #0360AB;
   font-size: 1.5rem;
+}
+@media (min-width: 0) and (max-width: 50em) {
+  .schedule-form h2 {
+    font-size: 1.1rem;
+    margin-top: 0;
+  }
 }
 .schedule-form p {
   font-style: italic;
