@@ -150,11 +150,11 @@ input[type="text"], input[type="email"], input[type="name"], input[type="passwor
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   padding: 1rem;
-  font-size: 100%;
   font-family: "paralucent", sans-serif;
+  font-size: .9rem;
   border: 1px solid #D3D3D3;
   display: inline-block;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
   width: 100%;
 }
 input[type="text"]:active, input[type="text"]:focus, input[type="email"]:active, input[type="email"]:focus, input[type="name"]:active, input[type="name"]:focus, input[type="password"]:active, input[type="password"]:focus, input[type="file"]:active, input[type="file"]:focus, input[type="date"]:active, input[type="date"]:focus {
@@ -267,11 +267,12 @@ input[type="submit"]:hover {
 
 form label {
   font-weight: normal;
-  font-size: 110%;
+  font-size: .9rem;
   padding-bottom: .5em;
+  margin-right: 1rem;
   display: inline-block;
   min-width: 55px;
-  color: #a8abba;
+  color: #75757d;
 }
 form .description {
   font-size: 85%;
@@ -900,14 +901,17 @@ main, header, footer, section, aside {
 .preface {
   background: no-repeat center center;
   background-size: cover;
+  overflow: hidden;
+}
+@media (min-width: 50em) {
+  .preface {
+    height: 600px;
+  }
+}
+.no-mq .preface {
+  height: 600px;
 }
 
-.schedule-form {
-  display: inline-block;
-  margin: 10rem 0 3rem;
-  background: #fff;
-  padding: 2rem;
-}
 .schedule-form h2 {
   font-family: "eurostile-extended", sans-serif;
   font-style: italic;
@@ -941,6 +945,115 @@ main, header, footer, section, aside {
 .no-mq .schedule-form .btn {
   margin: 0;
 }
+.schedule-form .schedule-form .btn {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  background-color: #C42227;
+  border: 1px solid #991a1e;
+  border-radius: 2px;
+  color: #fff;
+  cursor: pointer;
+  padding: .5em 1.25em;
+  font-size: 95%;
+  -webkit-transition: all linear 0.2s;
+  transition: all linear 0.2s;
+}
+.schedule-form .schedule-form .btn:hover {
+  background-color: #bb2025;
+}
+.schedule-form .schedule-form .btn:hover {
+  background: #991a1e;
+  border-color: #83171a;
+}
+.schedule-form .schedule-form .btn i {
+  vertical-align: middle;
+  padding-left: .5em;
+}
+
+.flipped .phase-one {
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+
+.flipped .phase-two {
+  -webkit-transform: rotateY(0);
+  transform: rotateY(0);
+}
+
+.phase {
+  width: 100%;
+}
+
+.schedule-form {
+  position: relative;
+  margin-top: 10rem;
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, white 0%, white 34%, rgba(255, 255, 255, 0) 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), color-stop(34%, #ffffff), to(rgba(255, 255, 255, 0)));
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 34%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 34%, rgba(255, 255, 255, 0) 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 );
+  /* IE6-9 */
+  height: 600px;
+}
+@media (min-width: 50em) {
+  .schedule-form {
+    float: left;
+    height: 1000px;
+    margin-top: 3rem;
+  }
+}
+.no-mq .schedule-form {
+  float: left;
+  height: 1000px;
+  margin-top: 3rem;
+}
+.schedule-form .back-up {
+  margin: 0 0 1em 0;
+  cursor: pointer;
+}
+.schedule-form .back-up i {
+  margin-right: .5em;
+}
+.schedule-form .g-recaptcha {
+  margin-top: 1rem;
+}
+
+.phase {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+}
+
+.phase {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transition: -webkit-transform 0.3s;
+  transition: -webkit-transform 0.3s;
+  transition: transform 0.3s;
+  transition: transform 0.3s, -webkit-transform 0.3s;
+}
+
+.phase-two {
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+
+.schedule-form.effect__click.flipped .phase-one {
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+
+.schedule-form.effect__click.flipped .phase-two {
+  -webkit-transform: rotateY(0);
+  transform: rotateY(0);
+}
 
 .front .page-title {
   margin: 4rem auto 0;
@@ -949,7 +1062,7 @@ main, header, footer, section, aside {
 .front .cols {
   margin: 0em 0 5em;
 }
-@media (min-width: 50em) {
+@media (min-width: 75em) {
   .front .cols {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -978,7 +1091,7 @@ main, header, footer, section, aside {
 .front .cols .col-2 {
   margin: 2em 0;
 }
-@media (min-width: 50em) {
+@media (min-width: 75em) {
   .front .cols .col-2 {
     margin: 0 3%;
     -webkit-box-flex: 1;
@@ -1005,7 +1118,7 @@ main, header, footer, section, aside {
   border-radius: 2px;
   margin-top: 200px;
 }
-@media (min-width: 50em) {
+@media (min-width: 75em) {
   .front .cols .review-block {
     margin-top: 0;
   }
