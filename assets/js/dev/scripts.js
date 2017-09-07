@@ -6,7 +6,13 @@ $(document).ready(function() {
     $('html').addClass('no-mq');
   }
 
+  document.getElementById('date').valueAsDate = new Date();
+  
 
+// // SChedule Form
+$('.schedule-form .form-action').on('click touch', function() {
+    $('.schedule-form ').toggleClass('flipped');
+  });
   // Mobile Menu Funcation
   $(".menu-btn").on('click touch', function() {
     $('.menus').toggleClass('show');
