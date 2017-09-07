@@ -1,38 +1,57 @@
 ---
 title: Parts Inventory
 search_engine_optimization:
-  page_title: "Parts Inventory - Subie Doctor, Denver Colorado"
-  page_description: ""
+  page_title: 'Parts Inventory - Subie Doctor, Denver Colorado'
+  page_description:
 class: parts-inventory
-permalink: "/parts-inventory/"
+permalink: /parts-inventory/
 layout: page
 _comments:
-  page_title: "This is the title that's specifically for Search Engine Optimization."
-  page_description: "This is the page description that is shown below the page title in the search engine results."
+  page_title: This is the title that's specifically for Search Engine Optimization.
+  page_description: >-
+    This is the page description that is shown below the page title in the
+    search engine results.
 ---
 
-Triticeas premente altum eget rediere *limite*. Non orientis hunc, surgunt
-vocem: [ac](http://www.googel.com) cadit quod, Boebes superat! Ut
-Phoebe obfuit effugit hic arte: scripsi quaterque plenissima at volucris
-visaque. Vanis Cinyreius tamen: deficit sub ignem, lumina.
 
-## Flamine sceleratus Amoris anxia Cymeli calorque mortale
+### Parts from a 2005 Forester XT, white:
 
-Est undas; [si quoque](http://google.com) et ignorat vidit. Pro
-incursu modis missi lunae ad dicta: neganda Delius est. Utque et cadendum erat;
-qui **causas Thisbe terra** sacra esse quae sanguine, decursa sed structa ab
-beatam ut! Moderato fluminis coniungere ambae et certa carinae Macareus, sic et
-ista neque mox ventis regnare coepit.
+* Hood - $150
+* Fenders - $50ea
+* Front bumper cover - $100
+* Front bumper beam - $75
+* Headlights - $75ea
+* Fog light (RH) - $25
+* Engine - SOLD
+* Auto transmission - $300
+* Wheels (painted black) - $150
+* Door panels - $50 for all 4
+* Front seats - SOLD
+* Rear leather seat (black) - $25
+* Master window switch - $35
 
-## Flumina linguam
+### Parts from a 2001 Impreza 2.5RS coupe, white, 117k, 5-spd:
 
-Hoc motae, dignior, in adsonat terrore quo operum corpore; animusque Cipe
-vidisset ibitis plausu. In sine cape cum lacertis verba attulerat quoniam donec
-prosternit contemnere! Ante nam dura carmina turba. Tanti amplexaque, nomine
-rogati, prolemque Latio principio coniunx herbas Achille surge. Prohibes fallere
-resolutum quaerere talaria.
+* Engine - $1300
+* Transmission - SOLD
+* Rear diff - SOLD
+* Trans sold
+* Doors w/ mirror/glass/motor/regulator - no door panels. Fair condition - $75ea
+* Fenders - SOLD
+* Front seats - SOLD
+* Near perfect bumper cover (bare) - SOLD
+* Bumper beam SOLD
+* Fogs - SOLD
+* Signals (bumper mounted) - $40/pair
+* Corner markers - $25ea
+* Headlights (very nice) - $75ea
+* Grill - SOLD
+* Hood with scoops and vents (some light hail) - $200
+* Struts/springs/hats - SOLD
+* Front end, engine & dash harnesses - $250 for all&nbsp;
 
-Perlucentibus ture fameque, pectora non neque percutit caelo tempora additur et
-posset cuius. Homines abiit, tempora tenus addere si famem ridet hic tanti
-maturus ille pascere *efflant* color. Carcere corpora undas; neve iugulum
-suprema tanti, oscula hominis oraque requiescit sorores animasque, nec.
+### Engines:
+
+* EJ25 SOHC long block, 159k, new Six Star head gaskets, timing belt and water pump - $1100
+* EJ25 SOHC long block, 176k, new Six Star head gaskets, timing belt and water pump - $1000
+* EJ25 SOHC long block, 226k, new Six Star head gaskets, timing belt and water pump - $700
