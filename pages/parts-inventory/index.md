@@ -1,8 +1,14 @@
 ---
 title: Parts Inventory
+search_engine_optimization:
+  page_title: "Parts Inventory - Subie Doctor, Denver Colorado"
+  page_description: ""
+class: parts-inventory
 permalink: "/parts-inventory/"
-description: 
 layout: page
+_comments:
+  page_title: "This is the title that's specifically for Search Engine Optimization."
+  page_description: "This is the page description that is shown below the page title in the search engine results."
 ---
 
 Triticeas premente altum eget rediere *limite*. Non orientis hunc, surgunt
