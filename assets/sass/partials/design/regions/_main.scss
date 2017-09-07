@@ -10,5 +10,8 @@ main {
   @include clearfix;
   padding: 2em 0;
   background: url("../images/bg.png") no-repeat left bottom;
+  .about-page {
+     max-width: 1000px;
+  }
 
 }

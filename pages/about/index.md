@@ -1,10 +1,19 @@
 ---
-title: About the Subie Doctor
+title: Meet the Doctor.
+subtitle: Todd Briley
 search_engine_optimization:
   page_title: "About the Subie Doctor, Denver Colorado"
   page_description: "We are subie."
+header_image_path: /assets/images/headers/about.jpg
+photos:
+  - title: Side View Driver Side
+    image_path: >-
+      /assets/images/cars/2005-subaru-forester-xt-limited/2005-subaru-forester-xt-limited--side-d-side.jpg
+  - title: Trunk View
+    image_path: >-
+      /assets/images/cars/2005-subaru-forester-xt-limited/2005-subaru-forester-xt-limited--inside-trunk.jpg
 class: about
-layout: page
+layout: about
 permalink: "/about/"
 _comments:
   page_title: "This is the title that's specifically for Search Engine Optimization."

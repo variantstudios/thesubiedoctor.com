@@ -18,7 +18,12 @@
       font-style: italic;
       color: $color-two;
       font-size: 1.5rem;
-    }
+      @include breakpoint($bp-medium-down) {
+        font-size: 1.1rem;
+        margin-top: 0;
+      }        
+
+      }
     p {
       font-style: italic;
     }

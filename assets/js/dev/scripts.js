@@ -6,7 +6,6 @@ $(document).ready(function() {
     $('html').addClass('no-mq');
   }
 
-  document.getElementById('date').valueAsDate = new Date();
   
 
 // // SChedule Form
@@ -179,5 +178,21 @@ $('.schedule-form .form-action').on('click touch', function() {
       $('header.wrap .hours-today').append(openTime.format('LT'));
     } 
   }
+
+
+$('.slider').slick({
+    dots: true,
+    infinite: true,
+    speed: 500,
+    fade: true,
+    cssEase: 'linear',
+    autoplay: true,
+    
+  });
+  
+  
+
+  document.getElementById('date').valueAsDate = new Date();
+  
 
 });
