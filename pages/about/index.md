@@ -1,24 +1,16 @@
 ---
-title: About
-permalink: "/about/"
-description: This is just a sample general page.
+title: About the Subie Doctor
+search_engine_optimization:
+  page_title: "About the Subie Doctor, Denver Colorado"
+  page_description: "We are subie."
+class: about
 layout: page
+permalink: "/about/"
+_comments:
+  page_title: "This is the title that's specifically for Search Engine Optimization."
+  page_description: "This is the page description that is shown below the page title in the search engine results."
 ---
 
-*Lorem* markdownum iacet figurae, *fert* heros, stetit generis! Vel *vagus sua*
-alvum ab rexit: inclinatoque callo ad condita valido.
-
-## Traxit fera fratris Horae ibis hic etiam
-
-Triticeas premente altum eget rediere *limite*. Non orientis hunc, surgunt
-vocem: [ac](http://www.googel.com) cadit quod, Boebes superat! Ut
-Phoebe obfuit effugit hic arte: scripsi quaterque plenissima at volucris
-visaque. Vanis Cinyreius tamen: deficit sub ignem, lumina.
-
-## Flamine sceleratus Amoris anxia Cymeli calorque mortale
-
-Est undas; [si quoque](http://google.com) et ignorat vidit. Pro
-incursu modis missi lunae ad dicta: neganda Delius est. Utque et cadendum erat;
-qui **causas Thisbe terra** sacra esse quae sanguine, decursa sed structa ab
-beatam ut! Moderato fluminis coniungere ambae et certa carinae Macareus, sic et
-ista neque mox ventis regnare coepit.
+Meet the Doctor, Todd Briley.  Originally from Chicago, I worked in the automotive engineering field for 25 years and have been a gearhead since high school.  I started restoring muscle cars in the early 90's as a hobby and have dabbled in a little of everything over the years and since moving to beautiful CO in 2009 I've specialized in reconditioning Subaru's and developed a following in NoCo fueled by referrals by being professional and honest, offering exceptional value and standing behind my work.
+ 
+We love Subaru's.  All our children (that have stayed in CO) drive Subaru's.  My wife Valerie drives a newer WRX and I drive a JDM-swapped 98 2.5RS which we also both race in SCCA RallyCross.  I managed to finish 3rd in my class at the 2016 RallyCross National Championship.  With the momentum I have, it seemed the right time to say so long to my engineering desk job and follow my passion by starting my own Subaru business.  
