@@ -3,8 +3,24 @@ layout: default
 ---
 
 <main>
-  <section class="wrap">
-    <h1 class="pagetitle">{{ page.title }}</h1>
-    <div>{{ content }}</div>
+  <section class="wrap car-full-node">
+
+    <div class="car-details">
+      <h1 class="pagetitle">{{ page.title }}</h1>        
+      <div class="detail-wrapper">
+        <div class="price detail">{{page.price}}</div>        
+        <div class="detail">Year: {{page.year}}</div>
+        <div class="detail">Make: {{page.make}}</div>
+        <div class="detail">Model: {{page.model}}</div>
+      </div>
+      <div>{{ content }}</div>
+    </div>
+    <div class="car-photos">
+        {% for item in page.photos %}
+        <div class="photo">
+             <img src="{{item.image_path}}" alt="{{item.title}}" title="{{item.title}}">
+        </div>
+          {% endfor %}
+    </div>
   </section>
 </main>

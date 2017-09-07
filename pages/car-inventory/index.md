@@ -1,5 +1,6 @@
 ---
 title: Car Inventory
+subtitle: Subtitle Goes Here
 search_engine_optimization:
   page_title: "Inventory of Cars for Sale - Subie Doctor, Denver Colorado"
   page_description: ""
