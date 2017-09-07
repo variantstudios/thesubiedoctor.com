@@ -52,13 +52,15 @@
    .col-2 {
     margin:2em 0;
     @include breakpoint($bp-medium, $no-query: '.no-mq') {
-      margin: 0 5%;
+      margin: 0 3%;
+      flex: 1;
+      
     }
    }
    .intro {
     order: 1;
     @include breakpoint($bp-medium, $no-query: '.no-mq') {
-      font-size: 1.15em;
+      //font-size: 1.15em;
     }
    }
    .review-block {

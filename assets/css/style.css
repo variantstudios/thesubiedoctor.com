@@ -660,6 +660,58 @@ header .nav-section .top-nav {
   background: #efefef;
 }
 
+.car-full-node {
+  margin: 6em auto 0;
+}
+.car-full-node:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.car-full-node .car-details {
+  margin: 0 0 2em;
+}
+@media (min-width: 50em) {
+  .car-full-node .car-details {
+    width: 47.5%;
+    margin: 0 2rem 2.5em 0;
+    float: left;
+  }
+}
+.no-mq .car-full-node .car-details {
+  width: 47.5%;
+  margin: 0 2rem 2.5em 0;
+  float: left;
+}
+.car-full-node .car-details .detail.price {
+  font-weight: 700;
+  font-weight: 700;
+  background: #3bb56b;
+  color: #fff;
+  font-size: 1.25rem;
+  padding: .25rem 1rem;
+  display: inline-block;
+  margin-bottom: .5rem;
+  border-radius: 4px;
+}
+.car-full-node .detail-wrapper {
+  padding: 1rem 0 2rem;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ccc;
+}
+.car-full-node .car-photos {
+  overflow: hidden;
+}
+.car-full-node .car-item--details {
+  padding: 1rem;
+}
+.car-full-node .car-item--details a {
+  text-decoration: none;
+}
+.car-full-node .car-item--details h3 {
+  margin: 0;
+}
+
 .footer-wrapper {
   background: #fff;
   padding: 1rem;
@@ -928,24 +980,22 @@ main, header, footer, section, aside {
 }
 @media (min-width: 50em) {
   .front .cols .col-2 {
-    margin: 0 5%;
+    margin: 0 3%;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
   }
 }
 .no-mq .front .cols .col-2 {
-  margin: 0 5%;
+  margin: 0 3%;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
 }
 .front .cols .intro {
   -webkit-box-ordinal-group: 2;
       -ms-flex-order: 1;
           order: 1;
-}
-@media (min-width: 50em) {
-  .front .cols .intro {
-    font-size: 1.15em;
-  }
-}
-.no-mq .front .cols .intro {
-  font-size: 1.15em;
 }
 .front .cols .review-block {
   padding: 1em 2em 2em;
@@ -1077,4 +1127,72 @@ main, header, footer, section, aside {
   margin-left: 0;
   margin-right: 0;
   clear: none;
+}
+
+.cars-preface {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cars-wrapper {
+  margin: 6em auto 0;
+}
+.cars-wrapper .car-item {
+  -webkit-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  margin: 0 0 2em;
+  background: #fff;
+  -webkit-transition: all .3s linear;
+  transition: all .3s linear;
+}
+@media (min-width: 50em) {
+  .cars-wrapper .car-item {
+    width: 47.5%;
+    margin: 0 1% 2.5em;
+    display: inline-block;
+    vertical-align: top;
+  }
+}
+.no-mq .cars-wrapper .car-item {
+  width: 47.5%;
+  margin: 0 1% 2.5em;
+  display: inline-block;
+  vertical-align: top;
+}
+.cars-wrapper .car-item:hover {
+  -webkit-box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.3);
+          box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.3);
+  -webkit-transition: all .3s linear;
+  transition: all .3s linear;
+}
+.cars-wrapper .car-item--image {
+  position: relative;
+}
+.cars-wrapper .car-date {
+  margin: 0;
+}
+.cars-wrapper .price {
+  font-weight: 700;
+  background: #3bb56b;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: .25rem 1rem;
+  display: inline-block;
+  margin: .5rem 0;
+  border-radius: 4px;
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+.cars-wrapper .car-item--details {
+  padding: 1rem 1.5rem 1rem;
+}
+.cars-wrapper .car-item--details a {
+  text-decoration: none;
+}
+.cars-wrapper .car-item--details h3 {
+  margin: 0;
 }

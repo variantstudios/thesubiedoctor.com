@@ -5,13 +5,15 @@ layout: page
 <section class="cars-wrapper">
   {% for car in site.cars %}
     <div class="car-item clearfix">
-      <div class="left-image">
-          <a href="{{ car.url }}"><img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}"></a>
+      <div class="car-item--image">
+          <a href="{{ car.url }}">
+            <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
+            <div class="price">{{ car.price }}</div>            
+          </a>
       </div>
-      <div class="right-car">
+      <div class="car-item--details">
         <a href="{{ car.url }}"><h3>{{ car.title }}</h3></a>
         <p class="car-date">posted on {{ car.date | date: "%a, %b %d, %Y" }}</p>
-        <p></p>
       </div>
     </div>
     {% endfor %}
