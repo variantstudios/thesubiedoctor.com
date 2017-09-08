@@ -6,7 +6,7 @@ layout: default
   <section class="wrap">
     <h1 class="page-title">{{ page.title }}</h1>
     <h2 class="sub-title">{{ page.subtitle }}</h2>
-    <div>{{ content }}</div>
+    <div class="body">{{ content }}</div>
     {% if page.url contains "contact" %}
       {% include contact-form.html %}
     {% elsif page.url contains "schedule-repair" %}
