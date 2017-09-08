@@ -18,4 +18,3 @@ _comments:
   thank_you_message: "This is the message the visitor sees after they submit a contact message."  
 ---
 
-Replace me.

@@ -3,14 +3,11 @@ title: Schedule Repair
 search_engine_optimization:
   page_title: "Inventory of Cars for Sale - Subie Doctor, Denver Colorado"
   page_description: ""
-
-
-
 webform:
     subject: "The Subie Doctor: Schedule Repair Form"
     to: "team@variantstudios.com"
     thank_you_message: "Thank you. Your message has been sent. We will contact you shortly."
-layout: page
+layout: schedule
 class: form
 permalink: "/schedule-repair/"
 _comments:
@@ -21,4 +18,4 @@ _comments:
   thank_you_message: "This is the message the visitor sees after they submit a contact message."  
 ---
 
-Replace me.
+Whether you just need a pre-buy inspection, a transmission replaced, some performance upgrades or want to swap in that STi engine you've been dreaming about, the Doctor can take care of you. 

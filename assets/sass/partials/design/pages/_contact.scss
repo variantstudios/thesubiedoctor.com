@@ -1,13 +1,38 @@
 .contact-form {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #fafafa;
+    //background: #fafafa;
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     form {
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
         width: 50%;
         padding: 2em;
+        }
     }
     .map-embed {
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
         width: 50%;
+        }
+        iframe {
+            width: 100%;
+        }
     }
 }
+
+
+
+.schedule-form-page {
+    .body {
+      @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        @include preface;
+      }
+   
+    }
+  }
+
+  .schedule-repair-form {
+    max-width: 800px;
+    margin: 0 auto;
+  }

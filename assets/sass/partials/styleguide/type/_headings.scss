@@ -25,6 +25,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #373737;
   font-size: 3rem;
   text-align: center;
+  @include breakpoint($bp-small-down) {
+    font-size: 2rem;
+    
+    
+  }
 }
 .sub-title {
   margin-top: 5px;
@@ -33,4 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   text-transform: uppercase;
   font-size: 2rem;
+  @include breakpoint($bp-small-down) {
+    font-size: 1.8rem;
+  }
 }

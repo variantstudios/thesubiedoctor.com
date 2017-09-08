@@ -6,10 +6,22 @@ layout: page
   {% for car in site.cars %}
     <div class="car-item clearfix">
       <div class="car-item--image">
-          <a href="{{ car.url }}">
+        {% if car.inventory_option == 'sold' %}
+           <div class="sold-overlay">Sold</div>
+           <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
+        {% endif %}
+
+        {% if car.inventory_option == 'for_sale' %}
+        <a href="{{ car.url }}">
             <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
             <div class="price">{{ car.price }}</div>            
           </a>
+        {% endif %}
+
+        {% if car.inventory_option == 'coming_soon' %}
+          <div class="coming-soon-overlay">Coming Soon</div>
+          <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
+        {% endif %}
       </div>
       <div class="car-item--details">
         <a href="{{ car.url }}"><h3>{{ car.title }}</h3></a>
