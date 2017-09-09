@@ -26,7 +26,7 @@ $('.schedule-form .form-action').on('click touch', function() {
   var openTime = moment('09:00am', 'HH:mma');
   var closeTime = moment('5:30pm', 'h:mma');
   var openTime2 = moment('09:00am', 'h:mma');
-  var closeTime2 = moment('01:30pm', 'h:mma');
+  var closeTime2 = moment('01:00pm', 'h:mma');
 
 
   var monday = moment().isoWeekday(1);
