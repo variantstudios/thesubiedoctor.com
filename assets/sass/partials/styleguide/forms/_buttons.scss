@@ -8,6 +8,7 @@ input[type="submit"] {
     width: 100%;
     padding: 1em;
     font-weight: 700;
+    -webkit-appearance: none;
     &:hover {
       background: darken($color-one, 10%);
       border-color: darken($color-one, 15%);

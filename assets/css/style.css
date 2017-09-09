@@ -225,6 +225,7 @@ input[type="submit"] {
   width: 100%;
   padding: 1em;
   font-weight: 700;
+  -webkit-appearance: none;
 }
 input[type="submit"]:hover {
   background-color: #bb2025;
