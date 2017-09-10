@@ -73,6 +73,6 @@ cloudinaryurl: "https://res.cloudinary.com/thesubiedoctor/"
 typekit: "afz7owd"
 
 # Google Analytics - What site isn't using it?! --- UA-97408360-1
-google_analytics_tracking_id: ""
+google_analytics_tracking_id: "UA-97408360-1"
 
 exclude: ["readme.md", "vendor","node_modules","package.json", "package-lock.json","Gemfile","gulpfile.js","*.scss"]
