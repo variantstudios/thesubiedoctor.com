@@ -3,7 +3,7 @@ title: "The Subie Doctor"
 email: "team@variantstudios.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
-url: "" # the base hostname & protocol for your site - don't include the forward slash
+url: "https://thesubiedoctor.com" # the base hostname & protocol for your site - don't include the forward slash
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
 version: "3.2.1" # the version of jekyll
 
