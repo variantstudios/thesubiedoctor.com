@@ -1,7 +1,7 @@
 ---
-title: Schedule Repair
+title: Schedule Your Subaru Repair
 search_engine_optimization:
-  page_title: 'Inventory of Cars for Sale - Subie Doctor, Denver Colorado'
+  page_title: 'Schedule Your Subaru Repair - Subie Doctor, Denver Colorado'
   page_description:
 webform:
   subject: 'The Subie Doctor: Schedule Repair Form'
