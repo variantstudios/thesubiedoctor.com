@@ -14,11 +14,11 @@ _comments:
 ---
 
 
-### Reconditioned auto sales
+### Reconditioned Subaru Auto Sales
 
 &nbsp;All of our Subies have been fully inspected and all issues addressed. &nbsp;Many of our vehicles receive new head gaskets, timing belts and water pumps and some offer newly rebuilt engines with warranty.
 
-### Major repairs
+### Major Subaru Repairs
 
 *We specialize in large repair jobs such as:*
 
@@ -36,7 +36,7 @@ _comments:
 
 &nbsp;
 
-### Minor repairs
+### Minor Subaru Repairs
 
 **Brakes**<br>Brakes squeaking or grinding or just don’t feel right? &nbsp;We offer free brake inspections
 
@@ -60,7 +60,7 @@ _comments:
 
 &nbsp;
 
-### Other services
+### Other Subaru Services
 
 **Tire sales & service**<br>We carry most tire brands and use the latest technology tire mounting and balancing equipment to protect your rims
 
@@ -72,7 +72,7 @@ _comments:
 
 &nbsp; &nbsp;
 
-### New and used parts
+### New and used Subaru Parts
 
 We offer OEM parts at below dealer pricing and with no city taxes. &nbsp;We are unincorporated Adams county so our tax rate is a low 4.75%
 
@@ -80,7 +80,7 @@ We either stock or can find you quality and affordable used parts. &nbsp;View ou
 
 &nbsp;
 
-### Performance parts
+### Performance Subaru parts
 
 We offer a full line of aftermarket go-fast goodies including:
 
@@ -92,6 +92,6 @@ We offer a full line of aftermarket go-fast goodies including:
 * Mishimoto
 * IAG
 * Whiteline
-* And many more...
+* And many more…
 
 &nbsp;
