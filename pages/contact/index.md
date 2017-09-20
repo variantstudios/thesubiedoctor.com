@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact The Subie Doctor
 search_engine_optimization:
   page_title: 'Contact the Subie Doctor, Denver Colorado'
   page_description:
