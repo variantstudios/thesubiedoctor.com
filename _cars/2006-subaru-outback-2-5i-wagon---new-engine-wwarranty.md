@@ -1,5 +1,5 @@
 ---
-title: 2006 Subaru Outback 2.5i wagon - new engine w/warranty
+title: 2006 Subaru Outback 2.5i wagon
 make: Subaru
 model: Outback 2.5i wagon
 year: '2006'
