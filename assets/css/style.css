@@ -800,6 +800,10 @@ header .nav-section .top-nav {
 .car-full-node .car-item--details h3 {
   margin: 0;
 }
+.car-full-node .car-status {
+  font-weight: 700;
+  font-size: 1.2em;
+}
 
 .footer-wrapper {
   background: #fff;

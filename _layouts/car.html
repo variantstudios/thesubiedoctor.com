@@ -6,9 +6,21 @@ layout: default
   <section class="wrap car-full-node">
 
     <div class="car-details">
-      <h1 class="pagetitle">{{ page.title }}</h1>        
+      <h1 class="pagetitle">{{ page.title }}</h1>    
+      
+      {% if page.inventory_option == 'sold' %}
+         <p class="car-status">Sold</p>
+      {% endif %}
+
+      {% if page.inventory_option == 'coming' %}
+        <p class="car-status">Coming Soon</p>
+      {% endif %}
+
+
       <div class="detail-wrapper">
-        <div class="price detail">{{page.price}}</div>        
+        {% if page.price != nil %}
+        <div class="price detail">{{page.price}}</div>  
+        {% endif %}      
         <div class="detail">Year: {{page.year}}</div>
         <div class="detail">Make: {{page.make}}</div>
         <div class="detail">Model: {{page.model}}</div>
