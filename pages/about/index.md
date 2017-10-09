@@ -16,9 +16,7 @@ class: about
 layout: about
 permalink: /about/
 _comments:
-  photos:
-    - title: Add a title that will be visible when the user mouses over the image.
-      image_path: The image should be 1000px wide.
+  image_path: The image should be 1000px wide.
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
     This is the page description that is shown below the page title in the
