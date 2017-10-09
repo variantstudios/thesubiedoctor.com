@@ -16,7 +16,7 @@ class: about
 layout: about
 permalink: /about/
 _comments:
-  image_path: The image should be 1000px wide.
+  image_path: The image should be 980-1200px wide.
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
     This is the page description that is shown below the page title in the
