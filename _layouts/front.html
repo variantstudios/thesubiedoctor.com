@@ -1,29 +1,29 @@
 ---
 layout: default
 ---
-<div class="preface" style="background-image: url({{ page.header_image_path }});" >
+<div class="preface" style="background-image: url({{ page.header_image_path }});">
   <div class="wrap">
 
   <!-- Form Schedule -->
   <div class="schedule-form effect__click">
     <form method="post" action="/schedule-repair/?sent=true">
-      <input type="hidden" name="_to" value="{{page.webform.to}}">
-      <input type="hidden" name="_subject" value="{{page.webform.subject}}">
-      <input type="text" name="_gotcha" style="display: none;">
+      <input type="hidden" name="_to" value="{{page.webform.to}}" />
+      <input type="hidden" name="_subject" value="{{page.webform.subject}}" />
+      <input type="text" name="_gotcha" style="display: none;" />
 
       <!-- Form Section One -->
       <div class="phase-one phase"> 
         <h2 class="editable">Schedule Your Subaru Repair</h2>
-        <p class="editable">Whether your Subaru just needs a pre-buy inspection, a transmission replaced, some performance upgrades or want to swap in that STi engine you've been dreaming about, the Doctor can take care of you. </p>              
+        <p class="editable">Whether your Subaru just needs a pre-buy inspection, a transmission replaced, some performance upgrades or want to swap in that STi engine you've been dreaming about, the Doctor can take care of you.</p>              
         <div class="webform-component">
-          <input type="text" name="name" id="name" required="" placeholder="Name">
+          <input type="text" name="name" id="name" required="" placeholder="Name" />
         </div>
         <div class="webform-component">
-          <input type="email" name="email" id="email" required="" placeholder="Email">
+          <input type="email" name="email" id="email" required="" placeholder="Email" />
         </div>
         <div class="webform-component">
           <label>Preferred Date</label>
-          <input type="date" id="date" name="date">
+          <input type="date" id="date" name="date" />
         </div>
         <!-- Continue Button -->
         <div class="btn form-action">
@@ -38,8 +38,8 @@ layout: default
         <div class="webform-component">
             <textarea id="message" name="message" rows="4" placeholder="What needs done?"></textarea>
         </div>
-        <div class="g-recaptcha" data-sitekey="6LcUty8UAAAAAK5yyNyc8W-DkrlQZ9Ew9FE51Zlm"></div><br>
-        <input class="sendButton" type="submit" value="Schedule">
+        <div class="g-recaptcha" data-sitekey="6LcUty8UAAAAAK5yyNyc8W-DkrlQZ9Ew9FE51Zlm"></div><br />
+        <input class="sendButton" type="submit" value="Schedule" />
       </div>
 
     </form>
@@ -52,12 +52,12 @@ layout: default
   <section class="wrap clearfix front">
     <h1 class="page-title">{{ page.title }}</h1>
     <div class="cols">
-    <div class="intro col-2">
+    <div class="intro col-2" data-cms-content-wrapper="/_layouts/front.html">
       {{content}}
     </div>
     <div class="review-block col-2">
-       <img src="https://graph.facebook.com/1603567043008095/picture?type=large&w‌​idth=400&height=400" class="profile-pic"/>
-       <img src="/assets/images/stars.png" class="five-star">
+       <img src="https://graph.facebook.com/1603567043008095/picture?type=large&w‌​idth=400&height=400" class="profile-pic" />
+       <img src="/assets/images/stars.png" class="five-star" />
        <div class="review-text">
          <p>Such a great resource for Subaru owners. So much knowledge. Such great prices. And fabulous people. Plus the shop is super easy to find. Highly recommended!</p>
        </div>
