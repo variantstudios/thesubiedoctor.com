@@ -7,7 +7,7 @@ price:
 inventory_option: coming
 car_category_option: used
 photos:
-  - title:
+  - title: 2008 Forester Sports
     image_path: /assets/images/cars/2008-forester-sports/20170916_113906.jpg
 post_date: 2017-09-18 00:00:00
 ---
