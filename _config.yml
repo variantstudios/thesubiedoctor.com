@@ -34,8 +34,6 @@ pagination:
 
 #Collections
 collections:
-  people:
-    output: false
   sg:
     output: false
   cars:
