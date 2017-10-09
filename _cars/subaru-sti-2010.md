@@ -4,7 +4,7 @@ make: Subaru
 model: STi
 year: '2010'
 price: '$30,000'
-inventory_option: for_sale
+inventory_option: sold
 car_category_option: used
 photos:
   - title: Race shot
