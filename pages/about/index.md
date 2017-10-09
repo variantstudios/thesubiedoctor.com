@@ -4,7 +4,7 @@ subtitle: Todd Briley
 search_engine_optimization:
   page_title: 'About the Subie Doctor, Denver Colorado'
   page_description: We are subie.
-header_image_path: /assets/images/headers/about.jpg
+header_image_path: /assets/images/headers/home.jpg
 photos:
   - title: Todd Briley
     image_path: /assets/images/subie-about.jpg
@@ -12,6 +12,8 @@ photos:
     image_path: /assets/images/subie-about-2.jpg
   - title: Working
     image_path: /assets/images/subie-about-3.jpg
+  - title: Todd and Val
+    image_path: /assets/images/toddandval.jpg
 class: about
 layout: about
 permalink: /about/
