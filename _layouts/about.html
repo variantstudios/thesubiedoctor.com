@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="header-image">
-    <img src="{{ page.header_image_path }}"/>
+    <img src="{{ page.header_image_path }}" />
 </div>
 <main>
   <section class="wrap about-page">
@@ -11,23 +11,13 @@ layout: default
     <div class="about-photos slider">
             {% for item in page.photos %}
             <div class="photo">
-                <img src="{{item.image_path}}" alt="{{item.title}}" title="{{item.title}}">
+                <img src="{{item.image_path}}" alt="{{item.title}}" title="{{item.title}}" />
             </div>
               {% endfor %}
         </div>
 
-    <div>{{ content }}</div>
+    <div data-cms-content-wrapper="/_layouts/about.html">{{ content }}</div>
 
-    <div class="editable racing-block">
-        <h2>Interested in Racing?</h2>
-        <div class="racing-images">
-          <a href="http://www.coloradorallycross.org/" target="_blank">              
-            <img src="/assets/images/colorx.png" alt="">
-          </a>
-          <a href="https://www.rmsolo.org/" target="_blank">
-            <img src="/assets/images/logo.gif" alt="">
-          </a>
-        </div>
-    </div>
+    <div class="editable racing-block"><h2>Interested in Racing?</h2><div class="racing-images"><a target="_blank" href="http://www.coloradorallycross.org/"><img alt="" src="/assets/images/colorx.png" /> </a> <a target="_blank" href="https://www.rmsolo.org/"> <img alt="" src="/assets/images/logo.gif" /> </a></div></div>
   </section>
 </main>
