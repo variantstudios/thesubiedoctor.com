@@ -3,7 +3,7 @@ title: Subaru STi 2010 Custom AutoCross Champ
 make: Subaru
 model: STi
 year: '2010'
-price: '$30,000'
+price:
 inventory_option: sold
 car_category_option: used
 photos:
