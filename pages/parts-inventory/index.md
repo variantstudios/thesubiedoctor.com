@@ -3,6 +3,7 @@ title: Parts Inventory
 search_engine_optimization:
   page_title: 'Parts Inventory - Subie Doctor, Denver Colorado'
   page_description:
+  facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 class: parts-inventory
 permalink: /parts-inventory/
 layout: page
