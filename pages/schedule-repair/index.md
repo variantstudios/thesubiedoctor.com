@@ -3,6 +3,7 @@ title: Schedule Your Subaru Repair
 search_engine_optimization:
   page_title: 'Schedule Your Subaru Repair - Subie Doctor, Denver Colorado'
   page_description:
+  facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 webform:
   subject: 'The Subie Doctor: Schedule Repair Form'
   to: 'todd@thesubiedoctor.com, team@variantstudios.com'
@@ -21,6 +22,7 @@ _comments:
     send to more than one you can add commas between them, for example:
     hello1@test.com,hello2@test.com
   thank_you_message: This is the message the visitor sees after they submit a contact message.
+  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
 ---
 
 
