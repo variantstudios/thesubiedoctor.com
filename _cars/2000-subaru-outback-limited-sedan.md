@@ -1,7 +1,7 @@
 ---
 title: 2000 Subaru Outback Limited Sedan
 search_engine_optimization:
-  page_title: '2000 Subaru Outback Limited Sedan for sale'
+  page_title: '2000 Subaru Outback Limited Sedan for sale in Colorado.'
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 make: Subaru
