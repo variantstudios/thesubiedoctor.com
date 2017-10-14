@@ -4,6 +4,7 @@ subtitle: Todd Briley
 search_engine_optimization:
   page_title: 'About the Subie Doctor, Denver Colorado'
   page_description: We are subie.
+  facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 header_image_path: /assets/images/headers/home.jpg
 photos:
   - title: Todd Briley
@@ -23,6 +24,7 @@ _comments:
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
+  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
 ---
 
 
