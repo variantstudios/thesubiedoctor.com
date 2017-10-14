@@ -10,7 +10,7 @@
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta property="og:title" content="{% if page.search_engine_optimization.page_title %}{{ page.search_engine_optimization.page_title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:description" content="{% if page.search_engine_optimization.page_description %}{{ page.search_engine_optimization.page_description }}{% else %}{{ site.description }}{% endif %}">
-	<meta property="og:image" content="{% if page.search_engine_optimization.facebook_image_path %}{{ page.search_engine_optimization.facebook_image_path }}{% else %}/assets/images/thesubiedoctor-facebook-1200x630.png{% endif %}">
+	<meta property="og:image" content="{{ site.url }}{% if page.search_engine_optimization.facebook_image_path %}{{ page.search_engine_optimization.facebook_image_path }}{% else %}/assets/images/thesubiedoctor-facebook-1200x630.png{% endif %}">
 	<meta property="og:url" content="{{ page.url | prepend:site.url }}">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta property="og:type" content="website" />
