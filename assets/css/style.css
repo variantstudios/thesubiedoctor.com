@@ -1049,11 +1049,11 @@ main, header, footer, section, aside {
 }
 @media (min-width: 75em) {
   .schedule-form {
-    width: 30%;
+    width: 40%;
   }
 }
 .no-mq .schedule-form {
-  width: 30%;
+  width: 40%;
 }
 @media (min-width: 50em) {
   .schedule-form .btn {
