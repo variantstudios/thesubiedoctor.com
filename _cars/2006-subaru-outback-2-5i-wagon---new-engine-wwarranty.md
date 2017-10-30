@@ -1,14 +1,14 @@
 ---
 title: 2006 Subaru Outback 2.5i wagon
 search_engine_optimization:
-  page_title: '2006 Subaru Outback 2.5i wagon for sale in Colorado.'
+  page_title: 2006 Subaru Outback 2.5i wagon for sale in Colorado.
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 make: Subaru
 model: Outback 2.5i wagon
 year: '2006'
 price: $6900
-inventory_option: for_sale
+inventory_option: sold
 car_category_option: used
 photos:
   - title:
@@ -47,7 +47,9 @@ _comments:
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
 
 
