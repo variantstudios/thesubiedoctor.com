@@ -12,7 +12,7 @@ inventory_option: for_sale
 car_category_option: used
 photos:
   - title: 2008 Forester Sports
-    image_path: /assets/images/cars/2008-forester-sports/20170916_113906.jpg
+    image_path: /assets/images/00j0j-2cewk2wzjz7-600x450.jpg
   - title: 2008 Subaru Forester Sports
     image_path: /assets/images/00y0y-hokahx3eswl-600x450.jpg
   - title: 2008 Subaru Forester Sports
