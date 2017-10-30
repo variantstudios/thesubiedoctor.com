@@ -1,14 +1,14 @@
 ---
 title: 2008 Forester Sports
 search_engine_optimization:
-  page_title: '2008 Forester Sports for sale in Colorado.'
+  page_title: 2008 Forester Sports for sale in Colorado.
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 make: Subaru
 model: Forester Sports
 year: '2008'
-price:
-inventory_option: coming
+price: $7500
+inventory_option: sold
 car_category_option: used
 photos:
   - title: 2008 Forester Sports
@@ -19,7 +19,9 @@ _comments:
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px.
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
 
 
