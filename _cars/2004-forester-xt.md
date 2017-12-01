@@ -11,9 +11,7 @@ price: $6500
 inventory_option: for_sale
 car_category_option: used
 photos:
-  - title:
-    image_path:
-  - title:
+  - title: 2004 Forester XT Turbo
     image_path:
 post_date: 2017-11-30 00:00:00
 _comments:
