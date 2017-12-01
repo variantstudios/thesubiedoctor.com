@@ -13,6 +13,10 @@ car_category_option: used
 photos:
   - title: 2004 Forester XT Turbo
     image_path: /assets/images/cars/DSC_1901.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1895.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1896.jpg
 post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
