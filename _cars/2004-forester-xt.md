@@ -12,6 +12,8 @@ inventory_option: for_sale
 car_category_option: used
 photos:
   - title: "2004\_Subaru Forester XT Turbo"
+    image_path: 'https://photos.app.goo.gl/YJUvsVxfvnG2MeuE2'
+  - title:
     image_path:
 post_date: 2017-11-30 00:00:00
 _comments:
