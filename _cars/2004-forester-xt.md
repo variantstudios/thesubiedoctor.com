@@ -17,6 +17,38 @@ photos:
     image_path: /assets/images/cars/DSC_1895.jpg
   - title: 2004 Forester XT Turbo
     image_path: /assets/images/cars/DSC_1896.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1898.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1899.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1900.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1913.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1903.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1904.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1905.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1907.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1908.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1909.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1910.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1912.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1914.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1915.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1916.jpg
+  - title: 2004 Forester XT Turbo
+    image_path: /assets/images/cars/DSC_1917.jpg
 post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
