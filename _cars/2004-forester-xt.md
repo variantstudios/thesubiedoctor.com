@@ -13,7 +13,7 @@ car_category_option: used
 photos:
   - title: 2004 Forester XT Turbo
     image_path: /assets/images/cars/DSC_1901.jpg
-post_date: 2017-11-30 00:00:00
+post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
