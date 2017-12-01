@@ -39,7 +39,7 @@ photos:
     image_path: /assets/images/00p0p-94qvxmoboxa-600x450.jpg
   - title: 2008 Subaru Forester Sports
     image_path: /assets/images/00i0i-fvwdg6ugmzc-600x450.jpg
-post_date: 2017-10-30 00:00:00
+post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
