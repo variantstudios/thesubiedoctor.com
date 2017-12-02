@@ -8,7 +8,7 @@ make: Subaru
 model: Forester Sports
 year: '2008'
 price: $7500
-inventory_option: for_sale
+inventory_option: sold
 car_category_option: used
 photos:
   - title: 2008 Forester Sports
