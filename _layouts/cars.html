@@ -10,13 +10,11 @@ layout: page
         {% if car.inventory_option == 'sold' %}
            <div class="sold-overlay">Sold</div>
            <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
-           <p class="car-date">listed on {{ car.post_date | date: "%a, %b %d, %Y" }}</p>
         {% endif %}
 
         {% if car.inventory_option == 'for_sale' %}
         <a href="{{ car.url }}">
             <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
-            <p class="car-date">listed on {{ car.post_date | date: "%a, %b %d, %Y" }}</p>
             <div class="price">{{ car.price }}</div>            
           </a>
         {% endif %}
@@ -26,7 +24,6 @@ layout: page
             
           <div class="coming-soon-overlay">Coming Soon</div>
           <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
-          <p class="car-date">listed on {{ car.post_date | date: "%a, %b %d, %Y" }}</p>
         </a>
         {% endif %}
       </div>
