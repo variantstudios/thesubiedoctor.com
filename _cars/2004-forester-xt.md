@@ -1,7 +1,7 @@
 ---
 title: 2004 Forester XT Turbo
 search_engine_optimization:
-  page_title: 2008 Forester Sports for sale in Colorado.
+  page_title: '2004 Forester XT for sale in Denver, Colorado.'
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 make: Subaru
