@@ -3,7 +3,7 @@ title: 2004 Forester XT Turbo
 search_engine_optimization:
   page_title: '2004 Forester XT for sale in Denver, Colorado.'
   page_description:
-  facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
+  facebook_image_path: /assets/images/cars/DSC_1918.jpg
 make: Subaru
 model: Forester XT
 year: '2004'
