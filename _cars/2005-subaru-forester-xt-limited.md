@@ -1,7 +1,7 @@
 ---
 title: 2005 Subaru Forester XT Limited
 search_engine_optimization:
-  page_title: '2005 Subaru Forester XT Limited for sale in Colorado.'
+  page_title: 2005 Subaru Forester XT Limited for sale in Colorado.
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 make: Subaru
@@ -50,13 +50,15 @@ photos:
   - title: Back Passenger's Side view
     image_path: >-
       /assets/images/cars/2005-subaru-forester-xt-limited/2005-subaru-forester-xt-limited--back-p-side.jpg
-post_date: 2017-09-05 00:00:00
+post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
 
 
