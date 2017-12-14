@@ -49,7 +49,7 @@ photos:
     image_path: /assets/images/cars/DSC_1916.jpg
   - title: 2004 Forester XT Turbo
     image_path: /assets/images/cars/DSC_1917.jpg
-post_date:
+post_date: 2017-12-01 00:00:00
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
