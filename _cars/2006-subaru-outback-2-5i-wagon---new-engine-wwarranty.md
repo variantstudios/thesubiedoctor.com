@@ -41,7 +41,7 @@ photos:
   - title:
     image_path: >-
       /assets/images/cars/2006-subaru-outback-2-5i-wagon/00c0c_3sDHepdGx51_1200x900.jpg
-post_date: 2017-09-19 00:00:00
+post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
