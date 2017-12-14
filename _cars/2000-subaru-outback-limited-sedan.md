@@ -56,7 +56,7 @@ photos:
   - title: Tire
     image_path: >-
       /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--tire.jpg
-post_date: 2017-09-06 00:00:00
+post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
