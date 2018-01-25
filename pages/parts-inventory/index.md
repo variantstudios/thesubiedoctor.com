@@ -12,9 +12,13 @@ _comments:
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px.
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
 
+
+### For additional parts inventory&nbsp;[CLICK HERE](https://www.coloradosubies.net/inventory/?PageNumber=1&amp;BodyStyle=Parts+%26+Accessories&amp;Make=&amp;MaxPrice=&amp;Condition=&amp;SoldStatus=AllVehicles&amp;Mileage=&amp;Sort=MakeAsc&amp;StockNumber=&amp;PageSize=25)
 
 ### Parts from a 2005 Forester XT, white:
 
