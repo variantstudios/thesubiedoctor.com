@@ -3,7 +3,7 @@ title: 2000 Subaru Impreza 2.5 RS Sedan C504241
 make: Subaru
 model: Impreza RS Sedan
 year: '2000'
-price: '6999'
+price: '$6,999'
 inventory_option: coming
 car_category_option: used
 photos:
@@ -13,9 +13,14 @@ photos:
     image_path:
 post_date:
 search_engine_optimization:
-  page_title:
-  page_description:
-  facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
+  page_title: >-
+    Used 2000 Subaru Impreza 2.5 RS AWD Sedan with 189k miles and manual
+    transmission
+  page_description: >-
+    The Subie Doctor has a rehabbed an RS that's ready for a new home. This 2000
+    Impreza 2.5 RS Sedan has a motor rebuild and several other improvements to
+    make sure it has many miles in its future.
+  facebook_image_path: /assets/images/rs-1.jpg
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
@@ -27,7 +32,7 @@ _comments:
 ---
 
 
-Another RS has been brought back to life thanks to The Subie Doctor. Our "Save the RS" program has done wonders for this patient, and it's ready for a new home. After examination The Doctor prescribed the following:
+Another RS has been brought back to life thanks to The Subie Doctor. Our “Save the RS” program has done wonders for this patient, and it’s ready for a new home. After examination The Doctor prescribed the following:
 
 * &nbsp;A fresh coat of Aspen White Paint was applied
 * A replacement EJ25 long block with 117k miles that was mechanically sound
@@ -37,4 +42,4 @@ Another RS has been brought back to life thanks to The Subie Doctor. Our "Save t
 * New KYB struts on all 4 corners and alignment
 * Emissions test complete
 
-The car runs smooth, and drives straight and quiet. It's a great example of a classic Subaru and it's ready for many miles with it;s new owner.<br><br>Visit The Subie Doctor to become a valuable part of the Save the RS program today.
+The car runs smooth, and drives straight and quiet. These are getting harder to find in good condition without rusted panels. It’s a great example of a classic Subaru and it’s ready for many miles with it's new owner.<br><br>Visit The Subie Doctor to become a valuable part of the Save the RS program today.<br><br>**\***price includes Emissions Test fee and Title Fee<br>Taxes are not included in the Sale Price of the Vehicle<br>**NO DEALER HANDLING CHARGES**
