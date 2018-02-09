@@ -4,7 +4,7 @@ make: Subaru
 model: Impreza RS Sedan
 year: '2000'
 price: '$6,999'
-inventory_option: coming
+inventory_option: for_sale
 car_category_option: used
 photos:
   - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
@@ -42,4 +42,4 @@ Another RS has been brought back to life thanks to The Subie Doctor. Our “Save
 * New KYB struts on all 4 corners and alignment
 * Emissions test complete
 
-The car runs smooth, and drives straight and quiet. These are getting harder to find in good condition without rusted panels. It’s a great example of a classic Subaru and it’s ready for many miles with it's new owner.<br><br>Visit The Subie Doctor to become a valuable part of the Save the RS program today.<br><br>**\***price includes Emissions Test fee and Title Fee<br>Taxes are not included in the Sale Price of the Vehicle<br>**NO DEALER HANDLING CHARGES**
+The car runs smooth, and drives straight and quiet. The 2.5 RS models cars are getting harder to find in good condition, without rusted panels. This a great example of a classic Subaru and it’s ready for many miles with it’s new owner.<br><br>Visit The Subie Doctor to contribute to the Save the RS program today.<br><br>**\***price includes Emissions Test fee and Title Fee<br>Taxes are not included in the Sale Price of the Vehicle<br>**NO DEALER HANDLING CHARGES**
