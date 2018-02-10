@@ -1,7 +1,7 @@
 ---
 title: 2004 Ford Focus SVT Hatchback
 make: Ford
-model: Focus SVT
+model: Focus SVT Hatchback
 year: '2004'
 price:
 inventory_option: coming
