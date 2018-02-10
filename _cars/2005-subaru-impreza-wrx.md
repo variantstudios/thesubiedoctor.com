@@ -1,7 +1,7 @@
 ---
-title: 2005 Subaru Impreza WRX
+title: 2005 Subaru Impreza WRX Wagon
 make: Subaru
-model: Impreza WRX
+model: Impreza WRX Wagon
 year: '2005'
 price:
 inventory_option: coming
