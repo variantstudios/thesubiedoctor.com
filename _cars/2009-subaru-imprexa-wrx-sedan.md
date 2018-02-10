@@ -1,14 +1,14 @@
 ---
 title: 2009 Subaru Imprexa WRX Sedan
-make:
-model:
-year:
+make: Subaru
+model: Impreza WRX Sedan
+year: '2009'
 price:
-inventory_option:
-car_category_option:
+inventory_option: coming
+car_category_option: used
 photos:
   - title:
-    image_path:
+    image_path: /assets/images/COMINGSOON.png
 post_date:
 search_engine_optimization:
   page_title:
@@ -23,3 +23,5 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+
+
