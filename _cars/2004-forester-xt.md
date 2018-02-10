@@ -12,7 +12,7 @@ inventory_option: for_sale
 car_category_option: used
 photos:
   - title: '2004 Forester XT Turbo - Denver, CO'
-    image_path: /assets/images/cars/DSC_1918.jpg
+    image_path: /assets/images/foz-1.jpg
   - title: 2004 Forester XT Turbo - fog lamps
     image_path: /assets/images/cars/DSC_1895.jpg
   - title: 2004 Forester XT Turbo - driver front
