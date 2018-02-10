@@ -1,5 +1,5 @@
 ---
-title: 2005 SUBARU IMPREZA WRX
+title: 2005 Subaru Impreza WRX
 make: Subaru
 model: Impreza WRX
 year: '2005'
@@ -25,4 +25,4 @@ _comments:
 ---
 
 
-...coming soon...
+…coming soon…
