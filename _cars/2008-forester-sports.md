@@ -7,7 +7,7 @@ search_engine_optimization:
 make: Subaru
 model: Forester Sports
 year: '2008'
-price: $7500
+price: '0'
 inventory_option: sold
 car_category_option: used
 photos:
@@ -51,4 +51,4 @@ _comments:
 ---
 
 
-<div><p>2008 Subaru Forester Sports, 2.5i, auto, AWD, 150k miles, 100 miles on a rebuilt long block which includes a 12k mile/12 month warranty, 17" wheels with brand new Kuhmo all-season tires and pressure monitors, auto climate control, fully inspected and passed emissions. Windshield and wipers are new. Only body damage is on the front left fender where it meets the bumper.<br /><br />Clean title and carfax, local CO car. $7500 plus tax, includes temp tag and NO DEALER FEES!</p></div>
+<div><p>SOLD</p></div>
