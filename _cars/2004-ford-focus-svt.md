@@ -1,14 +1,14 @@
 ---
 title: 2004 Ford Focus SVT
-make:
-model:
-year:
+make: Ford
+model: Focus SVT
+year: '2004'
 price:
-inventory_option:
-car_category_option:
+inventory_option: coming
+car_category_option: used
 photos:
-  - title:
-    image_path:
+  - title: '2004 Ford Focus SVT for sale in Denver, Colorado at The Subie Doctor'
+    image_path: /assets/images/1.jpg
 post_date:
 search_engine_optimization:
   page_title:
@@ -23,3 +23,6 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+
+
+...coming soon...&nbsp;
