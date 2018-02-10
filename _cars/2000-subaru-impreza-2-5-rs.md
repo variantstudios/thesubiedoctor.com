@@ -1,8 +1,8 @@
 ---
-title: 2000 Subaru Impreza RS 2.5 Coupe
+title: 2001 Subaru Impreza RS 2.5 Coupe
 make: Subaru
 model: Impreza 2.5 RS
-year: '2000'
+year: '2001'
 price:
 inventory_option: coming
 car_category_option: used
