@@ -9,6 +9,8 @@ car_category_option: used
 photos:
   - title: '2004 Ford Focus SVT for sale in Denver, Colorado at The Subie Doctor'
     image_path: /assets/images/1.jpg
+  - title:
+    image_path: /assets/images/2.jpg
 post_date:
 search_engine_optimization:
   page_title:
@@ -25,4 +27,4 @@ _comments:
 ---
 
 
-...coming soon...&nbsp;
+…coming soon…
