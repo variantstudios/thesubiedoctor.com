@@ -1,18 +1,22 @@
 ---
 title: 2007 Impreza 2.5i Wagon PARTOUT
-make:
-model:
-year:
+make: '2007'
+model: Impreza 2.5i
+year: '2007'
 price:
-inventory_option:
-car_category_option:
+inventory_option: for_sale
+car_category_option: used
 photos:
   - title:
     image_path:
-post_date:
+post_date: 2018-02-01 00:00:00
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: >-
+    2007 Subaru Impreza 2.51 Wagon used parts available in Denver, Colorado at
+    The Subie Doctor
+  page_description: >-
+    This wagon has damage to the rear passenger quarter but many parts are in
+    great shape. Call for current availability.
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
@@ -23,3 +27,6 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+
+
+Many parts still available, please call for updated inventory
