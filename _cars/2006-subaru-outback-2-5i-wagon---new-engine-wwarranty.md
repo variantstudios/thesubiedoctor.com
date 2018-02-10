@@ -1,5 +1,5 @@
 ---
-title: 2006 Subaru Outback 2.5i wagon
+title: 2006 Subaru Outback 2.5i wagon (SOLD)
 search_engine_optimization:
   page_title: 2006 Subaru Outback 2.5i wagon for sale in Colorado.
   page_description:
@@ -7,7 +7,7 @@ search_engine_optimization:
 make: Subaru
 model: Outback 2.5i wagon
 year: '2006'
-price: $6900
+price:
 inventory_option: sold
 car_category_option: used
 photos:
@@ -53,4 +53,4 @@ _comments:
 ---
 
 
-2006 Subaru Outback wagon, 2.5i, auto, AWD, 142k miles, engine just replaced with a rebuilt long block which comes with 12k mile/12 month warranty, 17" wheels with brand new Kuhmo all-season tires, aftermarket stereo, fully inspected and passed emissions. No major damage, just a few dings and scratches.<br><br>Clean title and carfax, $6950 and NO DEALER FEES!
+SOLD
