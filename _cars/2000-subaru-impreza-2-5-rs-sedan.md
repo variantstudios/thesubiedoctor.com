@@ -2,7 +2,7 @@
 title: 2001 Subaru Impreza 2.5 RS Sedan C504241
 make: Subaru
 model: Impreza RS Sedan
-year: '2000'
+year: '2001'
 price: '$6,999'
 inventory_option: for_sale
 car_category_option: used
