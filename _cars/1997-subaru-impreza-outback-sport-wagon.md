@@ -1,14 +1,14 @@
 ---
 title: 1997 Subaru Impreza Outback Sport Wagon
-make:
-model:
-year:
+make: Subaru
+model: Impreza Outback Sport Wagon
+year: '1997'
 price:
-inventory_option:
-car_category_option:
+inventory_option: coming
+car_category_option: used
 photos:
   - title:
-    image_path:
+    image_path: /assets/images/COMINGSOON.png
 post_date:
 search_engine_optimization:
   page_title:
@@ -23,3 +23,6 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+
+
+...coming soon...
