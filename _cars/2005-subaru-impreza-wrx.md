@@ -1,14 +1,14 @@
 ---
 title: 2005 SUBARU IMPREZA WRX
-make:
-model:
-year:
+make: Subaru
+model: Impreza WRX
+year: '2005'
 price:
-inventory_option:
-car_category_option:
+inventory_option: coming
+car_category_option: used
 photos:
-  - title:
-    image_path:
+  - title: '2005 Subaru Impreza WRX for sale in Denver, Colorado at The Subie Doctor'
+    image_path: /assets/images/1-1.jpg
 post_date:
 search_engine_optimization:
   page_title:
@@ -23,3 +23,6 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+
+
+...coming soon...
