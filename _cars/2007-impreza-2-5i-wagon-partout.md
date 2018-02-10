@@ -8,6 +8,24 @@ inventory_option: for_sale
 car_category_option: used
 photos:
   - title:
+    image_path: /assets/images/1-3.jpg
+  - title:
+    image_path: /assets/images/2-2.jpg
+  - title:
+    image_path: /assets/images/3-1.jpg
+  - title:
+    image_path: /assets/images/4-1.jpg
+  - title:
+    image_path: /assets/images/5-1.jpg
+  - title:
+    image_path: /assets/images/7-1.jpg
+  - title:
+    image_path: /assets/images/8-1.jpg
+  - title:
+    image_path: /assets/images/12-1.jpg
+  - title:
+    image_path: /assets/images/13-1.jpg
+  - title:
     image_path:
 post_date: 2018-02-01 00:00:00
 search_engine_optimization:
