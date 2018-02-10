@@ -1,5 +1,5 @@
 ---
-title: 2008 Forester Sports
+title: 2008 Forester Sports (SOLD)
 search_engine_optimization:
   page_title: 2008 Forester Sports for sale in Colorado.
   page_description:
