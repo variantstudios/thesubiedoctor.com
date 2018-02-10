@@ -11,7 +11,7 @@ photos:
     image_path: /assets/images/rs-1.jpg
   - title:
     image_path:
-post_date:
+post_date: 2018-02-02 00:00:00
 search_engine_optimization:
   page_title: >-
     Used 2000 Subaru Impreza 2.5 RS AWD Sedan with 189k miles and manual
@@ -34,7 +34,7 @@ _comments:
 
 Another RS has been brought back to life thanks to The Subie Doctor. Our “Save the RS” program has done wonders for this patient, and it’s ready for a new home. After examination The Doctor prescribed the following:
 
-* &nbsp;A fresh coat of Aspen White Paint was applied
+* A fresh coat of Aspen White Paint was applied
 * A replacement EJ25 long block with 117k miles that was mechanically sound
 * Heads were machined and rebuilt
 * New head gaskets, valve cover gaskets and seals used for the rebuild
