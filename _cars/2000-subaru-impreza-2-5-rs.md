@@ -1,5 +1,5 @@
 ---
-title: 2000 Subaru Impreza RS 2.5
+title: 2000 Subaru Impreza RS 2.5 Coupe
 make: Subaru
 model: Impreza 2.5 RS
 year: '2000'
@@ -25,4 +25,4 @@ _comments:
 ---
 
 
-...coming soon...
+…coming soon…
