@@ -1,5 +1,5 @@
 ---
-title: 2004 Ford Focus SVT
+title: 2004 Ford Focus SVT Hatchback
 make: Ford
 model: Focus SVT
 year: '2004'
