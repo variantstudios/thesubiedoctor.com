@@ -8,7 +8,7 @@ make: Subaru
 model: Forester XT
 year: '2004'
 price: '$6,299'
-inventory_option: for_sale
+inventory_option: sold
 car_category_option: used
 photos:
   - title: '2004 Forester XT Turbo - Denver, CO'
@@ -59,6 +59,5 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-
 
 <div><p>2004 Subaru Forester XT 2.5 Turbo has an automatic transmission, AWD, 127k miles on the odometer but <strong>only </strong><strong><strong>1</strong>00 miles on a new OEM short block</strong> <strong>with rebuilt heads!</strong>&nbsp;<br /><br />It rolls on new 16" Konig wheels with brand new Ventus all-season tires, automatic climate control, cruise control, auto dimming rearview mirror, power windows and locks.<br /><br />Very clean interior, minor body damage on the passenger side rear quarter panel, a few scratches here and there (as all 125k+ vehicles will have).<br /><br />It's a sporty,, clean car that's WAY less boring than an SUV.<br />It runs quiet and drives smooth.<br />It's ready for all 4 Colorado Seasons (and YOU)</p><p><strong>$6500&nbsp;</strong><strong></strong><strong>NO DEALER FEE*</strong><br />** vehicle rebuilt from a salvage title **<br />&nbsp;</p><p>* price does not include tax, does include title and emissions fees</p></div>
