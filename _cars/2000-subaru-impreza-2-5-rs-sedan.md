@@ -11,7 +11,7 @@ photos:
     image_path: /assets/images/rs-1.jpg
   - title:
     image_path:
-post_date: 2018-02-02 00:00:00
+post_date: 2018-03-07 00:00:00
 search_engine_optimization:
   page_title: >-
     Used 2000 Subaru Impreza 2.5 RS AWD Sedan with 189k miles and manual
@@ -30,7 +30,6 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-
 
 Another RS has been brought back to life thanks to The Subie Doctor. Our “Save the RS” program has done wonders for this patient, and it’s ready for a new home. After examination The Doctor prescribed the following:
 
