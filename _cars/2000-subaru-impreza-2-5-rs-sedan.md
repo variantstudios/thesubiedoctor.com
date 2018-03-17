@@ -8,9 +8,25 @@ inventory_option: for_sale
 car_category_option: used
 photos:
   - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
-    image_path: /assets/images/rs-1.jpg
-  - title:
-    image_path:
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (19)hero.jpg
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (1)_front bumper.JPG
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (3)_passenger side.JPG
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (4)_driver side.JPG
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (5)_trunk wing.JPG
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (6)_guages.JPG
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (13)_sunroof.JPG
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (7)_fron driver seat.JPG
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (14)_2.5 motor.JPG
+  - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
+    image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (2)-EFFECTS.jpg
 post_date: 2018-03-07 00:00:00
 search_engine_optimization:
   page_title: >-
