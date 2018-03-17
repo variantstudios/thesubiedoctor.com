@@ -1,15 +1,79 @@
 ---
 title: 2005 Subaru Impreza WRX Wagon
 make: Subaru
-model: Impreza WRX Wagon
+model: Impreza 2.5 RS Wagon
 year: '2005'
-price:
-inventory_option: coming
+price: '6499'
+inventory_option: for_sale
 car_category_option: used
 photos:
-  - title: '2005 Subaru Impreza WRX for sale in Denver, Colorado at The Subie Doctor'
-    image_path: /assets/images/1-1.jpg
-post_date:
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_DenverCO
+      (main).png
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (2).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (6).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (4).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (7).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (8).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (9).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (10).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (12).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (14).JPG
+  - title: >-
+      2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
+      Doctor
+    image_path: >-
+      /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
+      (1).JPG
+post_date: 2018-03-16 00:00:00
 search_engine_optimization:
   page_title:
   page_description:
@@ -23,6 +87,5 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-
 
 …coming soon…
