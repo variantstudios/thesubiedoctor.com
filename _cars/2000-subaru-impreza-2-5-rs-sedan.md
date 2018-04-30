@@ -47,14 +47,3 @@ _comments:
     at least 600 x 315px.
 ---
 
-Another RS has been brought back to life thanks to The Subie Doctor. Our “Save the RS” program has done wonders for this patient, and it’s ready for a new home. After examination The Doctor prescribed the following:
-
-* A fresh coat of Aspen White Paint was applied
-* A replacement EJ25 long block with 117k miles that was mechanically sound
-* Heads were machined and rebuilt
-* New head gaskets, valve cover gaskets and seals used for the rebuild
-* New timing belt kit, water pump and thermostat installed
-* New KYB struts on all 4 corners and alignment
-* Emissions test complete
-
-The car runs smooth, and drives straight and quiet. The 2.5 RS models cars are getting harder to find in good condition, without rusted panels. This a great example of a classic Subaru and it’s ready for many miles with it’s new owner.<br><br>Visit The Subie Doctor to contribute to the Save the RS program today.<br><br>**\***price includes Emissions Test fee and Title Fee<br>Taxes are not included in the Sale Price of the Vehicle<br>**NO DEALER HANDLING CHARGES**
