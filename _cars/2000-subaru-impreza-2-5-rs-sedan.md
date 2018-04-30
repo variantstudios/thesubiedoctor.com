@@ -3,8 +3,8 @@ title: 2000 Subaru Impreza 2.5 RS Sedan C504241
 make: Subaru
 model: Impreza RS Sedan
 year: '2000'
-price: '$6,999'
-inventory_option: for_sale
+price:
+inventory_option: sold
 car_category_option: used
 photos:
   - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
@@ -27,7 +27,7 @@ photos:
     image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (14)_2.5 motor.JPG
   - title: 2000 Subaru Impreza 2.5 RS Sedan in Denver Colorado For Sale
     image_path: /assets/images/2000_Subaru_RS_Sedan_C504241 (2)-EFFECTS.jpg
-post_date: 2018-03-07 00:00:00
+post_date: Invalid date
 search_engine_optimization:
   page_title: >-
     Used 2000 Subaru Impreza 2.5 RS AWD Sedan with 189k miles and manual
