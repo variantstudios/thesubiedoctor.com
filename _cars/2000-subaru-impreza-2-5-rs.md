@@ -4,7 +4,7 @@ make: Subaru
 model: Impreza 2.5 RS
 year: '2001'
 price:
-inventory_option: coming
+inventory_option: sold
 car_category_option: used
 photos:
   - title:
@@ -24,5 +24,3 @@ _comments:
     at least 600 x 315px.
 ---
 
-
-…coming soon…
