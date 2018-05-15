@@ -4,11 +4,11 @@ make: Subaru
 model: Baja Sport
 year: '2003'
 price:
-inventory_option: coming
+inventory_option: sold
 car_category_option: used
 photos:
   - title:
-    image_path: /assets/images/COMINGSOON.png
+    image_path:
 post_date:
 search_engine_optimization:
   page_title:
@@ -24,5 +24,4 @@ _comments:
     at least 600 x 315px.
 ---
 
-
-...coming soon...
+SOLD
