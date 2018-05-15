@@ -1,5 +1,5 @@
 ---
-title: 2003 Subaru Baja Sport
+title: 2003 Subaru Baja Sport (SOLD)
 make: Subaru
 model: Baja Sport
 year: '2003'
