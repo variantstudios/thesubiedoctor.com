@@ -7,7 +7,7 @@ search_engine_optimization:
 make: Subaru
 model: Forester Sports
 year: '2008'
-price: '0'
+price:
 inventory_option: sold
 car_category_option: used
 photos:
