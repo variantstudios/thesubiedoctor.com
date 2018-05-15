@@ -46,4 +46,4 @@ _comments:
     at least 600 x 315px.
 ---
 
-Many parts still available, please call for updated inventory
+Many parts still available, please call or text 720-222-5022 for updated inventory
