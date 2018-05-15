@@ -1,5 +1,5 @@
 ---
-title: 2001 Subaru Impreza RS 2.5 Coupe
+title: 2001 Subaru Impreza RS 2.5 Coupe (SOLD)
 make: Subaru
 model: Impreza 2.5 RS
 year: '2001'
@@ -8,7 +8,7 @@ inventory_option: sold
 car_category_option: used
 photos:
   - title:
-    image_path: /assets/images/COMINGSOON.png
+    image_path:
 post_date:
 search_engine_optimization:
   page_title:
@@ -24,3 +24,4 @@ _comments:
     at least 600 x 315px.
 ---
 
+SOLD
