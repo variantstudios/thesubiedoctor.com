@@ -11,51 +11,9 @@ price:
 inventory_option: sold
 car_category_option: used
 photos:
-  - title: Driver's back side
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--back-d-side.jpg
-  - title: Passenger's side
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--back-p-side.jpg
-  - title: Back View
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--back.jpg
-  - title: Bumber
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--bumper.jpg
-  - title: Driver's side
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--d-side.jpg
-  - title: Dash
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--dash.jpg
-  - title: Dashboard
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--dashboard.jpg
-  - title: Engine
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--engine.jpg
   - title: Driver's Front Side
     image_path: >-
       /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--front-d-side.jpg
-  - title: Inside Front
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--front.jpg
-  - title: Trunk
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--trunk.jpg
-  - title: Back
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--inside-back.jpg
-  - title: Driver's inside
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--inside-d-side.jpg
-  - title: Passenger's side
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--p-side.jpg
-  - title: Tire
-    image_path: >-
-      /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--tire.jpg
 post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
@@ -66,6 +24,5 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-
 
 SOLD
