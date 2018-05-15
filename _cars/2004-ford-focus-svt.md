@@ -4,17 +4,20 @@ make: Ford
 model: Focus SVT Hatchback
 year: '2004'
 price:
-inventory_option: coming
+inventory_option: for_sale
 car_category_option: used
 photos:
   - title: '2004 Ford Focus SVT for sale in Denver, Colorado at The Subie Doctor'
     image_path: >-
       /assets/images/thesubiedoctor-forsale-usedcar-denverco-2004fordfocussvt.jpg
-post_date:
+post_date: 2018-04-30 00:00:00
 search_engine_optimization:
-  page_title:
-  page_description:
-  facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
+  page_title: >-
+    Used 2004 Ford Focus SVT Hatchback Euro Package for sale in Denver Colorado
+    at The Subie Doctor
+  page_description: Find out more about this limited edition Focus SVT
+  facebook_image_path: >-
+    /assets/images/cars/TheSubieDoctor_ForSale_UsedCar_DenverCO_2004FordFocusSVT.jpg
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
