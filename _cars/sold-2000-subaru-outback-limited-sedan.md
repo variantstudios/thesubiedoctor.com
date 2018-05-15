@@ -11,7 +11,7 @@ price:
 inventory_option: sold
 car_category_option: used
 photos:
-  - title: 'Driver's Front Side'
+  - title: "Driver's Front Side"
     image_path: >-
       /assets/images/cars/2000-subaru-outback-limited-sedan/2000-subaru-outback-limited-sedan--front-d-side.jpg
 post_date:
