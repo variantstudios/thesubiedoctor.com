@@ -3,7 +3,7 @@ title: 2004 Ford Focus SVT Hatchback Euro Package
 make: Ford
 model: Focus SVT Hatchback
 year: '2004'
-price: '$6999'
+price: 6999
 inventory_option: for_sale
 car_category_option: used
 photos:
