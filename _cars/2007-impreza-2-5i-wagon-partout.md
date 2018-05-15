@@ -3,7 +3,7 @@ title: 2007 Impreza 2.5i Wagon PARTOUT
 make: '2007'
 model: Impreza 2.5i
 year: '2007'
-price:
+price: CALL FOR INFO
 inventory_option: for_sale
 car_category_option: used
 photos:
