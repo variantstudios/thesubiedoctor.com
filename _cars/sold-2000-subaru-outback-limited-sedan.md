@@ -25,4 +25,3 @@ _comments:
     at least 600 x 315px.
 ---
 
-SOLD
