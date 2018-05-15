@@ -8,7 +8,7 @@ inventory_option: sold
 car_category_option: used
 photos:
   - title:
-    image_path:
+    image_path: /assets/images/cars/31531050_2291280900898279_1455044089916424192_n.jpg
 post_date:
 search_engine_optimization:
   page_title:
