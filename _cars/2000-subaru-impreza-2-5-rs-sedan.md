@@ -1,5 +1,5 @@
 ---
-title: 2000 Subaru Impreza 2.5 RS Sedan C504241
+title: '2000 Subaru Impreza 2.5 RS Sedan [SOLD]'
 make: Subaru
 model: Impreza RS Sedan
 year: '2000'
