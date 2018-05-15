@@ -8,7 +8,7 @@ inventory_option: sold
 car_category_option: used
 photos:
   - title:
-    image_path:
+    image_path: /assets/images/cars/20180404_094613.jpg
 post_date:
 search_engine_optimization:
   page_title:
