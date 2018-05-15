@@ -7,7 +7,7 @@ search_engine_optimization:
 make: Subaru
 model: Forester XT
 year: '2004'
-price: '$6,299'
+price:
 inventory_option: sold
 car_category_option: used
 photos:
