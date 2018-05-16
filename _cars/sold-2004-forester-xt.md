@@ -13,7 +13,7 @@ car_category_option: used
 photos:
   - title: '2004 Forester XT Turbo - Denver, CO'
     image_path: /assets/images/foz-1.jpg
-post_date: Invalid date
+post_date:
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
