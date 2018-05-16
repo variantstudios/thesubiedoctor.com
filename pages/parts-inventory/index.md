@@ -6,7 +6,7 @@ search_engine_optimization:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 class: parts-inventory
 permalink: /parts-inventory/
-layout: page
+layout: default
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
