@@ -87,7 +87,7 @@ gulp.task('sass-deploy', function () {
 gulp.task('watch', function () {
   gulp.watch('assets/sass/**', ['compass']);
   gulp.watch('assets/js/dev/**', ['scripts']);
-  gulp.watch(['**.md', '**.html', '_layouts/**.html', '_includes/**.html', '_data/**', 'pages/**', 'assets/**.csv', 'assets/images/**','assets/js/**', 'projects/**'], ['jekyll-rebuild']);
+  gulp.watch(['**.md', '**.html', '_layouts/**.html', '_includes/**.html', '_data/**', 'pages/**', 'assets/**.csv', 'assets/images/**','assets/js/**', '_cars/**'], ['jekyll-rebuild']);
 });
 
 // Compile Compass/SASS and Auto Prefix
