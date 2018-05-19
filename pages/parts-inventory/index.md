@@ -17,6 +17,4 @@ _comments:
     at least 600 x 315px.
 ---
 
-### Used Subaru Parts for Sale<br>[CURRENT INVENTORY (click here)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMf-l-8lUA3zzLE5u4Cg9arpJlvWGF7Ov2zHPGdrYVEyUB2zuSdYUWoC3zsMuStJPUGb8svwsPIG4D/pubhtml?gid=1375797582&amp;single=true){: target="_blank"}<br>&nbsp;
-
-## &nbsp;
+### Used Subaru Parts for Sale<br>[CURRENT INVENTORY (click here)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMf-l-8lUA3zzLE5u4Cg9arpJlvWGF7Ov2zHPGdrYVEyUB2zuSdYUWoC3zsMuStJPUGb8svwsPIG4D/pubhtml?gid=1375797582&amp;single=true){: target="_blank"}
