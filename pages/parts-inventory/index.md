@@ -19,4 +19,4 @@ _comments:
 
 ### Used Subaru Parts for Sale:<br>&nbsp;
 
-”https://docs.google.com/spreadsheets/d/e/2PACX-1vRMf-l-8lUA3zzLE5u4Cg9arpJlvWGF7Ov2zHPGdrYVEyUB2zuSdYUWoC3zsMuStJPUGb8svwsPIG4D/pubhtml?gid=45252792&single=true&widget=true&headers=false”
+## [View our live inventory by CLICKING HERE](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMf-l-8lUA3zzLE5u4Cg9arpJlvWGF7Ov2zHPGdrYVEyUB2zuSdYUWoC3zsMuStJPUGb8svwsPIG4D/pubhtml?gid=45252792&amp;single=true){: target="_blank"}
