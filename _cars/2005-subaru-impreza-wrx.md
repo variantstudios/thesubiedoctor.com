@@ -3,7 +3,7 @@ title: 2005 Subaru Impreza 2.5 RS Wagon
 make: Subaru
 model: Impreza 2.5 RS Wagon
 year: '2005'
-price:
+price: $5999
 inventory_option: for_sale
 car_category_option: used
 photos:
