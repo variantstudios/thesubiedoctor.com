@@ -6,7 +6,7 @@ search_engine_optimization:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 class: Services
 permalink: /services/
-layout: page
+layout: schedule
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
@@ -17,11 +17,11 @@ _comments:
     at least 600 x 315px.
 ---
 
-### ![](/assets/images/thesubiedoctor-repairfinance2-3.jpg)<br> 
+### ![](/assets/images/thesubiedoctor-repairfinance2-3.jpg)<br>&nbsp;
 
 ### Fast, and easy financing solutions
 
- The Subie Doctor understands that clients need fast and efficient loan financing options.
+&nbsp;The Subie Doctor understands that clients need fast and efficient loan financing options.
 
 Our program works for clients in any financial situation:
 
@@ -44,7 +44,7 @@ you can be on your way to an approval TODAY!
 
 * They will call to discuss your situation before anything is done.
 
-   
+  &nbsp;
 
 * They will look at your whole credit picture, not just a score
 
