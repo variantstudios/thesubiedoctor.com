@@ -1,6 +1,6 @@
 - text: Services
   url: /services/
-- text: Car Inventory  
+- text: Car Inventory
   url: /car-inventory/
 - text: Parts Inventory
   url: /parts-inventory/
@@ -12,3 +12,5 @@
   url: /schedule-repair/
 - text: Contact
   url: /contact/
+- text: Payments
+  url: /payment/
