@@ -1,5 +1,5 @@
 ---
-title: Subaru Services
+title: Subaru Repair and Accessory Financing
 search_engine_optimization:
   page_title: 'Subaru Repair and Accessory Financing - Subie Doctor, Denver Colorado'
   page_description: >-
