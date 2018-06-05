@@ -4,13 +4,13 @@
   url: /car-inventory/
 - text: Parts Inventory
   url: /parts-inventory/
-- text: Reviews
-  url: /reviews/
 - text: About
   url: /about/
+- text: Payments
+  url: /payment/
+- text: Reviews
+  url: /reviews/
 - text: Schedule Repair
   url: /schedule-repair/
 - text: Contact
   url: /contact/
-- text: Payments
-  url: /payment/
