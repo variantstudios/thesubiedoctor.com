@@ -21,12 +21,11 @@ _comments:
     at least 600 x 315px.
 ---
 
-### ![](/assets/images/thesubiedoctor-repairfinance2.jpg)
+### &nbsp;
 
-### Fast, Easy and Affordable Financing
+### ![](/assets/images/thesubiedoctor-repairfinance3-1.jpg)<br>Fast, Easy and Affordable Financing
 
 The Subie Doctor understands that clients need fast and efficient loan financing options. Our program works for clients in any financial situation:
-{: .present-before-paste}
 
 * Good credit
 * Bad (or non existent) Credit
@@ -34,10 +33,8 @@ The Subie Doctor understands that clients need fast and efficient loan financing
 * Foreclosure
 
 We understand people in all situations need help, and by taking 60 seconds to fill out a questionnaire you can be on your way to an approval TODAY! Providing the necessary information will help make it possible to evaluate your needs and get you the money you need.
-{: .present-before-paste}
 
 For privacy and security your information will remain secure with the Lender and here's how they will assist:
-{: .present-before-paste}
 
 * An immediate One-On-One Evaluation
 * They will call to discuss your situation before anything is done.
@@ -45,3 +42,5 @@ For privacy and security your information will remain secure with the Lender and
 * 100% of their loans are unsecured, this is not a "payday" ot "title" loan
 * Terms available for 36 / 60 / 84 months to suit your budget
 * Typically a 5 minute process and funding can be complete SAME DAY!
+
+# **APPROVALS START HERE!**
