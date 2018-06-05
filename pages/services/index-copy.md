@@ -1,20 +1,25 @@
 ---
 title: Subaru Services
 search_engine_optimization:
-  page_title: 'Subaru Services - Subie Doctor, Denver Colorado'
-  page_description:
+  page_title: 'Subaru Repair and Accessory Financing - Subie Doctor, Denver Colorado'
+  page_description: >-
+    The Subie Doctor is able to offer affordable financing solutions to help
+    with your repairs and modifications. Whether you have excellent credit or
+    credit challenges, we have options to meet your budget and help keep your
+    Subie from breaking the bank.
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
-class: services
-permalink: /services/
+class: finance
+permalink: /finance/
 layout: page
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
-
 
 ### Reconditioned Subaru Auto Sales
 
