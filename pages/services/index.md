@@ -17,76 +17,47 @@ _comments:
     at least 600 x 315px.
 ---
 
-### Reconditioned Subaru Auto Sales
+### ![](/assets/images/thesubiedoctor-repairfinance2-3.jpg)<br>&nbsp;
 
- All of our Subies have been fully inspected and all issues addressed.  Many of our vehicles receive new head gaskets, timing belts and water pumps and some offer newly rebuilt engines with warranty.
+### Fast, and easy financing solutions
 
-### Major Subaru Repairs
+&nbsp;The Subie Doctor understands that clients need fast and efficient loan financing options.
 
-*We specialize in large repair jobs such as:*
+Our program works for clients in any financial situation:
 
-**Head gasket replacement**<br>An all too common repair on Subaru’s.  Symptoms or a head gasket issue are an oil or coolant leak, oil in the coolant or most common, an overheating issue.  Anywhere from 100k to 200k, they will need to be replaced.  We only use premium Six Star head gaskets and re-surface the cylinder heads which is a critical step as Subaru heads do warp slightly which is the main reason for gasket failure.
+* Good Credit
+* Bad (or non-existent) Credit
+* Bankruptcy
+* Foreclosure
 
-**Timing belt and water pump replacement**<br>These are scheduled maintenance items.  A timing belt or pulley failure will damage the engine valves and make for a much larger repair bill.  Don’t put it off.  Most models require replacement every 105k miles.
+We understand people in all situations need help,
 
-**Turbo replacement**<br>Your turbo engine may last 200k+ but that turbo won’t.  If you suspect a turbo problem (odd noise, high oil consumption or leak), have it checked out before a failure damages your entire engine.
+and by taking 60 seconds to fill out a questionnaire
 
-**Clutch replacement**<br>Clutch travel gotten worse, strange noise only when the pedal is out?  Let’s get that taken care of.
+you can be on your way to an approval TODAY!
 
-**Engine replacement or rebuilding**<br>Engine knocking?  We stock newly rebuilt replacement engines at very competitive pricing to get you back on the road quickly.  We also offer used engines for the budget conscious customer with new head gaskets, timing belt and water pump for piece of mind.  Rebuilt engines come with a 12k miles or 1 year warranty.  Used engines come with a 3k or 90 day warranty.
+### Private and Secure
 
-**Transmission replacement or rebuilding**<br>Automatic transmission starting to slip or manual trans gears starting to grind?  Maybe the front differential is binding in tight turns?  We can install a good used replacement or have your transmission rebuilt.
+*Your information will remain secure with the Lender and here’s how they will assist:*
 
-### Minor Subaru Repairs
+* An immediate One-On-One Evaluation
 
-**Brakes**<br>Brakes squeaking or grinding or just don’t feel right?  We offer free brake inspections
+* &nbsp;
 
-**Strut replacement**<br>An often overlooked area, worn out struts can make a car bouncy and tend to sway in turns and during quick lane changes.  Bad struts will make a car unstable at highway speeds
+  They will call to discuss your situation before anything is done.
 
-**Wheel bearings**<br>Have a roaring sound from one of the wheels?  That a dry and worn out wheel bearing
+  &nbsp;
 
-**Axle replacement**<br>Axle boots crack and split and then throw all their lubrication grease onto everything around them.
+* They will look at your whole credit picture, not just a score
 
-**Radiator replacement**<br>Factory radiators are plastic which in this dry climate tend to get brittle and crack and Subaru engines are very sensitive to overheating and damage can be done very quickly
+* 100% of their loans are unsecured, this is not a “payday” ot “title” loan
 
-**Scheduled maintenance**<br>Want the Subaru scheduled maintenance done but don’t want to pay dealer service pricing?  We can take care of that.
+* Terms available for 36 / 60 / 84 months to suit your budget
 
-**Tune-ups**<br>Car running sluggish or gas mileage down? A quick tune-up will take care of that.
+* Typically a 5 minute process and funding can be complete SAME DAY!
 
-**Emissions repairs**<br>Failed an emissions test?  We have you covered.
+### [Ready for your approval?<br>Click HERE to get started!](__notset__)
 
-**Check engine light**<br>That pesky check engine light on again?  It won’t go away itself, have us check it out, it might be a quick fix.  Colorado emissions stations will now fail a vehicle if that light is on.
+[![](/assets/images/thesubiedoctor-repairfinance3-2.jpg)](__notset__)
 
-**AC service**<br>We can leak test, repair and recharge your AC system
-
-### Other Subaru Services
-
-**Financing for Repairs and Accessories**<br>The Subie Doctor can not only help making your repairs affordable but we also have options to make sure the repairs can work within your budget. <br>[**CLICK HERE TO START YOUR APPROVAL**](__notset__)<br>[![](/assets/images/thesubiedoctor-repairfinance2-2.jpg)](__notset__)
-
-**Tire sales & service**<br>We carry most tire brands and use the latest technology tire mounting and balancing equipment to protect your rims
-
-**Theft prevention**<br>Subaru thefts are on the rise.  We offer kill switch and alarm installations
-
-**Vehicle inspections**<br>We offer thorough pre-purchase and pre-road trip vehicle inspections for that piece of mind
-
-**Performance Upgrades**<br>Whether you are looking for some bolt-on engine mods, suspension upgrades or an STi and JDM engine or full drivetrain swaps, we can help. We specialize in GC swaps.
-
-### New and used Subaru Parts
-
-We offer OEM parts at below dealer pricing and with no city taxes.  We are unincorporated Adams county so our tax rate is a low 4.75%
-
-We either stock or can find you quality and affordable used parts.  View our Used Part Inventory for some of our larger components.
-
-### Performance Subaru parts
-
-We offer a full line of aftermarket go-fast goodies including:
-
-* AEM
-* Cobb
-* Grimmspeed
-* Kartboy
-* Killer B
-* Mishimoto
-* IAG
-* Whiteline
-* And many more…
+&nbsp;
