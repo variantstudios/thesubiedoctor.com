@@ -1,11 +1,11 @@
 ---
-title: Repair and Accessory Financing
+title: Payments and Financing
 search_engine_optimization:
   page_title: 'Subaru Services - Subie Doctor, Denver Colorado'
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
-class: financing
-permalink: /financing/
+class: payments
+permalink: /payments/
 layout: page
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
@@ -17,11 +17,11 @@ _comments:
     at least 600 x 315px.
 ---
 
-### ![](/assets/images/thesubiedoctor-repairfinance2-3.jpg)<br>&nbsp;
+### ![](/assets/images/thesubiedoctor-repairfinance2-3.jpg)<br> 
 
 ### Fast, and easy financing solutions
 
-&nbsp;The Subie Doctor understands that clients need fast and efficient loan financing options.
+ The Subie Doctor understands that clients need fast and efficient loan financing options.
 
 Our program works for clients in any financial situation:
 
@@ -42,11 +42,9 @@ you can be on your way to an approval TODAY!
 
 * An immediate One-On-One Evaluation
 
-* &nbsp;
+* They will call to discuss your situation before anything is done.
 
-  They will call to discuss your situation before anything is done.
-
-  &nbsp;
+   
 
 * They will look at your whole credit picture, not just a score
 
@@ -59,5 +57,3 @@ you can be on your way to an approval TODAY!
 ### [Ready for your approval?<br>Click HERE to get started!](__notset__)
 
 [![](/assets/images/thesubiedoctor-repairfinance3-2.jpg)](__notset__)
-
-&nbsp;
