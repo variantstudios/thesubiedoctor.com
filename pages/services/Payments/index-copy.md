@@ -17,11 +17,11 @@ _comments:
     at least 600 x 315px.
 ---
 
-### ![](/assets/images/thesubiedoctor-repairfinance2-3.jpg)<br> 
+### ![](/assets/images/thesubiedoctor-repairfinance2-3.jpg)<br>&nbsp;
 
 ### Fast, and easy financing solutions
 
- The Subie Doctor understands that clients need fast and efficient loan financing options.
+&nbsp;The Subie Doctor understands that clients need fast and efficient loan financing options.
 
 Our program works for clients in any financial situation:
 
@@ -44,8 +44,6 @@ you can be on your way to an approval TODAY!
 
 * They will call to discuss your situation before anything is done.
 
-   
-
 * They will look at your whole credit picture, not just a score
 
 * 100% of their loans are unsecured, this is not a “payday” ot “title” loan
@@ -54,6 +52,8 @@ you can be on your way to an approval TODAY!
 
 * Typically a 5 minute process and funding can be complete SAME DAY!
 
-### [Ready for your approval?<br>Click HERE to get started!](__notset__)
+### [Ready for your approval?<br>Click HERE to get started!](https://www.autorepairloansnow.com/loan-discovery/){: target="_blank"}
 
-[![](/assets/images/thesubiedoctor-repairfinance3-2.jpg)](__notset__)
+[![](/assets/images/thesubiedoctor-repairfinance3-3.jpg)](__notset__)
+
+&nbsp;
