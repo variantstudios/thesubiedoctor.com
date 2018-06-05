@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Subaru Services
 search_engine_optimization:
   page_title: 'Subaru Services - Subie Doctor, Denver Colorado'
   page_description:
