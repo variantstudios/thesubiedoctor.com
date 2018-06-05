@@ -43,4 +43,4 @@ For privacy and security your information will remain secure with the Lender and
 * Terms available for 36 / 60 / 84 months to suit your budget
 * Typically a 5 minute process and funding can be complete SAME DAY!
 
-# **APPROVALS START HERE!**
+# [**APPROVALS START HERE!**](http://autorepairloan.wpengine.com/loan-discovery/){: target="_blank"}
