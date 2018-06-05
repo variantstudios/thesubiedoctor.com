@@ -4,8 +4,8 @@ search_engine_optimization:
   page_title: 'Subaru Services - Subie Doctor, Denver Colorado'
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
-class: services
-permalink: /services/
+class: finance
+permalink: /finance/
 layout: page
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
