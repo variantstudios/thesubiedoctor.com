@@ -4,7 +4,7 @@ search_engine_optimization:
   page_title: 'Subaru Services - Subie Doctor, Denver Colorado'
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
-class: Services
+class: services
 permalink: /services/
 layout: page
 _comments:
