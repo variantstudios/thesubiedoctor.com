@@ -54,6 +54,6 @@ you can be on your way to an approval TODAY!
 
 ### [Ready for your approval?<br>Click HERE to get started!](https://www.autorepairloansnow.com/loan-discovery/){: target="_blank"}
 
-[![](/assets/images/thesubiedoctor-repairfinance3-3.jpg)](__notset__)
+[![](/assets/images/thesubiedoctor-repairfinance3-3.jpg)&nbsp;](https://www.autorepairloansnow.com/loan-discovery/){: target="_blank"}
 
 &nbsp;
