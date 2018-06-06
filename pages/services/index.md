@@ -75,7 +75,7 @@ _comments:
 
 We offer OEM parts at below dealer pricing and with no city taxes. &nbsp;We are unincorporated Adams county so our tax rate is a low 4.75%
 
-We either stock or can find you quality and affordable used parts. &nbsp;View our Used Part Inventory for some of our larger components.
+We either stock or can find you quality and affordable used parts. &nbsp;[View our Used Part Inventory for some of our larger components.](/parts-inventory/)
 
 **Performance Subaru parts**<br>*We offer a full line of aftermarket go-fast goodies including:*
 
