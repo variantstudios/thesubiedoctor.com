@@ -1,14 +1,15 @@
 ---
-title: C519566 2007 Subaru Impreza 2.5i Sedan
-make:
-model:
-year:
-price:
-inventory_option:
-car_category_option:
+title: 2007 Subaru Impreza 2.5i Sedan - C519566
+make: Subaru
+model: Impreza 2.5i Sedan
+year: '2007'
+price: '7999'
+inventory_option: for_sale
+car_category_option: used
 photos:
-  - title:
-    image_path:
+  - title: '2007 Subaru Impreza 2.5i Sedan For Sale in Denver, CO'
+    image_path: >-
+      /assets/images/c519566-2007-subaru-impreza-25i-awd-sedan-forsale-denverco-thesubiedoctor-001.jpg
 post_date:
 search_engine_optimization:
   page_title:
@@ -23,3 +24,5 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+
+For more details and photos check out [www.ColoradoSubies.net](https://www.coloradosubies.net/inventory/details/44236782){: target="_blank"}&nbsp;
