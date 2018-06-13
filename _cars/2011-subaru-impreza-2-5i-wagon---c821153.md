@@ -1,14 +1,15 @@
 ---
-title: 2011 Subaru Impreza 2.5i Wagon - C821153
-make:
-model:
-year:
-price:
-inventory_option:
-car_category_option:
+title: 2011 Subaru Impreza 2.5i Sport Wagon - C821153
+make: Subaru
+model: Impreza 2.5i Sport Wagon
+year: '2011'
+price: $9999
+inventory_option: for_sale
+car_category_option: used
 photos:
-  - title:
-    image_path:
+  - title: 2011 Subaru Impreza 2.5i Wagon - C821153
+    image_path: >-
+      /assets/images/c8281153-2001-impreza-awd-wagon-thesubiedoctor-denverco-used-forsale-01.jpg
 post_date:
 search_engine_optimization:
   page_title:
@@ -23,3 +24,5 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+
+For more details and photos please visit [www.ColoradoSubies.net](https://www.coloradosubies.net/inventory/details/44236315){: target="_blank"}
