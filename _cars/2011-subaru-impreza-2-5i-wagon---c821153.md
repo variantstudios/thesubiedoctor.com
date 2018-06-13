@@ -10,7 +10,7 @@ photos:
   - title: 2011 Subaru Impreza 2.5i Wagon - C821153
     image_path: >-
       /assets/images/c8281153-2001-impreza-awd-wagon-thesubiedoctor-denverco-used-forsale-01.jpg
-post_date:
+post_date: 2018-06-13 00:00:00
 search_engine_optimization:
   page_title:
   page_description:
