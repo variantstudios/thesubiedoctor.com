@@ -3,7 +3,7 @@ title: 2007 Subaru Impreza 2.5i Sedan - C519566
 make: Subaru
 model: Impreza 2.5i Sedan
 year: '2007'
-price: $6299
+price: $7299
 inventory_option: for_sale
 car_category_option: used
 photos:
@@ -27,4 +27,4 @@ _comments:
     at least 600 x 315px.
 ---
 
-\*\*\* PRICE REDUCED TO $6,299\*\*\*<br><br>For more details and photos check out [www.ColoradoSubies.net](https://www.coloradosubies.net/inventory/details/44236782){: target="_blank"}
+\*\*\* PRICE REDUCED TO $7,299\*\*\*<br><br>For more details and photos check out [www.ColoradoSubies.net](https://www.coloradosubies.net/inventory/details/44236782){: target="_blank"}
