@@ -4,7 +4,7 @@ make: Ford
 model: Focus SVT Hatchback
 year: '2004'
 price: $6999
-inventory_option: for_sale
+inventory_option: sold
 car_category_option: used
 photos:
   - title: '2004 Ford Focus SVT for sale in Denver, Colorado at The Subie Doctor'
