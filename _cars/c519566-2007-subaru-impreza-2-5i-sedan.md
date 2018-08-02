@@ -3,7 +3,7 @@ title: 2007 Subaru Impreza 2.5i Sedan - C519566
 make: Subaru
 model: Impreza 2.5i Sedan
 year: '2007'
-price: $7299
+price: $6999
 inventory_option: for_sale
 car_category_option: used
 photos:
