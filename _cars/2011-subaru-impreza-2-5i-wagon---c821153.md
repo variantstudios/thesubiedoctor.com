@@ -4,7 +4,7 @@ make: Subaru
 model: Impreza 2.5i Sport Wagon
 year: '2011'
 price: $9999
-inventory_option: for_sale
+inventory_option: sold
 car_category_option: used
 photos:
   - title: 2011 Subaru Impreza 2.5i Wagon - C821153
