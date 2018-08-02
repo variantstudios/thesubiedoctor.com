@@ -25,5 +25,5 @@ _comments:
 ---
 
 <div>
-      		<p>SOLD<br /><br />Subaru Outback Base AWD 4dr Wagon Automatic 4-Speed Blue 123400 miles 2.5L H4 2004 Wagon The Subie Doctor (720) 222-5022&lt;Br /&gt;&lt;Br /&gt;&lt;a href="http://www.coloradosubies.net/vehicledetails.aspx?vid=21804694" target="_blank"&gt;&lt;img src="http://cl.carsforsale.com/cl_5038043_1018753_6_21804694.jpg" /&gt;&lt;/a&gt;</p>
+      		<p>SOLD<br />&nbsp;</p>
       	</div>
