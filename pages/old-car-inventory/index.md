@@ -6,7 +6,7 @@ search_engine_optimization:
   page_description: ""
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 class: cars
-permalink: "/car-inventory/"
+permalink: "/old-car-inventory/"
 layout: cars
 _comments:
   page_title: "This is the title that's specifically for Search Engine Optimization."
