@@ -1,7 +1,7 @@
 - text: Services
   url: /services/
 - text: Car Inventory
-  url: https://www.coloradosubies.net/inventory
+  url: /car-inventory/
 - text: Parts Inventory
   url: /parts-inventory/
 - text: Payments
