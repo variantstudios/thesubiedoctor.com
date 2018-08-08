@@ -1,14 +1,16 @@
----
-layout: default
+--- 
+layout: default 
 ---
 
 <main>
-  <section class="wrap schedule-form-page">
-    <h1 class="page-title">{{ page.title }}</h1>
-    <h2 class="sub-title">{{ page.subtitle }}</h2>
-    <div class="body">{{ content }}</div>
-    {% if page.url contains "schedule-repair" %}
-      {% include schedule-repair-form.html %} 
-    {% endif %}
-  </section>
+    <section class="wrap schedule-form-page">
+        <h1 class="page-title">{{ page.title }}</h1>
+        <h2 class="sub-title">{{ page.subtitle }}</h2>
+        <div class="body">{{ content }}</div>
+        <!-- Calendly inline widget begin -->
+        <div class="calendly-inline-widget" data-url="https://calendly.com/thesubiedoctor" style="min-width:320px;height:900px;"></div>
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+        <!-- Calendly inline widget end -->
+
+    </section>
 </main>
