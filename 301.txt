@@ -1,2 +1,2 @@
 # /old_file.html /new_file.html
-/car-inventory https://www.coloradosubies.net/inventory
+/car-inventory/* https://www.coloradosubies.net/inventory
