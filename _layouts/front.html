@@ -1,80 +1,36 @@
----
-layout: default
+--- 
+layout: default 
 ---
 <div class="preface" style="background-image: url({{ page.header_image_path }});">
-  <div class="wrap">
+    <div class="wrap">
 
-  <!-- Form Schedule -->
-  <div class="schedule-form effect__click">
-    <form method="post" action="/schedule-repair/?sent=true">
-      <input type="hidden" name="_to" value="{{page.webform.to}}" />
-      <input type="hidden" name="_subject" value="{{page.webform.subject}}" />
-      <input type="text" name="_gotcha" style="display: none;" />
-
-      <!-- Form Section One -->
-      <div class="phase-one phase"> 
-        <h2 class="editable">Schedule Your Subaru Repair</h2>
-        <p class="editable">Whether your Subaru needs a pre-purchase inspection, basic maintenance, a motor or transmission replaced,<br />some performance upgrades or you're finally ready<br />for the STi swap you've been dreaming about,<br />the Doctor can see you soon.</p>              
-        <div class="webform-component">
-          <input type="text" name="name" id="name" required="" placeholder="Name" />
+        <!-- Form Schedule -->
+        <div class="schedule-form effect__click">
+            <!-- Calendly inline widget begin -->
+            <div class="calendly-inline-widget" data-url="https://calendly.com/thesubiedoctor" style="min-width:320px;height:620px;"></div>
+            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+            <!-- Calendly inline widget end -->
         </div>
-        <div class="webform-component">
-          <input type="email" name="email" id="email" required="" placeholder="Email" />
-        </div>
-        <div class="webform-component">
-          <label>Preferred Date</label>
-          <input type="date" id="date" name="date" />
-        </div>
-        <!-- Continue Button -->
-        <div class="btn form-action">
-          <a href="#">Continue <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <!-- Form Section Two -->
-      <div class="phase-two shift phase">
-          <div class="back-up form-action"><i class="fa fa-chevron-left" aria-hidden="true"></i> Back</div>
-          
-
-    <div class="webform-component">
-        <input type="text" name="car-model" id="car-model" required="" placeholder="Your car's model" />
     </div>
-    <div class="webform-component">
-        <input type="text" name="car-sub-make" id="car-sub-make" placeholder="Your car's sub model" />
-    </div>
-    <div class="webform-component">
-        <input type="text" name="car-year" id="car-year" required="" placeholder="Your car's year" />
-    </div>
-          
-        <div class="webform-component">
-            <textarea id="message" name="message" rows="4" placeholder="What needs done?"></textarea>
-        </div>
-        <div class="g-recaptcha" data-sitekey="6LcUty8UAAAAAK5yyNyc8W-DkrlQZ9Ew9FE51Zlm"></div>
-        <input class="sendButton" type="submit" value="Schedule" />
-      </div>
-
-    </form>
-  </div>
-</div>
 </div>
 
 
 <main>
-  <section class="wrap clearfix front">
-    <h1 class="page-title">{{ page.title }}</h1>
-    <div class="cols">
-    <div class="intro col-2" data-cms-content-wrapper="/_layouts/front.html">
-      {{content}}
-    </div>
-    <div class="review-block col-2">
-       <img src="https://graph.facebook.com/1603567043008095/picture?type=large&w‌​idth=400&height=400" class="profile-pic" />
-       <img src="/assets/images/stars.png" class="five-star" />
-       <div class="review-text">
-         <p>Such a great resource for Subaru owners. So much knowledge. Such great prices. And fabulous people. Plus the shop is super easy to find. Highly recommended!</p>
-       </div>
-       <h6> Melissa Sherowski</h6>
-       <a href="/reviews" class="read-more-link">View all Reviews</a>       
-    </div>
-  </div>
-  </section>
+    <section class="wrap clearfix front">
+        <h1 class="page-title">{{ page.title }}</h1>
+        <div class="cols">
+            <div class="intro col-2" data-cms-content-wrapper="/_layouts/front.html">
+                {{content}}
+            </div>
+            <div class="review-block col-2">
+                <img src="https://graph.facebook.com/1603567043008095/picture?type=large&w‌​idth=400&height=400" class="profile-pic" />
+                <img src="/assets/images/stars.png" class="five-star" />
+                <div class="review-text">
+                    <p>Such a great resource for Subaru owners. So much knowledge. Such great prices. And fabulous people. Plus the shop is super easy to find. Highly recommended!</p>
+                </div>
+                <h6> Melissa Sherowski</h6>
+                <a href="/reviews" class="read-more-link">View all Reviews</a>
+            </div>
+        </div>
+    </section>
 </main>
