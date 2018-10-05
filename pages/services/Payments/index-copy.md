@@ -1,7 +1,7 @@
 ---
 title: Payments and Financing
 search_engine_optimization:
-  page_title: 'Subaru Services - Subie Doctor, Denver Colorado'
+  page_title: 'Financing and Payments at The Subie Doctor, Denver Colorado'
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 class: payments
@@ -17,43 +17,14 @@ _comments:
     at least 600 x 315px.
 ---
 
-### ![](/assets/images/thesubiedoctor-repairfinance2-3.jpg)<br>&nbsp;
+### The Subie Doctor understands repairs aren't always planned.<br>We do offer financing to help budget for unexpected repair costs.
 
-### Fast, and easy financing solutions
+* ### NO risk or obligation
+* ### NO prepayment penalties
+* ### Interest rates from 3.99%
+* ### Loan amounts up to $50,000
+* ### Loan funding in as little as ONE DAY
 
-&nbsp;The Subie Doctor understands that clients need fast and efficient loan financing options.
+&nbsp;![](/flexbuy porTAL.PNG)
 
-Our program works for clients in any financial situation:
-
-* Good Credit
-* Bad (or non-existent) Credit
-* Bankruptcy
-* Foreclosure
-
-We understand people in all situations need help,
-
-and by taking 60 seconds to fill out a questionnaire
-
-you can be on your way to an approval TODAY!
-
-### Private and Secure
-
-*Your information will remain secure with the Lender and here’s how they will assist:*
-
-* An immediate One-On-One Evaluation
-
-* They will call to discuss your situation before anything is done.
-
-* They will look at your whole credit picture, not just a score
-
-* 100% of their loans are unsecured, this is not a “payday” ot “title” loan
-
-* Terms available for 36 / 60 / 84 months to suit your budget
-
-* Typically a 5 minute process and funding can be complete SAME DAY!
-
-### [Ready for your approval?<br>Click HERE to get started!](https://www.autorepairloansnow.com/loan-discovery/){: target="_blank"}
-
-[![](/assets/images/thesubiedoctor-repairfinance3-3.jpg)&nbsp;](https://www.autorepairloansnow.com/loan-discovery/){: target="_blank"}
-
-&nbsp;
+### **http://flexxbuy.com/the-subie-doctor/**<br><br>Credit Card Payments: We can only accept up to $2000 on any type of charge card (credit or debit). We do accept cash, check, cashier's check and money orders. We offer a 1% discount for repairs paid for with cash or certified funds.
