@@ -36,6 +36,5 @@ _comments:
 * ### Interest rates from 3.99%
 * ### Loan amounts up to $50,000
 * ### Loan funding in as little as ONE DAY
-* ### [**CLICK HERE TO GET YOUR RATE NOW**](http://flexxbuy.com/the-subie-doctor/){: target="_blank"}
 
-# [&nbsp;](__notset__)[![](/flexbuy porTAL.PNG)](http://flexxbuy.com/the-subie-doctor/){: target="_blank"}
+# [&nbsp;](__notset__)[![](/flexbuy porTAL.PNG)](https://thesubiedoctor.com/contact/){: target="_blank"}
