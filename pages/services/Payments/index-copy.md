@@ -17,15 +17,23 @@ _comments:
     at least 600 x 315px.
 ---
 
-### The Subie Doctor understands repairs aren’t always planned, but we do offer financing to help budget for unexpected repair and maintenance costs.
+# PAYMENTS
 
-* ### NO affect to your credit to determine your rate
-* ### NO risk or obligation
+#### Cash or Certified Funds:<br>We accept cash, check, cashier’s check and money order.<br>We offer a 1% discount for repairs paid with cash or certified funds.<br><br>Credit Card:<br>We accept VISA, M/C, AMEX and Discover up to $2000 in one transaction any type of charge card (credit or debit).<br><br>Paypal Online:<br>We can accept up to $2000 via our PayPal online portal&nbsp;<br>[https://paypal.me/TheSubieDoctor](https://paypal.me/TheSubieDoctor){: target="_blank"}.
+
+### &nbsp;
+
+# FINANCING
+
+### The Subie Doctor understands repairs aren’t always planned,<br>but we do offer help with unexpected repair and maintenance costs.
+
+* ### FAST AND EASY application
+* ### NO AFFECT to your credit to determine your rate
+* ### NO RISK or obligation to find your your pre-approval
 * ### NO prepayment penalties
 * ### Interest rates from 3.99%
 * ### Loan amounts up to $50,000
 * ### Loan funding in as little as ONE DAY
+* ### [**CLICK HERE TO GET YOUR RATE NOW**](http://flexxbuy.com/the-subie-doctor/){: target="_blank"}
 
-&nbsp;[![](/flexbuy porTAL.PNG)](http://flexxbuy.com/the-subie-doctor/){: target="_blank"}
-
-#### [**http://flexxbuy.com/the-subie-doctor/**](http://flexxbuy.com/the-subie-doctor/)<br><br>Credit Card Payments: We can only accept up to $2000 on any type of charge card (credit or debit). We do accept cash, check, cashier’s check and money orders. We offer a 1% discount for repairs paid for with cash or certified funds.
+# [&nbsp;](__notset__)[![](/flexbuy porTAL.PNG)](http://flexxbuy.com/the-subie-doctor/){: target="_blank"}
