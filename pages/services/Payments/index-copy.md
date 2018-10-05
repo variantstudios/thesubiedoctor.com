@@ -19,6 +19,7 @@ _comments:
 
 ### The Subie Doctor understands repairs aren’t always planned, but we do offer financing to help budget for unexpected repair and maintenance costs.
 
+* ### NO affect to your credit to determine your rate
 * ### NO risk or obligation
 * ### NO prepayment penalties
 * ### Interest rates from 3.99%
