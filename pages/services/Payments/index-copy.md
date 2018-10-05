@@ -17,7 +17,7 @@ _comments:
     at least 600 x 315px.
 ---
 
-### The Subie Doctor understands repairs aren't always planned.<br>We do offer financing to help budget for unexpected repair costs.
+### The Subie Doctor understands repairs aren’t always planned, but we do offer financing to help budget for unexpected repair and maintenance costs.
 
 * ### NO risk or obligation
 * ### NO prepayment penalties
@@ -25,6 +25,6 @@ _comments:
 * ### Loan amounts up to $50,000
 * ### Loan funding in as little as ONE DAY
 
-&nbsp;![](/flexbuy porTAL.PNG)
+&nbsp;[![](/flexbuy porTAL.PNG)](http://flexxbuy.com/the-subie-doctor/){: target="_blank"}
 
-### **http://flexxbuy.com/the-subie-doctor/**<br><br>Credit Card Payments: We can only accept up to $2000 on any type of charge card (credit or debit). We do accept cash, check, cashier's check and money orders. We offer a 1% discount for repairs paid for with cash or certified funds.
+#### [**http://flexxbuy.com/the-subie-doctor/**](http://flexxbuy.com/the-subie-doctor/)<br><br>Credit Card Payments: We can only accept up to $2000 on any type of charge card (credit or debit). We do accept cash, check, cashier’s check and money orders. We offer a 1% discount for repairs paid for with cash or certified funds.
