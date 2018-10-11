@@ -11,10 +11,10 @@ photos:
     image_path: /assets/images/subie-about.jpg
   - title: Inside the Shop
     image_path: /assets/images/subie-about-2.jpg
-  - title: Working
-    image_path: /assets/images/subie-about-3.jpg
   - title: Todd and Val
     image_path: /assets/images/toddandval.jpg
+  - title: Racing
+    image_path: /assets/images/78202117-20180826--bjm9195.jpg
 class: about
 layout: about
 permalink: /about/
@@ -24,9 +24,10 @@ _comments:
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
-
 
 Meet the Doctor, Todd Briley.  Originally from Chicago, I worked in the automotive engineering field for 25 years and have been a gearhead since high school.  I started restoring muscle cars in the early 90’s as a hobby and have dabbled in a little of everything over the years and since moving to beautiful CO in 2009 I’ve specialized in reconditioning Subaru’s and developed a following in NoCo fueled by referrals by being professional and honest, offering exceptional value and standing behind my work.
 
