@@ -1,7 +1,7 @@
 <ul class="hours-list collapse">
     {% for item in site.data.hours %}
-	<li>
-        <strong>{{ item.day }}</strong> {{ item.open_time }} - {{ item.close_time }}
+    <li>
+        <strong>{{ item.day }}</strong> {{ item.open_time }} {% if item.close_time %} - {{ item.close_time }} {% endif %}
     </li>
     {% endfor %}
 </ul>
