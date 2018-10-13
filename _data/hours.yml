@@ -15,7 +15,7 @@
   close_time: 05:30pm
 - day: Saturday
   open_time: BY APPOINTMENT
-  close_time: 
+  close_time: ' '
 - day: Sunday
   open_time: Closed
-  close_time: 
+  close_time: ' '
