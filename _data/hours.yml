@@ -14,8 +14,8 @@
   open_time: 09:00am
   close_time: 05:30pm
 - day: Saturday
-  open_time: 09:00am
-  close_time: 01:00pm
+  open_time: BY APPOINTMENT
+  close_time: BY APPOINTMENT
 - day: Sunday
   open_time: Closed
   close_time: Closed
