@@ -135,21 +135,17 @@ $(document).ready(function() {
 	}
 
 	if (today.startOf('day').isSame(saturday.startOf('day'))) {
-		if (now > closeTime2) {
-			$('.open-close').append('<span>Closed</span>');
+
+		if (now > closeTime) {
+			$('.open-close').append('<span>BY APPOINTMENT</span>');
 			$('.open-close').addClass('closed');
-			$('.hours-today').prepend("<span class='opening-at'>We Open Monday at: </span>");
+			$('.hours-today').prepend("<span class='opening-at'>Open Monday at: </span>");
 			$('header.wrap .hours-today').append(openTime.format('LT'));
-		} else if (now < openTime2) {
-			$('.open-close').append('<span>Closed</span>');
-			$('.hours-today').append("<span class='opening-at'>We Open at: </span>");
-			$('header.wrap .hours-today').append(openTime2.format('LT'));
-			$('.open-close').addClass('closed');
 		} else {
-			$('.open-close').append('<span>Open</span>');
-			$('.open-close').addClass('open');
-			$('header.wrap .hours-today').append('Close at ');
-			$('header.wrap .hours-today').append(closeTime2.format('LT'));
+			$('.open-close').append('<span>BY APPOINTMENT</span>');
+			$('.open-close').addClass('closed');
+			$('.hours-today').prepend("<span class='opening-at'>Open Monday at: </span>");
+			$('header.wrap .hours-today').append(openTime.format('LT'));
 		}
 	}
 
