@@ -31,4 +31,4 @@ PLEASE NOTE: THE SUBIE DOCTOR WILL BE RELOCATING TO A NEW FACILITY.
 
 EFFECTIVE MARCH 18TH, 2019 WE WILL BE AT THE NEW LOCATION:&nbsp;
 
-11480 Cherokee St&nbsp; Northglenn, CO&nbsp; 80234<br><br>![](/assets/images/moving-3.jpg)
+11480 Cherokee St&nbsp; Northglenn, CO&nbsp; 80234<br><br>[![](/assets/images/moving-3.jpg)](https://goo.gl/maps/msp224fd7dS2){: target="_blank"}
