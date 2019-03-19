@@ -27,14 +27,7 @@ _comments:
 
 # FINANCING
 
-### The Subie Doctor understands repairs aren’t always planned,<br>but we do offer help with unexpected repair and maintenance costs.
+### The Subie Doctor understands repairs aren’t always planned. Here are a few resources for repair financing options:
 
-* ### FAST AND EASY application
-* ### NO AFFECT to your credit to determine your rate
-* ### NO RISK or obligation to find your your pre-approval
-* ### NO prepayment penalties
-* ### Interest rates from 3.99%
-* ### Loan amounts up to $50,000
-* ### Loan funding in as little as ONE DAY
-
-# [&nbsp;](__notset__)[![](/flexbuy porTAL.PNG)](https://thesubiedoctor.com/contact/){: target="_blank"}
+* ### &nbsp;One Main Financial https://www.onemainfinancial.com/personal-loans/auto-repair
+* ### Supermoney https://app.supermoney.com/loan/personal-loans/
