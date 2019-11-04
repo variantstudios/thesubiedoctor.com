@@ -29,5 +29,9 @@ _comments:
 
 ### The Subie Doctor understands repairs aren’t always planned. Here are a few resources for repair financing options:
 
+&nbsp;
+
+[![](/assets/images/webbanner-970x250-billboard.jpg){: width="970" height="250"}](https://app.dignifi.com/campaigns/845?d_id=6926&amp;utm_campaign=845-independent-partner&amp;utm_source=thesubiedoctor.com&amp;utm_medium=web&amp;utm_content=banner-d6926){: target="_blank"}
+
 * ### &nbsp;One Main Financial https://www.onemainfinancial.com/personal-loans/auto-repair
 * ### Supermoney https://app.supermoney.com/loan/personal-loans/
