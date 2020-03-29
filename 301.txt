@@ -1,1 +1,2 @@
 /car-inventory/* https://www.coloradosubies.net/inventory
+/old-car-inventory/* https://www.coloradosubies.net/inventory
