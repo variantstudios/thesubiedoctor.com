@@ -1,21 +1,21 @@
 - day: Monday
-  open_time: 09:00am
-  close_time: 05:30pm
+  open_time: '8:30am'
+  close_time: '6:00pm'
 - day: Tuesday
-  open_time: 09:00am
-  close_time: 05:30pm
+  open_time: '9:00am'
+  close_time: '5:30pm'
 - day: Wednesday
-  open_time: 09:00am
-  close_time: 05:30pm
+  open_time: '9:00am'
+  close_time: '5:30pm'
 - day: Thursday
-  open_time: 09:00am
-  close_time: 05:30pm
+  open_time: '9:00am'
+  close_time: '5:30pm'
 - day: Friday
-  open_time: 09:00am
-  close_time: 05:30pm
+  open_time: '9:00am'
+  close_time: '5:30pm'
 - day: Saturday
-  open_time: BY APPOINTMENT
+  open_time:
   close_time:
 - day: Sunday
-  open_time: CLOSED
+  open_time:
   close_time:
