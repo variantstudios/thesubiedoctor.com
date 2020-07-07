@@ -20,10 +20,10 @@ $(document).ready(function() {
 	});
 
 	// Dynamic Hours
-	var openTime = moment('09:00am', 'HH:mma');
-	var closeTime = moment('5:30pm', 'h:mma');
-	var openTime2 = moment('09:00am', 'h:mma');
-	var closeTime2 = moment('01:00pm', 'h:mma');
+	var openTime = moment('08:30am', 'HH:mma');
+	var closeTime = moment('6:30pm', 'h:mma');
+	var openTime2 = moment('08:30am', 'h:mma');
+	var closeTime2 = moment('06:00pm', 'h:mma');
 
 	var monday = moment().isoWeekday(1);
 	var tuesday = moment().isoWeekday(2);
