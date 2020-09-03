@@ -21,8 +21,6 @@ _comments:
 
 #### Cash or Certified Funds:<br>We accept cash, check, cashier’s check and money order. &nbsp;We offer a 1% discount for repairs paid with cash.&nbsp;<br><br>Credit Card:<br>We accept VISA, MC, AMEX and Discover up to $5000 MAX (credit or debit).<br><br>Paypal Online:<br>We can accept VISA, MC, AMEX and Discover up to $5000 MAX (credit or debit)&nbsp;
 
-#### [![](/assets/images/paypal.png)](https://www.paypal.me/TheSubieDoctor){: target="_blank"}<br>[https://paypal.me/TheSubieDoctor](https://paypal.me/TheSubieDoctor){: target="_blank"}
-
 ### &nbsp;
 
 # FINANCING
