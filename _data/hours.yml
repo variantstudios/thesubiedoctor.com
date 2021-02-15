@@ -14,8 +14,8 @@
   open_time: '8:30 am'
   close_time: '5:30 pm'
 - day: Saturday
-  open_time: '8:30 am'
-  close_time: '5:30 pm'
+  open_time: 
+  close_time: 
 - day: Sunday
   open_time:
   close_time:
