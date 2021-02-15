@@ -21,10 +21,11 @@ $(document).ready(function() {
 
 	// Dynamic Hours
 	var openTime = moment('08:30am', 'HH:mma');
-	var closeTime = moment('6:30pm', 'h:mma');
+	var closeTime = moment('5:30pm', 'h:mma');
 	var openTime2 = moment('08:30am', 'h:mma');
-	var closeTime2 = moment('06:00pm', 'h:mma');
-
+	var closeTime2 = moment('05:00pm', 'h:mma');
+'
+  
 	var monday = moment().isoWeekday(1);
 	var tuesday = moment().isoWeekday(2);
 	var wednesday = moment().isoWeekday(3);
