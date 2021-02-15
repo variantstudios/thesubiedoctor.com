@@ -25,7 +25,7 @@ $(document).ready(function() {
 	var openTime2 = moment('08:30am', 'h:mma');
 	var closeTime2 = moment('05:00pm', 'h:mma');
 '
-  
+
 	var monday = moment().isoWeekday(1);
 	var tuesday = moment().isoWeekday(2);
 	var wednesday = moment().isoWeekday(3);
