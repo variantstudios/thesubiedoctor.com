@@ -2,17 +2,17 @@
   open_time: '8:30 am'
   close_time: '5:30 pm'
 - day: Tuesday
-  open_time:
-  close_time:
+  open_time: '8:30 am'
+  close_time: '5:30 pm'
 - day: Wednesday
-  open_time:
-  close_time:
+  open_time: '8:30 am'
+  close_time: '5:30 pm'
 - day: Thursday
-  open_time:
-  close_time:
+  open_time: '8:30 am'
+  close_time: '5:30 pm'
 - day: Friday
-  open_time:
-  close_time:
+  open_time: '8:30 am'
+  close_time: '5:30 pm'
 - day: Saturday
   open_time:
   close_time:
