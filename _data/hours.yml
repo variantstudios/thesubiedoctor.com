@@ -1,6 +1,6 @@
 - day: Monday
-  open_time: 08:30am
-  close_time: 06:00pm
+  open_time: '08:30am'
+  close_time: '06:00pm'
 - day: Tuesday
   open_time: 08:30am
   close_time: 06:00pm
