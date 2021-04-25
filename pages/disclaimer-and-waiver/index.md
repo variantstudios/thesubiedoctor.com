@@ -6,7 +6,9 @@ search_engine_optimization:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 webform:
   subject: 'The Subie Doctor: Disclaimer and Waiver Form'
-  to: 'todd@thesubiedoctor.com, service@thesubiedoctor.com, brent@variantstudios.com'
+  to: >-
+    todd@thesubiedoctor.com, service@thesubiedoctor.com,
+    brent@variantstudios.com
   thank_you_message: Thank you for accepting our disclaimer and waiver.
 layout: page
 class: form
@@ -27,18 +29,16 @@ _comments:
     at least 600 x 315px.
 ---
 
-Thank you for choosing The Subie Doctor (the “Company”) for your Subaru needs! Please review this COVID-19 Disclaimer & Waiver (the “Disclaimer”).
+Thank you for choosing The Subie Doctor (the “Company”) for your Subaru needs\! Please review this COVID-19 Disclaimer & Waiver (the “Disclaimer”).
 
-By hiring the Company to perform services on your vehicle, you hereby agree to the following terms:
+**By hiring the Company to perform services on your vehicle, you hereby agree to the following terms:**
 
-Generally. Please be aware that while the COVID-19 pandemic is on-going any in-person interaction is inherently risky. The Company will take steps to help minimize COVID-19 exposure, but the Company cannot and does not guarantee that you will not be exposed to COVID-19 if you choose to have the Company service your vehicle. The information contained herein is in no way intended to substitute professional medical advice, diagnosis or treatment.
-
-Guidelines. You agree to:
-Reschedule your appointment for a later date if you have, within the past 14 days: 1) experienced COVID-19 related symptoms, 2) tested positive for COVID-19, or 3) been in contact with someone who tested positive for COVID-19;
-
-Wear a face mask or other face covering while at the Company’s facility; and
-Practice social distancing while at the Company’s facility in accordance with local, state and federal law.
-COVID-19 Disclaimer and Waiver.
+1. **Generally.** Please be aware that while the COVID-19 pandemic is on-going any in-person interaction is inherently risky. The Company will take steps to help minimize COVID-19 exposure, but the Company cannot and does not guarantee that you will not be exposed to COVID-19 if you choose to have the Company service your vehicle. The information contained herein is in no way intended to substitute professional medical advice, diagnosis or treatment.
+2. **Guidelines.** You agree to:
+   1. Reschedule your appointment for a later date if you have, within the past 14 days: 1) experienced COVID-19 related symptoms, 2) tested positive for COVID-19, or 3) been in contact with someone who tested positive for COVID-19;
+   2. Wear a face mask or other face covering while at the Company’s facility; and
+   3. Practice social distancing while at the Company’s facility in accordance with local, state and federal law.
+   4. COVID-19 Disclaimer and Waiver.
 
 I acknowledge, understand, and agree that any in-person interaction may expose me to a communicable disease, including but not limited to, the virus “severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)”, which is responsible for the Coronavirus Disease (commonly known as COVID-19) and any mutation or variation thereof. I further acknowledge and understand the seriousness of being exposed to COVID-19 and the health complications it can cause.
 
