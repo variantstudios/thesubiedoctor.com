@@ -1,13 +1,13 @@
 ---
-title: The Subie Doctor | Disclaimer and Waiver
+title: The Subie Doctor Disclaimer and Waiver
 search_engine_optimization:
   page_title: 'Subie Doctor Disclaimer and Waiver, Denver Colorado'
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 webform:
   subject: 'The Subie Doctor: Disclaimer and Waiver Form'
-  to: 'brent@variantstudios.com'
-  thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
+  to: 'todd@thesubiedoctor.com, service@thesubiedoctor.com, brent@variantstudios.com'
+  thank_you_message: Thank you for accepting our disclaimer and waiver.
 layout: page
 class: form
 permalink: /disclaimer-and-waiver/
