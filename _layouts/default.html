@@ -9,7 +9,7 @@
 
 <body class="{% if page.url != " / " %}{% if page.class %} {{ page.class }} {% endif %}{% endif %}">
     {% include browserupgrade.html %}
-
+    {% include notice.html  %}
     <div class="header-wrapper clearfix">
         {% include header.html %}
     </div>

@@ -636,6 +636,34 @@ header .nav-section .top-nav {
   margin: .35rem 0;
 }
 
+.notice--wrapper {
+  width: 100%;
+  background: #eee;
+}
+.notice--wrapper .notice--inner-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: .75rem;
+}
+.notice--wrapper .notice--inner-wrapper svg {
+  margin: 0 .5rem .75rem 0;
+  height: 25px;
+  width: 25px;
+}
+.notice--wrapper .notice--inner-wrapper svg path {
+  fill: #c12529;
+}
+.notice--wrapper .notice--inner-wrapper p {
+  margin: 0 0 .75rem 0;
+}
+
 .slick-next {
   right: 20px;
   z-index: 1;

@@ -11,8 +11,10 @@ layout: default
       {% include contact-form.html %}
     {% elsif page.url contains "schedule-repair" %}
       {% include schedule-repair-form.html %}
+    {% elsif page.url contains "disclaimer-and-waiver" %}
+      {% include disclaimer-and-waiver-form.html %}
     {% elsif page.url contains "reviews" %}
-      {% include reviews.html %}    
+      {% include reviews.html %}
     {% endif %}
   </section>
 </main>

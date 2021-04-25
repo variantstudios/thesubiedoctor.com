@@ -1,0 +1,36 @@
+<div id="contact-message"><h3>{{page.webform.thank_you_message}}</h3></div>
+<div class="contact-form">
+<form method="post" action="/disclaimer-and-waiver/?sent=true">
+  <input type="hidden" name="_to" value="{{page.webform.to}}">
+  <input type="hidden" name="_subject" value="{{page.webform.subject}}">
+   <input type="text" name="_gotcha" style="display: none;">
+   <div>
+       <p>You have fully read, acknowledge and accept The Subie Doctor COVID-19 disclaimer and waiver?</p>
+   </div>
+   <div class="webform-component">
+    <label>Yes, I accept</label>
+    <input type="checkbox" name="accept" id="accept" required="">
+    </div>
+   <div class="webform-component">
+        <label>Your Name</label>
+        <input type="text" name="name" id="name" required="" placeholder="John Doe">
+    </div>
+    <div class="webform-component">
+        <label>E-mail Address</label>
+        <input type="email" name="email" id="email" required="" placeholder="johndoe@gmail.com">
+    </div>
+    <div class="webform-component">
+        <label>Phone Number</label>
+        <input type="text" name="phone" id="phone" placeholder="303-123-4567">
+    </div>
+
+    <div class="g-recaptcha" data-sitekey="6LcUty8UAAAAAK5yyNyc8W-DkrlQZ9Ew9FE51Zlm"></div><br>
+    <input class="sendButton" type="submit" value="Send">
+</form>
+
+{% if page.google_map_embed_url %}
+<div class="map-embed">
+    <iframe src="{{page.google_map_embed_url}}" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+{% endif %}
+</div>
