@@ -13,6 +13,8 @@ photos:
     image_path: /assets/images/645-DC-6662.jpg
   - title: In the shop
     image_path: /assets/images/20200127_144719.jpg
+  - title: Racecars
+    image_path: /assets/images/20210424_174455.jpg
 class: about
 layout: about
 permalink: /about/
