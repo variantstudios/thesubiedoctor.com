@@ -13,10 +13,10 @@ photos:
     image_path: /assets/images/20210424_174455.jpg
   - title: Todd & Val
     image_path: /assets/images/162747546_114728320682482_5609935718484725955_n.jpg
-  - title: GC
-    image_path: /assets/images/FB_IMG_1620839889040.jpg
   - title: 100AW jump
     image_path: /assets/images/645-DC-6662.jpg
+  - title: GC
+    image_path: /assets/images/FB_IMG_1620839889040.jpg
 class: about
 layout: about
 permalink: /about/
