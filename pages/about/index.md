@@ -5,16 +5,14 @@ search_engine_optimization:
   page_title: 'About the Subie Doctor, Denver Colorado'
   page_description: We are subie.
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
-header_image_path: /assets/images/headers/home.jpg
+header_image_path: /assets/images/20210424_174455.jpg
 photos:
-  - title: Todd Briley
-    image_path: /assets/images/subie-about.jpg
-  - title: Inside the Shop
-    image_path: /assets/images/subie-about-2.jpg
-  - title: Todd and Val
-    image_path: /assets/images/toddandval.jpg
-  - title: Racing
-    image_path: /assets/images/78202117-20180826--bjm9195.jpg
+  - title: Todd & Val
+    image_path: /assets/images/162747546_114728320682482_5609935718484725955_n.jpg
+  - title: 100AW jump
+    image_path: /assets/images/645-DC-6662.jpg
+  - title: In the shop
+    image_path: /assets/images/20200127_144719.jpg
 class: about
 layout: about
 permalink: /about/
@@ -29,6 +27,6 @@ _comments:
     at least 600 x 315px.
 ---
 
-Meet the Doctor, Todd Briley. Originally from Chicago, I worked in the automotive engineering field for 25 years and have been a gearhead since high school. I started restoring muscle cars in the early 90’s as a hobby and have dabbled in a little of everything over the years. &nbsp;Since moving to beautiful CO in 2009 I’ve specialized in reconditioning Subaru’s as a side-gig and developed a following in NoCo fueled by referrals by being professional and honest, offering exceptional value and standing behind my work. &nbsp;With the momentum I had, it seemed the right time to say so long to my engineering desk job and follow my passion by starting my own Subaru business.
+Meet the Doctor, Todd Briley. Originally from Chicago, I worked in the automotive engineering field for 25 years and have been a gearhead since high school. I started restoring muscle cars in the early 90’s as a hobby and have dabbled in a little of everything over the years. Since moving to beautiful CO in 2009 I’ve specialized in reconditioning Subaru’s as a side-gig and developed a following in NoCo fueled by referrals by being professional and honest, offering exceptional value and standing behind my work. &nbsp;With the momentum I had, it seemed the right time to say so long to my engineering desk job and follow my passion by starting my own Subaru business.
 
 Since founding the business in May 2017, we have grown quickly from just me to 10 employees who are all passionate about Subies. &nbsp;Due to this growth, we’ve had to relocate twice to larger shops to increase capacity and have now settled in at our new remodeled facility very near our original location.&nbsp; Today we serve customers from WY to Pueblo and sell our reconditioned vehicles nationwide.
