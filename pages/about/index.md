@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title: 'About the Subie Doctor, Denver Colorado'
   page_description: We are subie.
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
-header_image_path: /assets/images/20210424_174455.jpg
+header_image_path: /assets/images/headers/home.jpg
 photos:
   - title: Todd & Val
     image_path: /assets/images/162747546_114728320682482_5609935718484725955_n.jpg
