@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="header-image">
     <img src="{{ page.header_image_path }}" />
 </div>
@@ -16,8 +17,11 @@ layout: default
               {% endfor %}
         </div>
 
-    <div data-cms-content-wrapper="/_layouts/about.html">{{ content }}</div>
+    <div>{{ content }}</div>
 
-    <div class="editable racing-block"><h2>Interested in Racing?</h2><div class="racing-images"><a target="_blank" href="http://www.coloradorallycross.org/"><img alt="" src="/assets/images/colorx.png" /> </a> <a target="_blank" href="https://www.rmsolo.org/"> <img alt="" src="/assets/images/logo.gif" /> </a></div></div>
+    <div class="editable racing-block">
+    	<h2>Interested in Racing?</h2>
+    	<div class="racing-images"><a target="_blank" href="http://www.coloradorallycross.org/"><img alt="" src="/assets/images/colorx.png" /> </a> <a target="_blank" href="https://www.rmsolo.org/"> <img alt="" src="/assets/images/logo.gif" /> </a></div>
+    </div>
   </section>
 </main>
