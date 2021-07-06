@@ -19,4 +19,4 @@ _comments:
     at least 600 x 315px.
 ---
 
-# Used Subaru Parts for Sale<br>[CURRENT INVENTORY (click here)](/Usedpartinventory-published.xlsx){: target="_blank"}<br>&nbsp;
+# Used Subaru Parts for Sale<br>[CURRENT INVENTORY (click here)](/Usedpartslist-published.pdf){: target="_blank"}<br>&nbsp;
