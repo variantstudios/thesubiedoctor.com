@@ -2,13 +2,11 @@
 title: Meet the Founder
 subtitle: Todd Briley
 search_engine_optimization:
-  page_title: 'About the Subie Doctor, Denver Colorado'
+  page_title: About the Subie Doctor, Denver Colorado
   page_description: We are subie.
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 header_image_path: /assets/images/headers/home.jpg
 photos:
-  - title: Team
-    image_path: /assets/images/20200407_133534.jpg
   - title: Racecars
     image_path: /assets/images/20210424_174455.jpg
   - title: Todd & Val
@@ -17,6 +15,8 @@ photos:
     image_path: /assets/images/645-DC-6662.jpg
   - title: GC
     image_path: /assets/images/FB_IMG_16208398890402.jpg
+  - title: Team
+    image_path: /assets/images/team-pic-cropped.jpg
 class: about
 layout: about
 permalink: /about/
