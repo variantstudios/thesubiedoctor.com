@@ -16,7 +16,7 @@ photos:
   - title: GC
     image_path: /assets/images/FB_IMG_16208398890402.jpg
   - title: Team
-    image_path: /assets/images/team-pic-cropped.jpg
+    image_path: /assets/images/team-pic-cropped-1.jpg
 class: about
 layout: about
 permalink: /about/
