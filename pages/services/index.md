@@ -1,7 +1,7 @@
 ---
 title: Subaru Services
 search_engine_optimization:
-  page_title: 'Subaru Services - Subie Doctor, Denver Colorado'
+  page_title: Subaru Services - Subie Doctor, Denver Colorado
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 class: services
@@ -16,7 +16,6 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-
 ### **Reconditioned Subaru Auto Sales**
 
 &nbsp;All of our Subies have been fully inspected and all issues addressed. &nbsp;Many of our vehicles receive new head gaskets, timing belts and water pumps and some offer newly rebuilt engines with warranty.
@@ -25,7 +24,7 @@ _comments:
 
 ##### *We specialize in large repair jobs such as:*
 
-**Head gasket replacement**<br>An all too common repair on Subaru’s. &nbsp;Symptoms or a head gasket issue are an oil or coolant leak, oil in the coolant or most common, an overheating issue. &nbsp;Anywhere from 100k to 200k, they will need to be replaced. &nbsp;We only use premium Six Star head gaskets and re-surface the cylinder heads which is a critical step as Subaru heads do warp slightly which is the main reason for gasket failure.
+**Head gasket replacement**<br>An all too common repair on Subaru’s. &nbsp;Symptoms of a head gasket issue are an oil or coolant leak, oil in the coolant or most common, an overheating issue. &nbsp;Anywhere from 100k to 200k, they will need to be replaced. &nbsp;We only use premium Six Star head gaskets and re-surface the cylinder heads which is a critical step as Subaru heads do warp slightly which is the main reason for gasket failure.
 
 **Timing belt and water pump replacement**<br>These are scheduled maintenance items. &nbsp;A timing belt or pulley failure will damage the engine valves and make for a much larger repair bill. &nbsp;Don’t put it off. &nbsp;Most models require replacement every 105k miles.
 
