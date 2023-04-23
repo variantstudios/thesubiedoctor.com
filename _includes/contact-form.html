@@ -1,48 +1,63 @@
-<div id="contact-message"><h3>{{page.webform.thank_you_message}}</h3></div>
-<div class="contact-form">
-<form method="post" action="/contact/?sent=true">
-  <input type="hidden" name="_to" value="{{page.webform.to}}">
-  <input type="hidden" name="_subject" value="{{page.webform.subject}}">
-   <input type="text" name="_gotcha" style="display: none;">
-    <div class="webform-component">
-        <label>Your Name</label>
-        <input type="text" name="name" id="name" required="" placeholder="John Doe">
-    </div>
-    <div class="webform-component">
-        <label>E-mail Address</label>
-        <input type="email" name="email" id="email" required="" placeholder="johndoe@gmail.com">
-    </div>
-    <div class="webform-component">
-        <label>Phone Number</label>
-        <input type="text" name="phone" id="phone" placeholder="303-123-4567">
-    </div>
-      <h3>Your Car's Details</h3>
-    <div class="webform-component">
-        <label>Your Car's Year</label>
-        <input type="text" name="car-year" id="car-year"  placeholder="2018">
-    </div>
-    <div class="webform-component">
-        <label>Your Car's Make</label>
-        <input type="text" name="car-make" id="car-make" placeholder="Subaru">
-    </div>
-    <div class="webform-component">
-        <label>Your Car's Model</label>
-        <input type="text" name="car-model" id="car-model"  placeholder="WRX">
-    </div>
-    
-    
-    
-    <div class="webform-component">
-        <label>Your Message</label>
-        <textarea id="message" name="message" rows="6" placeholder="Message"></textarea>
-    </div>
-    <div class="g-recaptcha" data-sitekey="6LcUty8UAAAAAK5yyNyc8W-DkrlQZ9Ew9FE51Zlm"></div><br>
-    <input class="sendButton" type="submit" value="Send">
-</form>
-
-{% if page.google_map_embed_url %}
-<div class="map-embed">
-    <iframe src="{{page.google_map_embed_url}}" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div id="contact-message">
+    <h3>{{page.webform.thank_you_message}}</h3>
 </div>
-{% endif %}
+<div class="contact-form">
+    <form method="post" action="/contact/?sent=true" netlify-honeypot="bot-field" data-netlify="true">
+
+        <input type="hidden" id="subject" name="subject" value="The Subie Doctor: Contact Form">
+        <input type="hidden" name="form-name" value="contact">
+        <p style="display: none;">
+            <label>
+                Don't fill this out if you're human: <input name="bot-field" />
+            </label>
+        </p>
+
+        <!-- <input type="hidden" name="_to" value="{{page.webform.to}}"> -->
+
+        <!-- <input type="hidden" name="_subject" value="{{page.webform.subject}}"> -->
+
+        <!-- <input type="text" name="_gotcha" style="display: none;"> -->
+
+        <div class="webform-component">
+            <label>Your Name</label>
+            <input type="text" name="name" id="name" required="" placeholder="John Doe">
+        </div>
+        <div class="webform-component">
+            <label>E-mail Address</label>
+            <input type="email" name="email" id="email" required="" placeholder="johndoe@gmail.com">
+        </div>
+        <div class="webform-component">
+            <label>Phone Number</label>
+            <input type="text" name="phone" id="phone" placeholder="303-123-4567">
+        </div>
+        <h3>Your Car's Details</h3>
+        <div class="webform-component">
+            <label>Your Car's Year</label>
+            <input type="text" name="car-year" id="car-year" placeholder="2018">
+        </div>
+        <div class="webform-component">
+            <label>Your Car's Make</label>
+            <input type="text" name="car-make" id="car-make" placeholder="Subaru">
+        </div>
+        <div class="webform-component">
+            <label>Your Car's Model</label>
+            <input type="text" name="car-model" id="car-model" placeholder="WRX">
+        </div>
+
+
+
+        <div class="webform-component">
+            <label>Your Message</label>
+            <textarea id="message" name="message" rows="6" placeholder="Message"></textarea>
+        </div>
+        <!-- <div class="g-recaptcha" data-sitekey="6LcUty8UAAAAAK5yyNyc8W-DkrlQZ9Ew9FE51Zlm"></div><br> -->
+        <input class="sendButton" type="submit" value="Send">
+    </form>
+
+    {% if page.google_map_embed_url %}
+    <div class="map-embed">
+        <iframe src="{{page.google_map_embed_url}}" width="600" height="450" frameborder="0" style="border:0"
+            allowfullscreen></iframe>
+    </div>
+    {% endif %}
 </div>
