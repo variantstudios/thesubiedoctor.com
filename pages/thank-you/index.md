@@ -11,7 +11,7 @@ webform:
   to: alex@thesubiedoctor.com,todd@thesubiedoctor.com
   thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
 layout: page
-permalink: /contact-thank-you/
+permalink: /thank-you/
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
