@@ -2,7 +2,7 @@
     <h3>{{page.webform.thank_you_message}}</h3>
 </div>
 <div class="contact-form">
-    <form method="post" netlify-honeypot="bot-field" data-netlify="true">
+    <form name="contact" method="post" netlify-honeypot="bot-field" data-netlify="true">
 
         <input type="hidden" id="subject" name="subject" value="The Subie Doctor: Contact Form">
         <input type="hidden" name="form-name" value="contact">
@@ -19,36 +19,36 @@
         <!-- <input type="text" name="_gotcha" style="display: none;"> -->
 
         <div class="webform-component">
-            <label>Your Name</label>
+            <label for="name">Your Name</label>
             <input type="text" name="name" id="name" required="" placeholder="John Doe">
         </div>
         <div class="webform-component">
-            <label>E-mail Address</label>
+            <label for="email">E-mail Address</label>
             <input type="email" name="email" id="email" required="" placeholder="johndoe@gmail.com">
         </div>
         <div class="webform-component">
-            <label>Phone Number</label>
-            <input type="text" name="phone" id="phone" placeholder="303-123-4567" required>
+            <label for="phone">Phone Number</label>
+            <input type="text" name="phone" id="phone" placeholder="303-123-4567" required="">
         </div>
         <h3>Your Car's Details</h3>
         <div class="webform-component">
-            <label>Your Car's Year</label>
-            <input type="text" name="year" id="year" placeholder="2018" required>
+            <label for="year">Your Car's Year</label>
+            <input type="text" name="year" id="year" placeholder="2018" required="">
         </div>
         <div class="webform-component">
-            <label>Your Car's Make</label>
-            <input type="text" name="make" id="make" placeholder="Subaru" required>
+            <label for="make">Your Car's Make</label>
+            <input type="text" name="make" id="make" placeholder="Subaru" required="">
         </div>
         <div class="webform-component">
-            <label>Your Car's Model</label>
-            <input type="text" name="model" id="model" placeholder="WRX" required>
+            <label for="model">Your Car's Model</label>
+            <input type="text" name="model" id="model" placeholder="WRX" required="">
         </div>
 
 
 
         <div class="webform-component">
-            <label>Your Message</label>
-            <textarea id="message" name="message" rows="6" placeholder="Message" required></textarea>
+            <label for="message">Your Message</label>
+            <textarea id="message" name="message" rows="6" placeholder="Message" required=""></textarea>
         </div>
         <!-- <div class="g-recaptcha" data-sitekey="6LcUty8UAAAAAK5yyNyc8W-DkrlQZ9Ew9FE51Zlm"></div><br> -->
         <input class="sendButton" type="submit" value="Send">
