@@ -2,7 +2,7 @@
 title: 2005 Subaru Impreza 2.5 RS Wagon
 make: Subaru
 model: Impreza 2.5 RS Wagon
-year: '2005'
+year: "2005"
 price: $5999
 inventory_option: sold
 car_category_option: used
@@ -11,61 +11,61 @@ photos:
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
-      /assets/images/cars/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver%2CCO%20%281%29.JPG
+      /assets/images/cars/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver%2CCO%20%281%29.jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (2).JPG
+      (2).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (1).JPG
+      (1).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (4).JPG
+      (4).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (7).JPG
+      (7).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (8).JPG
+      (8).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (9).JPG
+      (9).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (10).JPG
+      (10).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (12).JPG
+      (12).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
     image_path: >-
       /assets/images/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver,CO
-      (14).JPG
+      (14).jpg
   - title: >-
       2005 Subaru Impreza 2.5 RS Wagon for sale in Denver, Colorado at The Subie
       Doctor
@@ -77,7 +77,7 @@ search_engine_optimization:
     Doctor
   page_description: "This 2005 Subaru Impreza RS Wagon is one solid and clean ride with only 80,519 miles. What?? No, really!!\n\nThe Interior is very clean and damage free. Power windows, locks and power mirrors, 2 keys and key fobs all work correctly. A Pioneer CD/stereo with USB and Aux-in replaced the factory unit. It has All-Weather rubber floor mats, split fold rear seats, and a retractable cargo cover.\n\nThe exterior has received some cosmetic work to freshen it up, some paint touch up and body repair were performed. There’s factory roof rails and cross bars, the headlights are clear, fog lights were added (proper factory parts and wiring) and new tires were put on, even a clean windshield.\_\n\nMechanically the car received a thorough inspection and then we completed a timing component service including belts, pulleys, idlers, tensioner, thermostat, gasket, and water pump, new spark plugs, new brake pads and rotors, new oil and oil filter.\_\n\nAlthough the car is Rebuilt from a Salvage Title (the cause of Salvage was body damage, we do have pics of the damage prior to rebuild available) it has been carefully rebuilt by The Subie Doctor, VIN inspected by the Colorado State Patrol, and retitled by Adams County, and passed emissions. It is ready to register today.\_\n\nWe extensively road tested to ensure safety and reliability for years to come. It’s a solid, inexpensive and reliable car. Call, text or email to set up a test drive today!\n\n*selling price does not include tax\n*NO DEALER FEES"
   facebook_image_path: >-
-    /assets/images/cars/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver%2CCO%20%281%29.JPG
+    /assets/images/cars/TheSubieDoctor_2005_Impreza_Wagon_Used_ForSale_Denver%2CCO%20%281%29.jpg
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
@@ -88,4 +88,4 @@ _comments:
     at least 600 x 315px.
 ---
 
-This 2005 Subaru Impreza RS Wagon is one solid and clean ride with only 80,519 miles. What?? No, really!!<br><br>The Interior is very clean and damage free. Power windows, locks and power mirrors, 2 keys and key fobs all work correctly. A Pioneer CD/stereo with USB and Aux-in replaced the factory unit. It has All-Weather rubber floor mats, split fold rear seats, and a retractable cargo cover.<br><br>The exterior has received some cosmetic work to freshen it up, some paint touch up and body repair were performed. There’s factory roof rails and cross bars, the headlights are clear, fog lights were added (proper factory parts and wiring) and new tires were put on, even a clean windshield. <br><br>Mechanically the car received a thorough inspection and then we completed a timing component service including belts, pulleys, idlers, tensioner, thermostat, gasket, and water pump, new spark plugs, new brake pads and rotors, new oil and oil filter. <br><br>Although the car is Rebuilt from a Salvage Title (the cause of Salvage was body damage, we do have pics of the damage prior to rebuild available) it has been carefully rebuilt by The Subie Doctor, VIN inspected by the Colorado State Patrol, and retitled by Adams County, and passed emissions. It is ready to register today. <br><br>We extensively road tested to ensure safety and reliability for years to come. It’s a solid, inexpensive and reliable car. Call, text or email to set up a test drive today!<br>**<br>\*NO DEALER FEES**<br>**\*selling price does not include tax****<br>\*vehicle is Titled, passed emission and is ready to register**<br><br>(for more info and photos visit [www.ColoradoSubies.net](https://www.coloradosubies.net/inventory/details/41235125){: target="_blank"})
+This 2005 Subaru Impreza RS Wagon is one solid and clean ride with only 80,519 miles. What?? No, really!!<br><br>The Interior is very clean and damage free. Power windows, locks and power mirrors, 2 keys and key fobs all work correctly. A Pioneer CD/stereo with USB and Aux-in replaced the factory unit. It has All-Weather rubber floor mats, split fold rear seats, and a retractable cargo cover.<br><br>The exterior has received some cosmetic work to freshen it up, some paint touch up and body repair were performed. There’s factory roof rails and cross bars, the headlights are clear, fog lights were added (proper factory parts and wiring) and new tires were put on, even a clean windshield. <br><br>Mechanically the car received a thorough inspection and then we completed a timing component service including belts, pulleys, idlers, tensioner, thermostat, gasket, and water pump, new spark plugs, new brake pads and rotors, new oil and oil filter. <br><br>Although the car is Rebuilt from a Salvage Title (the cause of Salvage was body damage, we do have pics of the damage prior to rebuild available) it has been carefully rebuilt by The Subie Doctor, VIN inspected by the Colorado State Patrol, and retitled by Adams County, and passed emissions. It is ready to register today. <br><br>We extensively road tested to ensure safety and reliability for years to come. It’s a solid, inexpensive and reliable car. Call, text or email to set up a test drive today!<br>**<br>\*NO DEALER FEES**<br>**\*selling price does not include tax\*\***<br>\*vehicle is Titled, passed emission and is ready to register\*\*<br><br>(for more info and photos visit [www.ColoradoSubies.net](https://www.coloradosubies.net/inventory/details/41235125){: target="\_blank"})
