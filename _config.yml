@@ -22,10 +22,10 @@ permalink: pretty
 pagination:
   enabled: false
   per_page: 2
-  permalink: '/:num/'
-  title: ':title - page :num'
+  permalink: "/:num/"
+  title: ":title - page :num"
   limit: 0
-  sort_field: 'title'
+  sort_field: "title"
   sort_reverse: false
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: true
@@ -38,18 +38,15 @@ collections:
     output: false
   cars:
     output: true
-    permalink: '/car-inventory/:title/'
-  
+    permalink: "/car-inventory/:title/"
 
 # Collection Defaults
 defaults:
-  -
-    scope:
+  - scope:
       type: sg
     values:
       layout: styleguide-block
-  -
-    scope:
+  - scope:
       type: cars
     values:
       layout: car
@@ -63,14 +60,23 @@ inventory_options:
   - for_sale
   - sold
 
-
 # Cloudinary URL - something like: https://res.cloudinary.com/domain-com/
 cloudinaryurl: "https://res.cloudinary.com/thesubiedoctor/"
 
 # typekit - Because we all need nice type faces. --- afz7owd
 typekit: "afz7owd"
 
-# Google Analytics - What site isn't using it?! --- UA-97408360-1
-google_analytics_tracking_id: "UA-97408360-1"
+# Google Analytics - What site isn't using it?! --- // UA-97408360-1
+google_analytics_tracking_id: "G-W91PLRVMXE"
 
-exclude: ["readme.md", "vendor","node_modules","package.json", "package-lock.json","Gemfile","gulpfile.js","*.scss"]
+exclude:
+  [
+    "readme.md",
+    "vendor",
+    "node_modules",
+    "package.json",
+    "package-lock.json",
+    "Gemfile",
+    "gulpfile.js",
+    "*.scss",
+  ]
