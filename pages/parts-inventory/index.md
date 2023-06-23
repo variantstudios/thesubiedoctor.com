@@ -7,7 +7,7 @@ search_engine_optimization:
     Colorado.
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 class: parts-inventory
-permalink: '*UNDER CONSTRUCTION*'
+permalink: /parts-inventory/
 layout: default
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
