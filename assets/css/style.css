@@ -157,8 +157,7 @@ img {
 }
 
 input[type="text"], input[type="email"], input[type="name"], input[type="password"], input[type="file"], input[type="date"] {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 1rem;
   font-family: "paralucent", sans-serif;
   font-size: .9rem;
@@ -169,8 +168,7 @@ input[type="text"], input[type="email"], input[type="name"], input[type="passwor
 }
 input[type="text"]:active, input[type="text"]:focus, input[type="email"]:active, input[type="email"]:focus, input[type="name"]:active, input[type="name"]:focus, input[type="password"]:active, input[type="password"]:focus, input[type="file"]:active, input[type="file"]:focus, input[type="date"]:active, input[type="date"]:focus {
   background: #fafafa;
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
   outline: none;
 }
 
@@ -193,8 +191,7 @@ input:focus::-webkit-input-placeholder {
 
 textarea {
   width: 100%;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 1em 1.25em;
   font-size: 100%;
   border: 1px solid #D3D3D3;
@@ -203,8 +200,7 @@ textarea {
 }
 textarea:active, textarea:focus {
   background: #fafafa;
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
   outline: none;
 }
 
@@ -220,6 +216,8 @@ input[type="submit"] {
   padding: .5em 1.25em;
   font-size: 95%;
   -webkit-transition: all linear 0.2s;
+  -moz-transition: all linear 0.2s;
+  -o-transition: all linear 0.2s;
   transition: all linear 0.2s;
   cursor: pointer;
   width: 100%;
@@ -250,6 +248,8 @@ input[type="submit"]:hover {
   padding: .5em 1.25em;
   font-size: 95%;
   -webkit-transition: all linear 0.2s;
+  -moz-transition: all linear 0.2s;
+  -o-transition: all linear 0.2s;
   transition: all linear 0.2s;
 }
 .btn a:hover {
@@ -400,21 +400,13 @@ ul.pager li a:visited {
 
 @media (min-width: 50em) {
   .cols {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    justify-content: space-between;
   }
 }
 .no-mq .cols {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  justify-content: space-between;
 }
 .cols .col {
   margin: 2em 0;
@@ -497,13 +489,11 @@ ul.pager li a:visited {
   visibility: visible;
   opacity: 1;
   height: auto;
-  -webkit-transition: all .5s linear;
   transition: all .5s linear;
 }
 .menus.show .menu li {
   opacity: 1;
   margin-top: 0;
-  -webkit-transition: all .75s linear;
   transition: all .75s linear;
   margin-bottom: 0;
 }
@@ -542,14 +532,12 @@ ul.pager li a:visited {
   margin-top: -15px;
   margin-bottom: 10px;
   opacity: 0;
-  -webkit-transition: all .75s linear;
   transition: all .75s linear;
 }
 @media (min-width: 50em) {
   .menus .menu li {
     display: inline-block;
     padding: 0rem .85rem .7rem;
-    -webkit-transition: none;
     transition: none;
     opacity: 1;
     margin: 0;
@@ -558,14 +546,12 @@ ul.pager li a:visited {
 .no-mq .menus .menu li {
   display: inline-block;
   padding: 0rem .85rem .7rem;
-  -webkit-transition: none;
   transition: none;
   opacity: 1;
   margin: 0;
 }
 .menus .menu li a {
   font-weight: 700;
-  -webkit-transition: color .75s ease;
   transition: color .75s ease;
   padding: 0;
   display: block;
@@ -641,15 +627,9 @@ header .nav-section .top-nav {
   background: #eee;
 }
 .notice--wrapper .notice--inner-wrapper {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: flex-start;
+  align-items: center;
   padding-top: .75rem;
 }
 .notice--wrapper .notice--inner-wrapper svg {
@@ -678,8 +658,7 @@ header .nav-section .top-nav {
   margin: 3rem 0 5rem !important;
   border-radius: 4px;
   overflow: hidden;
-  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
-          box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
 }
 
 .racing-images img {
@@ -693,29 +672,22 @@ header .nav-section .top-nav {
   text-align: center;
 }
 
+.slick-slide img {
+  display: block;
+  width: 100%;
+}
+
 @media (min-width: 50em) {
   .contact-form {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: center;
+    align-items: center;
   }
 }
 .no-mq .contact-form {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  align-items: center;
 }
 @media (min-width: 50em) {
   .contact-form form {
@@ -758,12 +730,8 @@ header .nav-section .top-nav {
 }
 
 .button--reviews {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
 }
 .button--reviews .button--review {
   margin: 0 2rem;
@@ -952,8 +920,7 @@ header .logo {
   position: absolute;
   background: #fff;
   padding: 1em;
-  -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
-          box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
   margin: 0;
   z-index: 1;
   list-style: none;
@@ -1003,8 +970,7 @@ main .about-page {
 }
 
 html {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   height: 100%;
 }
 html body {
@@ -1015,8 +981,7 @@ html body {
 }
 
 *, *:before, *:after {
-  -webkit-box-sizing: inherit;
-          box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 .wrap {
@@ -1040,6 +1005,9 @@ main, header, footer, section, aside {
 
 .preface {
   background: no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   overflow: hidden;
 }
@@ -1103,6 +1071,8 @@ main, header, footer, section, aside {
   padding: .5em 1.25em;
   font-size: 95%;
   -webkit-transition: all linear 0.2s;
+  -moz-transition: all linear 0.2s;
+  -o-transition: all linear 0.2s;
   transition: all linear 0.2s;
 }
 .schedule-form .schedule-form .btn:hover {
@@ -1134,11 +1104,10 @@ main, header, footer, section, aside {
 .schedule-form {
   position: relative;
   margin-top: 10rem;
+  background: -moz-linear-gradient(top, white 0%, white 34%, rgba(255, 255, 255, 0) 100%);
   /* FF3.6-15 */
   background: -webkit-linear-gradient(top, white 0%, white 34%, rgba(255, 255, 255, 0) 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), color-stop(34%, #ffffff), to(rgba(255, 255, 255, 0)));
-  background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 34%, rgba(255, 255, 255, 0) 100%);
   background: linear-gradient(to bottom, #ffffff 0%, #ffffff 34%, rgba(255, 255, 255, 0) 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   /* IE6-9 */
@@ -1178,9 +1147,7 @@ main, header, footer, section, aside {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-transition: -webkit-transform 0.3s;
-  transition: -webkit-transform 0.3s;
   transition: transform 0.3s;
-  transition: transform 0.3s, -webkit-transform 0.3s;
 }
 
 .phase-two {
@@ -1207,28 +1174,16 @@ main, header, footer, section, aside {
 }
 @media (min-width: 75em) {
   .front .cols {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    align-items: center;
+    justify-content: space-between;
     margin: 8em 0 5em;
   }
 }
 .no-mq .front .cols {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  align-items: center;
+  justify-content: space-between;
   margin: 8em 0 5em;
 }
 .front .cols .col-2 {
@@ -1237,27 +1192,20 @@ main, header, footer, section, aside {
 @media (min-width: 75em) {
   .front .cols .col-2 {
     margin: 0 3%;
-    -webkit-box-flex: 1;
-        -ms-flex: 1;
-            flex: 1;
+    flex: 1;
   }
 }
 .no-mq .front .cols .col-2 {
   margin: 0 3%;
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
+  flex: 1;
 }
 .front .cols .intro {
-  -webkit-box-ordinal-group: 2;
-      -ms-flex-order: 1;
-          order: 1;
+  order: 1;
 }
 .front .cols .review-block {
   padding: 1em 2em 2em;
   background: #fff;
-  -webkit-box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.2);
-          box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.2);
   border-radius: 2px;
   margin-top: 200px;
 }
@@ -1395,11 +1343,9 @@ main, header, footer, section, aside {
   margin: 6em auto 0;
 }
 .cars-wrapper .car-item {
-  -webkit-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-          box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
   margin: 0 0 2em;
   background: #fff;
-  -webkit-transition: all .3s linear;
   transition: all .3s linear;
 }
 @media (min-width: 50em) {
@@ -1417,9 +1363,7 @@ main, header, footer, section, aside {
   vertical-align: top;
 }
 .cars-wrapper .car-item:hover {
-  -webkit-box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.3);
-          box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.3);
-  -webkit-transition: all .3s linear;
+  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.3);
   transition: all .3s linear;
 }
 .cars-wrapper .car-item--image {
@@ -1441,8 +1385,7 @@ main, header, footer, section, aside {
   position: absolute;
   bottom: 1rem;
   left: 1rem;
-  -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-          box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
   line-height: 1.6;
 }
 .cars-wrapper .car-item--details {
