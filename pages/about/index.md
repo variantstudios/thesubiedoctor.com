@@ -13,6 +13,14 @@ photos:
     image_path: /assets/images/front-pic-of-rallycar-and-wrapped-legacy.jpeg
   - title: gc rsti build
     image_path: /assets/images/gc-rsti-build.jpeg
+  - title: paul rand jake rcing gc
+    image_path: /assets/images/paul-rand-jake-rcing-gc.jpeg
+  - title: snow cross rally
+    image_path: /assets/images/snow-cross-rally.jpeg
+  - title: fa ets build
+    image_path: /assets/images/fa-ets-build.jpeg
+  - title: Alex Cas 800whp build
+    image_path: /assets/images/alex-cas-800whp-build.jpeg
 class: about
 layout: about
 permalink: /about/
