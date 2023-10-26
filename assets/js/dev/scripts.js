@@ -165,7 +165,8 @@ $(document).ready(function() {
 		speed: 500,
 		fade: true,
 		cssEase: 'linear',
-		autoplay: true
+		autoplay: true,
+		adaptiveHeight: true,
 	});
 
 	//if (document.getElementById('date') != null ) {
