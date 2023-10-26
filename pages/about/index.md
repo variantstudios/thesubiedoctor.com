@@ -1,6 +1,6 @@
 ---
-title: Meet the Founder
-subtitle: Todd Briley
+title: About
+subtitle: The Subie Doctor
 search_engine_optimization:
   page_title: About the Subie Doctor, Denver Colorado
   page_description: We are subie.
@@ -30,6 +30,5 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-Originally from Chicago, Todd worked in the automotive engineering field for 25 years and has been a gearhead since high school. He started restoring muscle cars in the early 90’s as a hobby and have dabbled in a little of everything over the years. Since moving to beautiful CO in 2009 he specialized in reconditioning Subaru’s as a side-gig and developed a following in NoCo fueled by referrals by being professional and honest, offering exceptional value and standing behind my work. &nbsp;With that momentum, it seemed the right time to say so long to his engineering desk job and follow his passion by starting his own Subaru business.
 
-Since founding the business in May 2017, we have grown quickly from just 1 to a staff of 9 who are all passionate about Subies.&nbsp; Alex, our General Manager, has been part of the CO Subaru community for as long as he can remember. &nbsp;Due to our growth, we’ve had to relocate twice to larger shops to increase capacity and have now settled in at our new remodeled facility very near our original location.&nbsp; Today we serve customers from WY to Pueblo and sell our reconditioned vehicles nationwide.
+The Subie Doctor is a premier automotive repair shop and seller, specializing in Subaru vehicles. Our experienced and knowledgeable technicians are not only committed to providing the highest quality repairs and maintenance services available, but they are also Subaru factory trained technicians. We are also one of the few independent shops that have and use the SSM computer, which is a computer that only Subaru dealerships have, that ables us to quickly diagnose and repair any issues on your Subaru. We also have deep roots in rally racing and our employees' immersion in the racing and Subaru community make us the perfect choice for any modified Subaru. No matter the make, model, or year of your Subaru, we take pride in our work and always strive to provide the best customer experience possible.
