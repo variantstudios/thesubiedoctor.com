@@ -7,16 +7,12 @@ search_engine_optimization:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 header_image_path: /assets/images/headers/home.jpg
 photos:
-  - title: Racecars
-    image_path: /assets/images/20210424_174455.jpg
-  - title: Todd & Val
-    image_path: /assets/images/162747546_114728320682482_5609935718484725955_n.jpg
-  - title: 100AW jump
-    image_path: /assets/images/645-DC-6662.jpg
-  - title: GC
-    image_path: /assets/images/FB_IMG_16208398890402.jpg
-  - title: Team
-    image_path: /assets/images/team-pic-cropped-2.jpg
+  - title: 4 rSTi
+    image_path: /assets/images/4-rsti-pic.jpeg
+  - title: front pic of rallycar and wrapped legacy
+    image_path: /assets/images/front-pic-of-rallycar-and-wrapped-legacy.jpeg
+  - title: gc rsti build
+    image_path: /assets/images/gc-rsti-build.jpeg
 class: about
 layout: about
 permalink: /about/
@@ -30,5 +26,4 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-
 The Subie Doctor is a premier automotive repair shop and seller, specializing in Subaru vehicles. Our experienced and knowledgeable technicians are not only committed to providing the highest quality repairs and maintenance services available, but they are also Subaru factory trained technicians. We are also one of the few independent shops that have and use the SSM computer, which is a computer that only Subaru dealerships have, that ables us to quickly diagnose and repair any issues on your Subaru. We also have deep roots in rally racing and our employees' immersion in the racing and Subaru community make us the perfect choice for any modified Subaru. No matter the make, model, or year of your Subaru, we take pride in our work and always strive to provide the best customer experience possible.
