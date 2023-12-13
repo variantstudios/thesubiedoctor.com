@@ -40,7 +40,7 @@ _comments:
 
 ***We also handle minor repair jobs such as:***
 
-**Brakes**<br>Brakes squeaking or grinding or just don’t feel right? &nbsp;We offer free brake inspections
+**Brakes**<br>Brakes squeaking or grinding or just don’t feel right? &nbsp;We can inspect both your front and rear brake pads to determine how much life is left and also check your brake rotors for warping, hot spots and grinding/scarring.
 
 **Strut replacement**<br>An often overlooked area, worn out struts can make a car bouncy and tend to sway in turns and during quick lane changes. &nbsp;Bad struts will make a car unstable at highway speeds
 
