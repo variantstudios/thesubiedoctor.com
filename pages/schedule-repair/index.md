@@ -1,12 +1,12 @@
 ---
 title: Schedule Your Subaru Repair
 search_engine_optimization:
-  page_title: 'Schedule Your Subaru Repair - Subie Doctor, Denver Colorado'
+  page_title: Schedule Your Subaru Repair - Subie Doctor, Denver Colorado
   page_description:
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
 webform:
   subject: 'The Subie Doctor: Schedule Repair Form'
-  to: 'todd@thesubiedoctor.com, team@variantstudios.com, service@thesubiedoctor.com'
+  to: todd@thesubiedoctor.com, team@variantstudios.com, service@thesubiedoctor.com
   thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
 layout: schedule
 class: form
@@ -26,9 +26,8 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+#### Whether you just need a pre-buy inspection, a transmission replaced, some performance upgrades or want to swap in that STi engine you’ve been dreaming about, the Doctor can take care of you.
 
-Whether you just need a pre-buy inspection, a transmission replaced, some performance upgrades or want to swap in that STi engine you’ve been dreaming about, the Doctor can take care of you.
-
-Sorry, our online scheduler is temporarily in the shop for an upgrade.&nbsp; Please call or text us at 720-463-0717 or use our contact form&nbsp;[here](/contact/)&nbsp;to request an appointment.
+#### Sorry, our online scheduler is temporarily in the shop for an upgrade.&nbsp; Please call or text us at 720-463-0717 or use our contact form&nbsp;[here](/contact/)&nbsp;to request an appointment.
 
 ![](/assets/images/sean-lara-photography-132654.jpg){: width="4000" height="2670"}
