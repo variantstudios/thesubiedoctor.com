@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title: About the Subie Doctor, Denver Colorado
   page_description: We are subie.
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
-header_image_path: /assets/images/60-wrb.jpg
+header_image_path: /assets/images/huge-gc-pic.jpg
 photos:
   - title: ''
     image_path: /assets/images/22b-front.jpg
