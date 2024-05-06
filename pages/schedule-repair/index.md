@@ -28,6 +28,6 @@ _comments:
 ---
 #### Whether you just need a pre-buy inspection, a transmission replaced, some performance upgrades or want to swap in that STi engine you’ve been dreaming about, the Doctor can take care of you.
 
-#### Sorry, our online scheduler is temporarily in the shop for an upgrade.&nbsp; Please call or text us at 720-463-0717 or use our contact form&nbsp;[here](/contact/)&nbsp;to request an appointment.
+#### Please call or text us at 720-463-0717 or use our contact form&nbsp;[here](/contact/)&nbsp;to request an appointment.
 
 ![](/assets/images/sean-lara-photography-132654.jpg){: width="4000" height="2670"}
