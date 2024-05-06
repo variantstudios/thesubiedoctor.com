@@ -5,22 +5,28 @@ search_engine_optimization:
   page_title: About the Subie Doctor, Denver Colorado
   page_description: We are subie.
   facebook_image_path: /assets/images/thesubiedoctor-facebook-1200x630.png
-header_image_path: /assets/images/headers/home.jpg
+header_image_path: /assets/images/wrb-pic-front-1.jpg
 photos:
-  - title: 4 rSTi
-    image_path: /assets/images/4-rsti-pic.jpeg
-  - title: front pic of rallycar and wrapped legacy
-    image_path: /assets/images/front-pic-of-rallycar-and-wrapped-legacy.jpeg
-  - title: gc rsti build
-    image_path: /assets/images/gc-rsti-build.jpeg
-  - title: paul rand jake rcing gc
-    image_path: /assets/images/paul-rand-jake-rcing-gc.jpeg
+  - title: ''
+    image_path: /assets/images/22b-front.jpg
+  - title: ''
+    image_path: /assets/images/wrb-pic-front.jpg
   - title: snow cross rally
     image_path: /assets/images/snow-cross-rally.jpeg
-  - title: fa ets build
-    image_path: /assets/images/fa-ets-build.jpeg
+  - title: ''
+    image_path: /assets/images/blue-fxt-side.jpg
+  - title: ''
+    image_path: /assets/images/3-rs-front.jpg
+  - title: ''
+    image_path: /assets/images/rally-car-front.jpg
+  - title: gc rsti build
+    image_path: /assets/images/gc-rsti-build.jpeg
   - title: Alex Cas 800whp build
     image_path: /assets/images/alex-cas-800whp-build.jpeg
+  - title: paul rand jake rcing gc
+    image_path: /assets/images/paul-rand-jake-rcing-gc.jpeg
+  - title: fa ets build
+    image_path: /assets/images/fa-ets-build.jpeg
 class: about
 layout: about
 permalink: /about/
