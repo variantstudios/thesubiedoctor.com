@@ -25,8 +25,14 @@ photos:
     image_path: /assets/images/alex-cas-800whp-build.jpeg
   - title: paul rand jake rcing gc
     image_path: /assets/images/paul-rand-jake-rcing-gc.jpeg
-  - title: fa ets build
-    image_path: /assets/images/fa-ets-build.jpeg
+  - title: ''
+    image_path: /assets/images/svx-side.jpg
+  - title: ''
+    image_path: /assets/images/wrb-hatch-clean.jpg
+  - title: ''
+    image_path: /assets/images/timed-lb-pic.jpg
+  - title: ''
+    image_path: /assets/images/red-esx-pic.jpg
 class: about
 layout: about
 permalink: /about/
