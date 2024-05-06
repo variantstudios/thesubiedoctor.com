@@ -9,6 +9,8 @@ header_image_path:
 photos:
   - title: ''
     image_path: /assets/images/22b-front.jpg
+  - title: ''
+    image_path: /assets/images/wrb-pic-front.jpg
   - title: snow cross rally
     image_path: /assets/images/snow-cross-rally.jpeg
   - title: ''
@@ -19,8 +21,6 @@ photos:
     image_path: /assets/images/rally-car-front.jpg
   - title: gc rsti build
     image_path: /assets/images/gc-rsti-build.jpeg
-  - title: ''
-    image_path: /assets/images/wrb-pic-front.jpg
   - title: Alex Cas 800whp build
     image_path: /assets/images/alex-cas-800whp-build.jpeg
   - title: paul rand jake rcing gc
