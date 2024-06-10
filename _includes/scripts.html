@@ -29,15 +29,15 @@
 <script src="/assets/js/prod/cloudinary.js"></script>
 {% endif %}
 
-{% if site.google_analytics_tracking_id %}
-<!-- google analytics 4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_tracking_id }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W91PLRVMXE"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
 
-  gtag('config', '{{ site.google_analytics_tracking_id }}');
-</script>
+  // Configuration for Google Analytics
+  gtag('config', 'G-W91PLRVMXE');
 
-{% endif %}
+  // Configuration for Google Ads
+  gtag('config', 'AW-16551434025');
+</script>
