@@ -18,7 +18,7 @@ _comments:
 ---
 # PAYMENTS
 
-#### Cash or Certified Funds:<br>We accept cash, check, cashier’s check and money order. &nbsp;We offer a 1% discount for repairs paid with cash.&nbsp;<br><br>Credit Card:<br>We accept VISA, MC, AMEX and Discover up to $5000 MAX (credit or debit) per invoice, anything over $5000 will be subject to a 3% transaction fee.
+#### Cash or Certified Funds:<br>We accept cash, check, cashier’s check and money order. &nbsp;We offer a 1% discount for repairs paid with cash.&nbsp;<br><br>Credit Card or Debit Card:<br>We accept VISA, MC, AMEX and Discover up to $5000 MAX (credit or debit) per invoice, anything over $5000 will be subject to a 3% transaction fee.
 
 #### \-Ex. If your invoice is $6000, and you'd like to use a credit or debit card, then $1000 of that amount will be subject to a 3% fee, $30 in this example.<br>
 
@@ -26,7 +26,7 @@ _comments:
 
 # FINANCING
 
-### The Subie Doctor understands repairs aren’t always planned. Here are a few resources for repair financing options:
+### The Subie Doctor understands repairs aren’t always planned.  Here we offer financing repairs through DigniFi.  You can apply for free and it only takes a couple minutes to see if you qualify for a monthly payment plan:
 
 [![](/assets/images/webbanner-970x250-billboard.jpg){: width="970" height="250"}](https://app.dignifi.com/campaigns/845?d_id=6926&amp;utm_campaign=845-independent-partner&amp;utm_source=thesubiedoctor.com&amp;utm_medium=web&amp;utm_content=banner-d6926){: target="_blank" rel="noopener"}
 
