@@ -30,4 +30,4 @@ _comments:
 
 #### Please call or text us at 720-463-0717 or use our contact form&nbsp;[here](/contact/)&nbsp;to request an appointment.
 
-![](/assets/images/sean-lara-photography-132654.jpg){: width="4000" height="2670"}
+![](/assets/images/huge-gc-pic-1.jpg){: width="4000" height="2670"}
