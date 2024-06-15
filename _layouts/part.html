@@ -16,15 +16,15 @@ layout: default
       <div class="detail-wrapper">
 
 
-        {% if page.inventory_options == 'sold' %}
+        {% if page.inventory_option == 'sold' %}
         <p class="car-status">SOLD</p>
         {% endif %}
 
-        {% if page.inventory_options == 'coming' %}
+        {% if page.inventory_option == 'coming' %}
         <p class="car-status">Coming Soon</p>
         {% endif %}
 
-        {% if page.inventory_options == 'for_sale' and page.price %}
+        {% if page.inventory_option == 'for_sale' and page.price %}
         <div class="price detail">{{page.price}}</div>
         {% endif %}
 

@@ -1,7 +1,7 @@
 ---
 title: Test Product
 post_date: 2018-05-08 00:00:00
-inventory_options: for_sale
+inventory_option: for_sale
 sku: 123
 price: $6,000.00
 photos:

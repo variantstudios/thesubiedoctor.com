@@ -1,7 +1,7 @@
 ---
 title:
 post_date:
-inventory_options:
+inventory_option:
 sku:
 price:
 disclaimer:

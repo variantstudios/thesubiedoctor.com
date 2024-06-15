@@ -8,7 +8,7 @@ layout: page
   <div class="car-item clearfix">
     <div class="car-item--image">
 
-      {% if part.inventory_options == 'for_sale' %}
+      {% if part.inventory_option == 'for_sale' %}
       <a href="{{ part.url }}">
         <img src="{{ part.photos[0].image_path }}" alt="{{ part.photos[0].title }}">
         <div class="price">{{ part.price }}</div>
@@ -16,14 +16,14 @@ layout: page
       {% endif %}
 
 
-      {% if part.inventory_options == 'coming' %}
+      {% if part.inventory_option == 'coming' %}
       <a href="{{ part.url }}">
         <div class="coming-soon-overlay">Coming Soon</div>
         <img src="{{ part.photos[0].image_path }}" alt="{{ part.photos[0].title }}">
       </a>
       {% endif %}
 
-      {% if part.inventory_options == 'sold' %}
+      {% if part.inventory_option == 'sold' %}
       <div class="sold-overlay">Sold</div>
       <img src="{{ part.photos[0].image_path }}" alt="{{ part.photos[0].title }}">
       {% endif %}
