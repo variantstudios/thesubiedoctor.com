@@ -39,6 +39,9 @@ collections:
   cars:
     output: true
     permalink: "/car-inventory/:title/"
+  car_parts:
+    output: true
+    permalink: "/parts-inventory/:title/"
 
 # Collection Defaults
 defaults:
@@ -50,6 +53,10 @@ defaults:
       type: cars
     values:
       layout: car
+  - scope:
+      type: car_parts
+    values:
+      layout: part
 
 # Default Select Options (client can't change)
 car_category_options:

@@ -1,0 +1,40 @@
+---
+layout: page
+---
+<section class="cars-preface">{{ page.content }}</section>
+<section class="cars-wrapper">
+  {% assign parts = site.car_parts | sort: 'post_date' | reverse %}
+  {% for part in parts %}
+  <div class="car-item clearfix">
+    <div class="car-item--image">
+
+      {% if part.inventory_options == 'for_sale' %}
+      <a href="{{ part.url }}">
+        <img src="{{ part.photos[0].image_path }}" alt="{{ part.photos[0].title }}">
+        <div class="price">{{ part.price }}</div>
+      </a>
+      {% endif %}
+
+
+      {% if part.inventory_options == 'coming' %}
+      <a href="{{ part.url }}">
+        <div class="coming-soon-overlay">Coming Soon</div>
+        <img src="{{ part.photos[0].image_path }}" alt="{{ part.photos[0].title }}">
+      </a>
+      {% endif %}
+
+      {% if part.inventory_options == 'sold' %}
+      <div class="sold-overlay">Sold</div>
+      <img src="{{ part.photos[0].image_path }}" alt="{{ part.photos[0].title }}">
+      {% endif %}
+
+    </div>
+    <div class="car-item--details">
+      <a href="{{ part.url }}">
+        <h3>{{ part.title }}</h3>
+      </a>
+      <p class="car-date">listed on {{ part.post_date | date: "%a, %b %d, %Y" }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</section>

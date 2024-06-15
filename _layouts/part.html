@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<main>
+  <section class="wrap car-full-node">
+
+    <div class="car-details">
+      <div class="breadcrumbs">
+        <a href="/">Home</a> / <a href="/parts-inventory/">Parts Inventory</a> / {{ page.title }}
+      </div>
+      <h1 class="pagetitle">{{ page.title }}</h1>
+
+
+
+
+      <div class="detail-wrapper">
+
+
+        {% if page.inventory_options == 'sold' %}
+        <p class="car-status">SOLD</p>
+        {% endif %}
+
+        {% if page.inventory_options == 'coming' %}
+        <p class="car-status">Coming Soon</p>
+        {% endif %}
+
+        {% if page.inventory_options == 'for_sale' and page.price %}
+        <div class="price detail">{{page.price}}</div>
+        {% endif %}
+
+
+        {% if page.sku %}
+        <div class="detail">SKU: {{page.sku}}</div>
+        {% endif %}
+        {% if page.post_date %}
+        <div class="detail">Posted on: {{ page.post_date | date: "%a, %b %d, %Y" }}</div>
+        {% endif %}
+
+
+      </div>
+      <div>{{ content }}</div>
+    </div>
+    <div class="car-photos">
+      <section class="splide" aria-label="Splide Basic HTML Example">
+        <div class="splide__track">
+          <ul class="splide__list">
+            {% for item in page.photos %}
+            <li class="splide__slide">
+              <img src="{{item.image_path}}" alt="{{item.title}}" title="{{item.title}}" />
+              <p>
+                {{item.title}}
+              </p>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+    </div>
+
+
+
+
+
+
+  </section>
+
+
+
+</main>

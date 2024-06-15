@@ -5,32 +5,34 @@ layout: page
 <section class="cars-wrapper">
   {% assign carsorted = site.cars | sort: 'post_date' | reverse %}
   {% for car in carsorted %}
-    <div class="car-item clearfix">
-      <div class="car-item--image">
-        {% if car.inventory_option == 'sold' %}
-           <div class="sold-overlay">Sold</div>
-           <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
-        {% endif %}
+  <div class="car-item clearfix">
+    <div class="car-item--image">
+      {% if car.inventory_option == 'sold' %}
+      <div class="sold-overlay">Sold</div>
+      <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
+      {% endif %}
 
-        {% if car.inventory_option == 'for_sale' %}
-        <a href="{{ car.url }}">
-            <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
-            <div class="price">{{ car.price }}</div>            
-          </a>
-        {% endif %}
+      {% if car.inventory_option == 'for_sale' %}
+      <a href="{{ car.url }}">
+        <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
+        <div class="price">{{ car.price }}</div>
+      </a>
+      {% endif %}
 
-        {% if car.inventory_option == 'coming' %}
-        <a href="{{ car.url }}">
-            
-          <div class="coming-soon-overlay">Coming Soon</div>
-          <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
-        </a>
-        {% endif %}
-      </div>
-      <div class="car-item--details">
-        <a href="{{ car.url }}"><h3>{{ car.title }}</h3></a>
-        <p class="car-date">listed on {{ car.post_date | date: "%a, %b %d, %Y" }}</p>
-      </div>
+      {% if car.inventory_option == 'coming' %}
+      <a href="{{ car.url }}">
+
+        <div class="coming-soon-overlay">Coming Soon</div>
+        <img src="{{ car.photos[0].image_path }}" alt="{{ car.photos[0].title }}">
+      </a>
+      {% endif %}
     </div>
-    {% endfor %}
+    <div class="car-item--details">
+      <a href="{{ car.url }}">
+        <h3>{{ car.title }}</h3>
+      </a>
+      <p class="car-date">listed on {{ car.post_date | date: "%a, %b %d, %Y" }}</p>
+    </div>
+  </div>
+  {% endfor %}
 </section>

@@ -1,47 +1,52 @@
 .car-full-node {
-    margin: 6em auto 0;
-    @include clearfix;
-    .car-details {
-      margin: 0 0 2em;
-      @include breakpoint($bp-medium, $no-query: ".no-mq") {
-        width: 47.5%;
-        margin: 0 2rem 2.5em 0;
-        float: left;
-      }
-      .detail {
-          &.price {
-              font-weight: 700;
-              font-weight: 700;
-              background: #3bb56b;
-              color: #fff;
-              font-size: 1.25rem;
-              padding: .25rem 1rem;
-              display: inline-block;
-              margin-bottom: .5rem;
-              border-radius: 4px;
-          }
-      }
+  margin: 6em auto 0;
+  @include clearfix;
+  .car-details {
+    margin: 0 0 2em;
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+      width: 47.5%;
+      margin: 0 2rem 2.5em 0;
+      float: left;
     }
-    .detail-wrapper {
-        padding: 1rem 0 2rem;
-        margin-bottom: 2em;
-        border-bottom: 1px solid #ccc;
-    }
-    .car-photos {
-        overflow: hidden;
-    }
-    .car-item--details {
-      padding: 1rem;
-      a {
-        text-decoration: none;
+    .detail {
+      &.price {
+        font-weight: 700;
+        font-weight: 700;
+        background: #3bb56b;
+        color: #fff;
+        font-size: 1.25rem;
+        padding: 0.25rem 1rem;
+        display: inline-block;
+        margin-bottom: 0.5rem;
+        border-radius: 4px;
       }
-      h3 {
-        margin: 0;
-      }
-    }
-    .car-status {
-      font-weight: 700;
-      font-size: 1.2em;
     }
   }
-  
+  .detail-wrapper {
+    padding: 1rem 0 2rem;
+    margin-bottom: 2em;
+    border-bottom: 1px solid #ccc;
+  }
+  .car-photos {
+    overflow: hidden;
+  }
+  .car-item--details {
+    padding: 1rem;
+    a {
+      text-decoration: none;
+    }
+    h3 {
+      margin: 0;
+    }
+  }
+  .car-status {
+    font-weight: 700;
+    font-size: 1.2em;
+  }
+}
+
+.car-photos {
+  .splide__pagination {
+    // margin-top: 2rem;
+  }
+}

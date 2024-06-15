@@ -1,86 +1,100 @@
 <head>
-	<meta charset="utf-8">
-	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9"><![endif]-->
-	<link rel="canonical" href="{{ page.url | prepend:site.url }}">
-	<link rel="shortlink" href="{{ page.url | prepend:site.url }}">
-	<meta name="robots" content="follow, index">
-	<title>{% if page.search_engine_optimization.page_title %}{{ page.search_engine_optimization.page_title }}{% else %}{{ site.title }}{% endif %}</title>
-	<meta name="description" content="{% if page.search_engine_optimization.page_description %}{{ page.search_engine_optimization.page_description }}{% else %}{{ site.description }}{% endif %}">
-	<!-- Open Graph -->
-	<meta property="og:site_name" content="{{ site.title }}">
-	<meta property="og:title" content="{% if page.search_engine_optimization.page_title %}{{ page.search_engine_optimization.page_title }}{% else %}{{ site.title }}{% endif %}">
-	<meta property="og:description" content="{% if page.search_engine_optimization.page_description %}{{ page.search_engine_optimization.page_description }}{% else %}{{ site.description }}{% endif %}">
-	<meta property="og:image" content="{{ site.url }}{% if page.search_engine_optimization.facebook_image_path %}{{ page.search_engine_optimization.facebook_image_path }}{% else %}/assets/images/thesubiedoctor-facebook-1200x630.png{% endif %}">
-	<meta property="og:url" content="{{ page.url | prepend:site.url }}">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta property="og:type" content="website" />
-	<meta property="fb:app_id" content="531135737220539" />
-	
-	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css" />
-	
+  <meta charset="utf-8">
+  <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9"><![endif]-->
+  <link rel="canonical" href="{{ page.url | prepend:site.url }}">
+  <link rel="shortlink" href="{{ page.url | prepend:site.url }}">
+  <meta name="robots" content="follow, index">
+  <title>{% if page.search_engine_optimization.page_title %}{{ page.search_engine_optimization.page_title }}{% else %}{{
+    site.title }}{% endif %}</title>
+  <meta name="description"
+    content="{% if page.search_engine_optimization.page_description %}{{ page.search_engine_optimization.page_description }}{% else %}{{ site.description }}{% endif %}">
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title"
+    content="{% if page.search_engine_optimization.page_title %}{{ page.search_engine_optimization.page_title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description"
+    content="{% if page.search_engine_optimization.page_description %}{{ page.search_engine_optimization.page_description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image"
+    content="{{ site.url }}{% if page.search_engine_optimization.facebook_image_path %}{{ page.search_engine_optimization.facebook_image_path }}{% else %}/assets/images/thesubiedoctor-facebook-1200x630.png{% endif %}">
+  <meta property="og:url" content="{{ page.url | prepend:site.url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:type" content="website" />
+  <meta property="fb:app_id" content="531135737220539" />
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="/assets/css/style.css" media="screen">
-	<link rel="stylesheet" href="/assets/css/print.css"  media="print">
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.min.css" />
 
-	
+  <!-- <script src="/assets/js/prod/splide.min.js"></script>
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-	<script>window.Modernizr || document.write('<script src="/assets/js/prod/modernizr-2.8.3.min.js"><\/script>')</script>
+  <link href="/assets/css/splide/splide.min.css" rel="stylesheet"> -->
 
-	{% if site.typekit %}
-	<script src="https://use.typekit.net/{{ site.typekit }}.js"></script>
-	<script>try{Typekit.load({ async: true });}catch(e){}</script>
-	{% endif %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/assets/css/style.css" media="screen">
+  <link rel="stylesheet" href="/assets/css/print.css" media="print">
 
-	<script src="https://use.fontawesome.com/1108bf52dd.js"></script>
 
-	<!-- Apple Touch, Fav Icon, and Windows Tile -->
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-	<style>
-        .msm_appointment_button {
-          display: inline-block;
-          position: relative;
-          height: 50px;
-          width: 350px;
-          cursor: pointer;
-          border-radius: 15px;
-          background: white;
-          border: solid #d3d3d3;
-          color: #606060;
-          border-width: 2px;
-          font-family: "Open Sans", sans-serif;
-          font-weight: bold;
-          margin: 0px;
-          padding: 0px;
-        }
-        .msm_right_icon {
-          right: 5px;
-        }
-        .msm_shoplogo {
-          left: 5px;
-        }
-        .msm_image {
-          max-height: 90%;
-          max-width: 20%;
-        }
-        .msm_text {
-          height: 50px;
-          line-height: 50px;
-          width: 100%;
-          text-align: center;
-        }
-        .msm_valign {
-          position: absolute;
-          top: 50%;
-          -webkit-transform: translateY(-50%);
-          -ms-transform: translateY(-50%);
-          transform: translateY(-50%);
-        }
-    </style>
 
-	<!-- HTML 5 Shiv -->
-	<!--[if lt IE 9]> <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script> <![endif]-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+  <script>window.Modernizr || document.write('<script src="/assets/js/prod/modernizr-2.8.3.min.js"><\/script>')</script>
+
+  {% if site.typekit %}
+  <script src="https://use.typekit.net/{{ site.typekit }}.js"></script>
+  <script>try { Typekit.load({ async: true }); } catch (e) { }</script>
+  {% endif %}
+
+  <script src="https://use.fontawesome.com/1108bf52dd.js"></script>
+
+  <!-- Apple Touch, Fav Icon, and Windows Tile -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <style>
+    .msm_appointment_button {
+      display: inline-block;
+      position: relative;
+      height: 50px;
+      width: 350px;
+      cursor: pointer;
+      border-radius: 15px;
+      background: white;
+      border: solid #d3d3d3;
+      color: #606060;
+      border-width: 2px;
+      font-family: "Open Sans", sans-serif;
+      font-weight: bold;
+      margin: 0px;
+      padding: 0px;
+    }
+
+    .msm_right_icon {
+      right: 5px;
+    }
+
+    .msm_shoplogo {
+      left: 5px;
+    }
+
+    .msm_image {
+      max-height: 90%;
+      max-width: 20%;
+    }
+
+    .msm_text {
+      height: 50px;
+      line-height: 50px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .msm_valign {
+      position: absolute;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+  </style>
+
+  <!-- HTML 5 Shiv -->
+  <!--[if lt IE 9]> <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script> <![endif]-->
 </head>
