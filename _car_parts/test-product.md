@@ -1,16 +1,16 @@
 ---
-title: Test Product
+title: 04 WRX Part Out
 post_date: 2018-05-08 00:00:00
 inventory_option: for_sale
-sku: 123
-price: $6,000.00
+sku: 1
+price: Ask Pricing
 photos:
-  - title: Long Block
-    image_path: /assets/images/placeholder.png
-  - title: Long Block
-    image_path: /assets/images/placeholder.png
-  - title: Long Block
-    image_path: /assets/images/placeholder.png
+  - title: Exterior
+    image_path: /assets/images/04-wrx-whole-pic.jpg
+  - title: Interior
+    image_path: /assets/images/wrx-interior.jpg
+  - title: Engine Bay
+    image_path: /assets/images/wrx-engine-bay-1.jpg
 search_engine_optimization:
   page_title: Test page
   page_description: Test description
@@ -20,7 +20,16 @@ _comments:
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px.
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
+2004 WRX Partout
 
-Coming soon.
+\-Running/Driving 04 wrx, 5sp, has hail damage as seen in pics.  Perfect candidate/donor for a turbo swap.
+
+&nbsp;
+
+Parts SOLD:
+
+\-Front Seats
