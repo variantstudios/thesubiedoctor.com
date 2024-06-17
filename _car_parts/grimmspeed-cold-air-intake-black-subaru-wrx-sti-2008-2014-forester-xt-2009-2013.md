@@ -1,13 +1,17 @@
 ---
-title: GC/GF Impreza Carbon Fiber Trim, 5sp (OEM)
+title: >-
+  GrimmSpeed Cold Air Intake Black Subaru WRX / STI 2008-2014 / Forester XT
+  2009-2013
 post_date: 2024-06-17 00:00:00
 inventory_option: for_sale
-sku: GC Carbon Fiber Trim
-price: $350
+sku: GS Intake
+price: $250
 disclaimer:
 photos:
-  - title: HVAC/Stereo Trim, 5sp Shifter Surround, Upper Vent
-    image_path: /assets/images/gc-carbonfiber-trim.jpg
+  - title:
+    image_path: /assets/images/gs-intake2.jpg
+  - title:
+    image_path: /assets/images/gs-intake.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -21,6 +25,10 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-98-01 GC/GF OEM Carbon Fiber Trim Kit (Used)
+&nbsp;
 
-\-Includes HVAC/Stereo surround, 5sp shifter surround, upper vents
+**GrimmSpeed Cold Air Intake Black Subaru WRX / STI 2008-2014 / Forester XT 2009-2013**
+
+\-Used
+
+&nbsp;
