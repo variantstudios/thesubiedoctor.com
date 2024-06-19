@@ -25,9 +25,7 @@ _comments:
 ---
 Used Mishimoto Aluminum Radiator
 
-08-14 WRX, 08+ STi, 09-13 Forester, may fit other models (up to buyer to confirm fitment for their own car)
-
-$220
+08-14 WRX, 08+ STi, 09-13 Forester, may fit other models
 
 \*Buyer is responsible for confirming their own fitment
 
