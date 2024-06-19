@@ -4,7 +4,7 @@ post_date: 2024-06-17 00:00:00
 inventory_option: for_sale
 sku: GC Carbon Fiber Trim
 price: $350
-disclaimer: '*Buyer is responsible for confirming their own fitment'
+disclaimer:
 photos:
   - title: HVAC/Stereo Trim, 5sp Shifter Surround, Upper Vent
     image_path: /assets/images/gc-carbonfiber-trim.jpg
@@ -24,3 +24,5 @@ _comments:
 98-01 GC/GF OEM Carbon Fiber Trim Kit (Used)
 
 \-Includes HVAC/Stereo surround, 5sp shifter surround, upper vents
+
+\*Buyer is responsible for confirming their own fitment

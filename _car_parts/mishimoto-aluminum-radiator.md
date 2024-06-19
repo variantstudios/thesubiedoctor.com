@@ -4,11 +4,11 @@ post_date: 2024-06-19 00:00:00
 inventory_option: for_sale
 sku: UP.mish.rad
 price: $220
-disclaimer: '*Buyer is responsible for confirming their own fitment'
+disclaimer:
 photos:
-  - title:
+  - title: Front side
     image_path: /assets/images/mish-rad.jpg
-  - title:
+  - title: Back side
     image_path: /assets/images/mish-rad1.jpg
 search_engine_optimization:
   page_title:
@@ -29,4 +29,6 @@ Used Mishimoto Aluminum Radiator
 
 $220
 
-#
+\*Buyer is responsible for confirming their own fitment
+
+&nbsp;

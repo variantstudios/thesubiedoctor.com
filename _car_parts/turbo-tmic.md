@@ -4,7 +4,7 @@ post_date: 2024-06-19 00:00:00
 inventory_option: for_sale
 sku: UP.TMIC
 price: $80-350
-disclaimer: '*Buyer is responsible for confirming their own fitment'
+disclaimer:
 photos:
   - title:
     image_path: /assets/images/used-tmic.jpg
@@ -35,6 +35,4 @@ Used Turbo TMIC ranging from WRX, LGT, FXT, OBXT, STi
 
 \-Used OEM STi: $350
 
-&nbsp;
-
-&nbsp;
+&nbsp;&nbsp;\*Buyer is responsible for confirming their own fitment

@@ -6,7 +6,7 @@ post_date: 2024-06-17 00:00:00
 inventory_option: for_sale
 sku: GS Intake
 price: $250
-disclaimer: '*Buyer is responsible for confirming their own fitment'
+disclaimer: '*Buyer is responsibe for confirming their own fitment'
 photos:
   - title:
     image_path: /assets/images/gs-intake2.jpg
@@ -31,4 +31,4 @@ _comments:
 
 \-Used
 
-&nbsp;
+&nbsp;\*Buyer is responsible for confirming their own fitment
