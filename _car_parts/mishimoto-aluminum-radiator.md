@@ -1,13 +1,15 @@
 ---
-title: GC/GF Impreza Carbon Fiber Trim, 5sp (OEM)
-post_date: 2024-06-17 00:00:00
+title: Mishimoto Aluminum Radiator
+post_date: 2024-06-19 00:00:00
 inventory_option: for_sale
-sku: GC Carbon Fiber Trim
-price: $350
+sku: UP.mish.rad
+price: $220
 disclaimer: '*Buyer is responsible for confirming their own fitment'
 photos:
-  - title: HVAC/Stereo Trim, 5sp Shifter Surround, Upper Vent
-    image_path: /assets/images/gc-carbonfiber-trim.jpg
+  - title:
+    image_path: /assets/images/mish-rad.jpg
+  - title:
+    image_path: /assets/images/mish-rad1.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -21,6 +23,10 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-98-01 GC/GF OEM Carbon Fiber Trim Kit (Used)
+Used Mishimoto Aluminum Radiator
 
-\-Includes HVAC/Stereo surround, 5sp shifter surround, upper vents
+08-14 WRX, 08+ STi, 09-13 Forester, may fit other models (up to buyer to confirm fitment for their own car)
+
+$220
+
+#
