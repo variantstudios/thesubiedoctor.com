@@ -1047,6 +1047,7 @@ main, header, footer, section, aside {
   background: no-repeat center center;
   background-size: cover;
   overflow: hidden;
+  height: 320px;
 }
 @media (min-width: 50em) {
   .preface {
@@ -1119,7 +1120,7 @@ main, header, footer, section, aside {
 }
 .schedule-form .schedule-form .btn i {
   vertical-align: middle;
-  padding-left: .5em;
+  padding-left: 0.5em;
 }
 
 .flipped .phase-one {
@@ -1164,7 +1165,7 @@ main, header, footer, section, aside {
   cursor: pointer;
 }
 .schedule-form .back-up i {
-  margin-right: .5em;
+  margin-right: 0.5em;
 }
 .schedule-form .g-recaptcha {
   margin-top: 1rem;
@@ -1239,7 +1240,7 @@ main, header, footer, section, aside {
 .front .cols .col-2 {
   margin: 2em 0;
 }
-@media (min-width: 75em) {
+@media (min-width: 50em) {
   .front .cols .col-2 {
     margin: 0 3%;
     -webkit-box-flex: 1;
