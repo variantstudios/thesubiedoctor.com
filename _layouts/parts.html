@@ -3,8 +3,9 @@ layout: page
 ---
 <section class="cars-preface">{{ page.content }}</section>
 <section class="cars-wrapper">
-  {% assign parts = site.car_parts | sort: 'post_date' | reverse %}
-  {% for part in parts %}
+  {% assign parts = site.car_parts | sort: 'post_date' %}
+  {% assign sorted_parts = parts | sort: 'post_date' | reverse %}
+  {% for part in sorted_parts %}
   <div class="car-item clearfix">
     <div class="car-item--image">
 
@@ -14,7 +15,6 @@ layout: page
         <div class="price">{{ part.price }}</div>
       </a>
       {% endif %}
-
 
       {% if part.inventory_option == 'coming' %}
       <a href="{{ part.url }}">

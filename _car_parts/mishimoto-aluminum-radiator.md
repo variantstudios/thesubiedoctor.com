@@ -23,10 +23,9 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+
 Used Mishimoto Aluminum Radiator
 
 08-14 WRX, 08+ STi, 09-13 Forester, may fit other models
 
 \*Buyer is responsible for confirming their own fitment
-
-&nbsp;
