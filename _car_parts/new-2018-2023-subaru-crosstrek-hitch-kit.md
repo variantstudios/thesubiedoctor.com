@@ -3,7 +3,7 @@ title: 'New 2018-2023 Subaru Crosstrek Hitch Kit '
 post_date: 2024-08-30 00:00:00
 inventory_option: for_sale
 sku: Crosstrek Hitch Kit w/Wiring
-price: '350'
+price: $350
 disclaimer:
 photos:
   - title:
