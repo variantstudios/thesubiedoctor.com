@@ -31,3 +31,18 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+Rebuilt Cylinder Heads, all locally rebuilt at Area Machine Shop here in Denver
+
+B25 Heads: $1600
+
+S20 Heads (2 sets): $1500, $1000 (old green paint on them)
+
+T25 Heads: $1000
+
+Q25 Heads: $1000
+
+FA20T WRX Heads: $1800
+
+&nbsp;
+
+&nbsp;
