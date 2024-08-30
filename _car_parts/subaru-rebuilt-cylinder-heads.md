@@ -3,7 +3,7 @@ title: Subaru Rebuilt Cylinder Heads
 post_date: 2024-08-30 00:00:00
 inventory_option: for_sale
 sku: Subaru Head Sets
-price: Posted in ad
+price: Price posted in ad and pictures
 disclaimer:
 photos:
   - title: 'B25 Heads: $1600'
