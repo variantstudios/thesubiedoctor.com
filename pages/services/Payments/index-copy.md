@@ -18,9 +18,9 @@ _comments:
 ---
 # PAYMENTS
 
-#### Cash or Certified Funds:<br>We accept cash, check, cashier’s check and money order. &nbsp;We offer a 1% discount for repairs paid with cash.&nbsp;<br><br>Credit Card or Debit Card:<br>We accept VISA, MC, AMEX and Discover up to $5000 MAX (credit or debit) per invoice, anything over $5000 will be subject to a 3% transaction fee.
+#### Cash or Certified Funds:<br>We accept cash, check, cashier’s check and money order. &nbsp;<br><br>Credit Card or Debit Card:<br>We accept VISA, MC, AMEX and Discover cards. The Subie Doctor imposes a 3% fee for credit card convenience fees or paypal fees. Checks, cash and debit cards are not assessed a fee. The Subie Doctor does offer a 2% discount if paying with cash.
 
-#### \-Ex. If your invoice is $6000, and you'd like to use a credit or debit card, then $1000 of that amount will be subject to a 3% fee, $30 in this example.<br>
+#### <br>
 
 ### &nbsp;
 
