@@ -18,7 +18,7 @@ _comments:
 ---
 # PAYMENTS
 
-#### Cash or Certified Funds:<br>We accept cash, check, cashier’s check and money order. &nbsp;<br><br>Credit Card or Debit Card:<br>We accept VISA, MC, AMEX and Discover cards. The Subie Doctor imposes a 3% fee for credit card convenience fees or paypal fees. Checks, cash and debit cards are not assessed a fee. The Subie Doctor does offer a 2% discount if paying with cash.
+#### Cash or Certified Funds:<br>\-We accept cash, check, cashier’s check and money order. &nbsp;<br><br>Credit Card or Debit Card:<br>\-We accept VISA, MC, AMEX and Discover cards. The Subie Doctor imposes a 3% fee for credit card convenience fees or paypal fees. Checks, cash and debit cards are not assessed a fee. The Subie Doctor does offer a 2% discount if paying with cash.
 
 #### <br>
 
@@ -28,6 +28,8 @@ _comments:
 
 ### The Subie Doctor understands repairs aren’t always planned.  Here we offer financing repairs through DigniFi.  You can apply for free and it only takes a couple minutes to see if you qualify for a monthly payment plan:
 
+**\*\*\* A fee of 5% of the financed amount will be added to repair invoice**
+
 [![](/assets/images/webbanner-970x250-billboard.jpg){: width="970" height="250"}](https://app.dignifi.com/campaigns/845?d_id=6926&amp;utm_campaign=845-independent-partner&amp;utm_source=thesubiedoctor.com&amp;utm_medium=web&amp;utm_content=banner-d6926){: target="_blank" rel="noopener"}
 
-\* A fee of 5% of the financed amount will be added to repair invoice
+&nbsp;
