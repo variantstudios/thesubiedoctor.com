@@ -1,7 +1,7 @@
 ---
 title: Grimmspeed TMIC Air Splitters
 post_date: 2024-11-19 00:00:00
-inventory_option:
+inventory_option: for_sale
 sku: GS.splitter
 price: $150
 disclaimer:
