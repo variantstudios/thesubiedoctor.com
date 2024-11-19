@@ -6,10 +6,8 @@ sku: GS.splitter
 price: $150
 disclaimer:
 photos:
-  - title: FXT
-    image_path: /assets/images/img-8024.jpeg
-  - title: WRX
-    image_path: /assets/images/img-8028.jpeg
+  - title:
+    image_path: /assets/images/img-8028-1.jpeg
 search_engine_optimization:
   page_title:
   page_description:
