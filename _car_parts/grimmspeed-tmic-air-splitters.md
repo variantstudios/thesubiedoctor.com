@@ -3,7 +3,7 @@ title: Grimmspeed TMIC Air Splitters
 post_date: 2024-11-19 00:00:00
 inventory_option:
 sku: GS.splitter
-price: $150 each
+price: $150
 disclaimer:
 photos:
   - title: FXT
@@ -26,6 +26,8 @@ _comments:
     at least 600 x 315px.
 ---
 Grimmspeed TMIC Air Splitters
+
+$150 per
 
 &nbsp;
 
