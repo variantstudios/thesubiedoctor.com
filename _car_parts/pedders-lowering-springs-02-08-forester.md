@@ -1,15 +1,13 @@
 ---
-title: Pedders Lowering Springs (02-08 Forester)
+title: COBB SF Intake w/Box
 post_date: 2024-08-30 00:00:00
 inventory_option: for_sale
-sku: Pedders Lowering Springs
-price: $250
+sku: Cobb.intake
+price: $300
 disclaimer:
 photos:
   - title:
-    image_path: /assets/images/img-6777.jpeg
-  - title:
-    image_path: /assets/images/img-6779.png
+    image_path: /assets/images/img-8021.jpeg
 search_engine_optimization:
   page_title:
   page_description:
@@ -23,10 +21,10 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-Pedders Lowering Springs for 02-08 Forester Fitment. 2” lowering springs, brand new in box.
+Used COBB SF Intake with Box
 
 &nbsp;
 
-List: $250
+List: $300
 
-MSRP: $350
+MSRP: $475
