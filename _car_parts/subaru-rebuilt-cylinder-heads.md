@@ -6,8 +6,6 @@ sku: Subaru Head Sets
 price: Price posted in ad and pictures
 disclaimer:
 photos:
-  - title: 'B25 Heads: $1600'
-    image_path: /assets/images/img-6780.jpeg
   - title: 'S20 Heads: $1500 '
     image_path: /assets/images/img-6782.jpeg
   - title: 'S20 Heads: $1000 (old green paint on exterior)'
@@ -33,7 +31,7 @@ _comments:
 ---
 Rebuilt Cylinder Heads, all locally rebuilt at Area Machine Shop here in Denver
 
-B25 Heads: $1600
+B25 Heads: $sold
 
 S20 Heads (2 sets): $1500, $1000 (old green paint on them)
 
