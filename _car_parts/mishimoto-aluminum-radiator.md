@@ -1,15 +1,15 @@
 ---
-title: Mishimoto Aluminum Radiator
+title: Rev9 Metal TMIC
 post_date: 2024-06-19 00:00:00
 inventory_option: for_sale
-sku: UP.mish.rad
+sku: UP.rev9
 price: $220
 disclaimer:
 photos:
-  - title: Front side
-    image_path: /assets/images/mish-rad.jpg
-  - title: Back side
-    image_path: /assets/images/mish-rad1.jpg
+  - title: ''
+    image_path: /assets/images/img-8018.jpeg
+  - title: ''
+    image_path: /assets/images/img-8019.jpeg
 search_engine_optimization:
   page_title:
   page_description:
@@ -23,9 +23,8 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
+Used Rev9 Metal TMIC
 
-Used Mishimoto Aluminum Radiator
-
-08-14 WRX, 08+ STi, 09-13 Forester, may fit other models
+08-14 WRX, 09-13 Forester, 05-08 OBXT/LGT
 
 \*Buyer is responsible for confirming their own fitment
