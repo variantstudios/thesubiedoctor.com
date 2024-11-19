@@ -8,8 +8,6 @@ disclaimer:
 photos:
   - title: FXT
     image_path: /assets/images/img-8024.jpeg
-  - title: FXT
-    image_path: /assets/images/img-8025.jpeg
   - title: WRX
     image_path: /assets/images/img-8028.jpeg
 search_engine_optimization:
