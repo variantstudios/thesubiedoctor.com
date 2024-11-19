@@ -1,6 +1,6 @@
 ---
 title: 04 WRX Part Out
-post_date: 2018-05-08 00:00:00
+post_date: 2024-11-19 00:00:00
 inventory_option: for_sale
 sku: 1
 price: Ask Pricing
