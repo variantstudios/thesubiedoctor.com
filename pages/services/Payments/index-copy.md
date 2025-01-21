@@ -28,8 +28,8 @@ _comments:
 
 ### The Subie Doctor understands repairs aren’t always planned.  Here we offer financing repairs through DigniFi.  You can apply for free and it only takes a couple minutes to see if you qualify for a monthly payment plan:
 
-**\*\*\* A fee of 5% of the financed amount will be added to repair invoice**
+**\*\*\* The Subie Doctor charges a 5% fee of the financed amount that is added to the repair invoice.**
 
-[![](/assets/images/webbanner-970x250-billboard.jpg){: width="970" height="250"}](https://app.dignifi.com/campaigns/845?d_id=6926&amp;utm_campaign=845-independent-partner&amp;utm_source=thesubiedoctor.com&amp;utm_medium=web&amp;utm_content=banner-d6926){: target="_blank" rel="noopener"}
+[![](<img%20src=&quot;https://cdn.dignifi.com/prequal-widget/banners/DigniFi_WebBanner_RW_AU01_1900x514.jpg&quot;%20style=&quot;cursor:pointer&quot;></a>){: width="1024" height="264"}](https://app.dignifi.com/landing?utm_medium=Web&amp;utm_source=merchant-banner&amp;utm_campaign=web-resources&amp;utm_content=DigniFi_WebBanner_RW_AU01_1900x514&amp;merchant_id=23921){: target="_blank" rel="noopener"}
 
 &nbsp;
