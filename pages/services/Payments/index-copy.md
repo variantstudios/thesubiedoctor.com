@@ -30,4 +30,4 @@ _comments:
 
 **\*\*\* The Subie Doctor charges a 5% fee of the financed amount that is added to the repair invoice.**
 
-\[![](/assets/images/webbanner-970x250-billboard.jpg){: width="1024" height="264"}\][<u>https://app.dignifi.com/landing?utm_medium=Web&amp;utm_source=merchant-banner&amp;utm_campaign=web-resources&amp;utm_content=DigniFi_WebBanner_RW_AU01_728x90&amp;merchant_id=</u>](https://app.dignifi.com/landing?utm_medium=Web&amp;utm_source=merchant-banner&amp;utm_campaign=web-resources&amp;utm_content=DigniFi_WebBanner_RW_AU01_728x90&amp;merchant_id=24300 "https://app.dignifi.com/landing?utm_medium=Web&amp;utm_source=merchant-banner&amp;utm_campaign=web-resources&amp;utm_content=DigniFi_WebBanner_RW_AU01_728x90&amp;merchant_id=24300"){: target="_blank" rel="noopener"}<u>23921</u>
+\[{% link https://app.dignifi.com/landing?utm_medium=Web&utm_source=merchant-banner&utm_campaign=web-resources&utm_content=DigniFi_WebBanner_RW_AU01_728x90&merchant_id=23921 %}\]
