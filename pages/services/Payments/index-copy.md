@@ -30,6 +30,6 @@ _comments:
 
 **\*\*\* The Subie Doctor charges a 5% fee of the financed amount that is added to the repair invoice.**
 
-[![](<img%20src=&quot;https://cdn.dignifi.com/prequal-widget/banners/DigniFi_WebBanner_RW_AU01_1900x514.jpg&quot;%20style=&quot;cursor:pointer&quot;></a>){: width="1024" height="264"}](https://app.dignifi.com/landing?utm_medium=Web&amp;utm_source=merchant-banner&amp;utm_campaign=web-resources&amp;utm_content=DigniFi_WebBanner_RW_AU01_1900x514&amp;merchant_id=23921){: target="_blank" rel="noopener"}
+&lt;a href="[<u>https://app.dignifi.com/landing?utm_medium=Web&amp;utm_source=merchant-banner&amp;utm_campaign=web-resources&amp;utm_content=DigniFi_WebBanner_RW_AU01_728x90&amp;merchant_id=</u>](https://app.dignifi.com/landing?utm_medium=Web&amp;utm_source=merchant-banner&amp;utm_campaign=web-resources&amp;utm_content=DigniFi_WebBanner_RW_AU01_728x90&amp;merchant_id=24300 "https://app.dignifi.com/landing?utm_medium=Web&amp;utm_source=merchant-banner&amp;utm_campaign=web-resources&amp;utm_content=DigniFi_WebBanner_RW_AU01_728x90&amp;merchant_id=24300"){: target="_blank" rel="noopener"}<u>23921</u>"&gt;&lt;img src="[<u>https://cdn.dignifi.com/prequal-widget/banners/DigniFi_WebBanner_RW_AU01_728x90.jpg</u>](https://cdn.dignifi.com/prequal-widget/banners/DigniFi_WebBanner_RW_AU01_728x90.jpg "https://cdn.dignifi.com/prequal-widget/banners/DigniFi_WebBanner_RW_AU01_728x90.jpg"){: target="_blank" rel="noopener"}" style="cursor:pointer"&gt;&lt;/a&gt;
 
 &nbsp;
